@@ -1,0 +1,43 @@
+# Profile LightRAG cho Hồi sức cấp cứu. stats.py đọc loại thực thể ("- `x`:") và loại quan hệ ("  - `x`:") từ guidance.
+entity_types_guidance: |
+  Loại thực thể (trường `type`), chọn đúng 1 mã:
+  - `benh`: bệnh, hội chứng, tình trạng (vd suy hô hấp cấp, ARDS, sốc nhiễm khuẩn)
+  - `trieu_chung`: triệu chứng, dấu hiệu lâm sàng (vd tím môi, thở nhanh, co kéo cơ hô hấp)
+  - `xet_nghiem`: xét nghiệm, chẩn đoán hình ảnh, thang điểm (vd khí máu động mạch, X quang phổi, SOFA)
+  - `thuoc`: thuốc, dịch truyền (vd noradrenalin, heparin, NaCl 0,9%)
+  - `thu_thuat`: thủ thuật, kỹ thuật, chế độ máy (vd thở máy, lọc máu liên tục, PEEP)
+  - `nguyen_nhan`: nguyên nhân, tác nhân (vd cúm A H1N1, viêm phổi, ngộ độc)
+  - `yeu_to_nguy_co`: yếu tố nguy cơ, bệnh nền (vd COPD, tuổi cao, suy giảm miễn dịch)
+  - `bien_chung`: biến chứng, hậu quả (vd tràn khí màng phổi, suy đa tạng)
+  - `chi_so`: chỉ số, ngưỡng, giá trị (vd PaO2/FiO2 < 200, SpO2 < 90%)
+  - `doi_tuong`: nhóm người bệnh, điều kiện (vd người bệnh thở máy, phụ nữ có thai)
+  Không có loại phù hợp thì dùng `khac`.
+
+  Quy tắc bắt buộc:
+  - `name` là cụm từ xuất hiện nguyên văn trong văn bản đầu vào. Giữ tiếng Việt, không dịch, không diễn giải, không viết hoa lại.
+  - `keywords` của quan hệ bắt đầu bằng đúng 1 mã quan hệ dưới đây, sau đó là từ khoá tự do, cách nhau dấu phẩy:
+    - `dieu_tri`: thuốc/thủ thuật -> bệnh/triệu chứng
+    - `trieu_chung_cua`: triệu chứng -> bệnh
+    - `chan_doan_bang`: bệnh -> xét nghiệm
+    - `nguyen_nhan_cua`: nguyên nhân -> bệnh
+    - `bien_chung_cua`: biến chứng -> bệnh/thủ thuật
+    - `yeu_to_nguy_co_cua`: yếu tố nguy cơ -> bệnh
+    - `chong_chi_dinh`: thuốc/thủ thuật -> bệnh/đối tượng
+    - `nguong_cua`: chỉ số -> bệnh/xét nghiệm/thủ thuật
+    - `phong_ngua`: thuốc/thủ thuật -> bệnh/biến chứng
+    - `phan_biet_voi`: bệnh -> bệnh cần chẩn đoán phân biệt
+  - `description` 1 câu tiếng Việt, chỉ dựa vào văn bản đầu vào.
+
+# Chỉ là khuôn: LightRAG 1.5.7 đặt mục này dưới "Output Format Template ... never source text".
+# Ví dụ y khoa thật (ARDS, PEEP) dễ bị SLM chép sang chunk khác, prune theo nút không bắt được.
+entity_extraction_json_examples:
+  - |
+    {
+      "entities": [
+        {"name": "<cụm từ nguyên văn trong văn bản>", "type": "<mã loại, vd benh>", "description": "<1 câu tiếng Việt>"},
+        {"name": "<cụm từ nguyên văn khác>", "type": "<mã loại, vd thu_thuat>", "description": "<1 câu tiếng Việt>"}
+      ],
+      "relationships": [
+        {"source": "<name thực thể thứ 2>", "target": "<name thực thể thứ 1>", "keywords": "<mã quan hệ, vd dieu_tri>, <từ khoá tự do>", "description": "<1 câu tiếng Việt>"}
+      ]
+    }

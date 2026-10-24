@@ -1,0 +1,8 @@
+.pixi/
+.venv/
+__pycache__/
+*.pyc
+.env
+kg/
+data/work/
+*.log

@@ -1,0 +1,55 @@
+[workspace]
+name = "kg-textbooks"
+channels = ["conda-forge"]
+platforms = [{ name = "linux-64-cuda", platform = "linux-64", cuda = "12" }]
+requires-pixi = ">=0.81"
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+lightrag-hku = { version = "==1.5.7", extras = ["api"] }
+ollama = ">=0.5.4,<1"
+pymupdf = "==1.28.2"
+networkx = "*"
+pyyaml = "*"
+
+[tasks.parse]
+description = "pdf -> data/md/<doc>/NN-slug.md (deterministic)"
+args = [{ arg = "doc", default = "byt_capcuu_coban_2014" }, { arg = "profile", default = "capcuu" }]
+cmd = "python scripts/parse_pdf.py data/raw/{{ doc }}.pdf data/md/{{ doc }} --profile {{ profile }} --clean"
+
+[tasks.pilot]
+description = "bài 01-03 -> kg/pilot + stats"
+args = [{ arg = "doc", default = "byt_capcuu_coban_2014" }]
+cmd = "python scripts/index.py --md data/md/{{ doc }} --kg kg/pilot --only 01,02,03 && python scripts/stats.py kg/pilot"
+
+[tasks.index]
+description = "full -> kg/<doc>, chạy lại = resume"
+args = [{ arg = "doc", default = "byt_capcuu_coban_2014" }]
+cmd = "python scripts/index.py --md data/md/{{ doc }} --kg kg/{{ doc }} && python scripts/stats.py kg/{{ doc }}"
+
+[tasks.serve]
+description = "WebUI 127.0.0.1:9621, đọc .env"
+args = [{ arg = "kg", default = "kg/byt_capcuu_coban_2014" }]
+cmd = "lightrag-server --working-dir {{ kg }}"
+
+[tasks.clean-kg]
+description = "xoá working dir (đổi prompt/schema => bắt buộc)"
+args = ["kg"]
+cmd = "rm -rf {{ kg }}"
+
+[feature.ollama.dependencies]
+ollama = { version = "==0.32.15", build = "cuda_129*" }
+
+[feature.ollama.tasks.ollama-serve]
+description = "chạy trong tmux; VRAM ≈ 4.2GB, màn hình dùng GPU rời thì NUM_PARALLEL=2"
+cmd = "ollama serve"
+env = { OLLAMA_HOST = "127.0.0.1:11434", OLLAMA_NUM_PARALLEL = "3", OLLAMA_FLASH_ATTENTION = "1", OLLAMA_KV_CACHE_TYPE = "q8_0", OLLAMA_KEEP_ALIVE = "-1" }
+
+[feature.ollama.tasks.ollama-pull]
+description = "cần ollama-serve đang chạy; model có rồi thì chỉ kiểm manifest"
+cmd = "ollama pull qwen3:4b-instruct-2507-q4_K_M && ollama pull bge-m3"
+
+[environments]
+ollama = { features = ["ollama"], no-default-feature = true }

@@ -14,7 +14,10 @@ entity_types_guidance: |
   Không có loại phù hợp thì dùng `khac`.
 
   Quy tắc bắt buộc:
-  - `name` là cụm từ xuất hiện nguyên văn trong văn bản đầu vào. Giữ tiếng Việt, không dịch, không diễn giải, không viết hoa lại.
+  - `name` là cụm từ xuất hiện nguyên văn trong văn bản, viết thường toàn bộ (quy tắc này thắng mọi hướng dẫn "title case" ở trên), trừ ký hiệu/viết tắt giữ nguyên: PaO2, SpO2, ARDS, CT, NaCl, ABC, PEEP.
+  - `name` dài 1 đến 6 từ, là danh từ/cụm danh từ. Không lấy: câu đầy đủ, mục tiêu học tập ("1. Trình bày được..."), tiêu đề mục/bảng ("3.6. Đụng dập phổi", "Bảng 1:"), số đo đứng một mình ("1 giờ", "95%", "120 ml"). Số đo chỉ xuất hiện trong `chi_so` kèm tên chỉ số ("SpO2 < 90%", "Glasgow 3 - 8 điểm").
+  - Mỗi entity phải có ít nhất 1 relationship. Ít entity nhiều quan hệ tốt hơn nhiều entity rời.
+  - `type` phải là đúng 1 mã trong danh sách, chép nguyên văn (không tự tạo mã mới, không bỏ dấu gạch dưới).
   - `keywords` của quan hệ bắt đầu bằng đúng 1 mã quan hệ dưới đây, sau đó là từ khoá tự do, cách nhau dấu phẩy:
     - `dieu_tri`: thuốc/thủ thuật -> bệnh/triệu chứng
     - `trieu_chung_cua`: triệu chứng -> bệnh
@@ -34,7 +37,7 @@ entity_extraction_json_examples:
   - |
     {
       "entities": [
-        {"name": "<cụm từ nguyên văn trong văn bản>", "type": "<mã loại, vd benh>", "description": "<1 câu tiếng Việt>"},
+        {"name": "<cụm từ nguyên văn, viết thường>", "type": "<mã loại, vd benh>", "description": "<1 câu tiếng Việt>"},
         {"name": "<cụm từ nguyên văn khác>", "type": "<mã loại, vd thu_thuat>", "description": "<1 câu tiếng Việt>"}
       ],
       "relationships": [

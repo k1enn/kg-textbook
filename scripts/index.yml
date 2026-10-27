@@ -1,0 +1,15 @@
+# LightRAG kwargs cho scripts/index.py, truyền thẳng vào LightRAG(**cfg)
+llm_model_kwargs:
+  timeout: 600
+  options: {num_ctx: 12288, num_predict: 6000, temperature: 0.2, top_p: 0.8, top_k: 20}
+llm_model_max_async: 3
+default_llm_timeout: 600  # worker cắt ở 2x giá trị này, mặc định 240 -> 480s
+max_parallel_insert: 1
+chunk_token_size: 700
+chunk_overlap_token_size: 80
+entity_extract_max_gleaning: 1
+entity_extraction_use_json: true
+entity_extract_max_records: 25
+entity_extract_max_entities: 12
+force_llm_summary_on_merge: 20
+addon_params: {language: Vietnamese, entity_type_prompt_file: hscc_vi.yml}

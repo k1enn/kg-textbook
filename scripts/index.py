@@ -9,27 +9,20 @@ from lightrag.utils import normalize_entity_name
 from lightrag.utils_graph import adelete_by_entity
 
 
+CFG = yaml.safe_load(pathlib.Path(__file__).with_suffix(".yml").read_text(encoding="utf-8"))
+
+
 def build(kg, llm):
     return LightRAG(
         working_dir=kg,
         llm_model_func=ollama_model_complete,
         llm_model_name=llm,
-        llm_model_kwargs={"timeout": 600, "options": {
-            "num_ctx": 12288, "num_predict": 6000, "temperature": 0.2, "top_p": 0.8, "top_k": 20}},
-        llm_model_max_async=3,
-        default_llm_timeout=600,  # worker cắt ở 2x giá trị này, mặc định 240 -> 480s
-        max_parallel_insert=1,
-        chunk_token_size=700, chunk_overlap_token_size=80,
-        entity_extract_max_gleaning=1,
-        entity_extraction_use_json=True,
-        entity_extract_max_records=25, entity_extract_max_entities=12,
-        force_llm_summary_on_merge=20,
-        addon_params={"language": "Vietnamese", "entity_type_prompt_file": "hscc_vi.yml"},
         embedding_func=ollama_embed,  # bge-m3:latest, 1024 chiều
+        **CFG,
     )
 
 
-GUIDE = yaml.safe_load(open("prompts/entity_type/hscc_vi.yml", encoding="utf-8"))["entity_types_guidance"]
+GUIDE = yaml.safe_load(open("prompts/entity_type/" + CFG["addon_params"]["entity_type_prompt_file"], encoding="utf-8"))["entity_types_guidance"]
 TYPES = set(re.findall(r"^- `(\w+)`:", GUIDE, re.M)) | {"khac"}
 UNIT = re.compile(r"^[\d\s,.<>≥≤\-–/%]+(giờ|phút|giây|ngày|ml|lít|l|mmhg|tuổi|điểm|%|kg|mg|g|cm|mm)?$", re.I)  # "1 giờ", "95%"
 OBJ = re.compile(r"^\d+(\.\d+)+\.?\s|^\d+\.\s")  # "1. Trình bày", "3.6. Đụng dập"; không bắt "5 bước ABCDE"

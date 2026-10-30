@@ -34,6 +34,11 @@ description = "WebUI 127.0.0.1:9621, đọc .env"
 args = [{ arg = "kg", default = "kg/byt_capcuu_coban_2014" }]
 cmd = "lightrag-server --working-dir {{ kg }}"
 
+[tasks.bench]
+description = "so 2 kg dir, --retrieval cần ollama bge-m3"
+args = [{ arg = "a" }, { arg = "b" }, { arg = "extra", default = "" }]
+cmd = "python scripts/bench.py {{ a }} {{ b }} {{ extra }}"
+
 [tasks.clean-kg]
 description = "xoá working dir (đổi prompt/schema => bắt buộc)"
 args = ["kg"]

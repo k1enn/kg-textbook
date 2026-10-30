@@ -10,6 +10,6 @@ chunk_overlap_token_size: 80
 entity_extract_max_gleaning: 1
 entity_extraction_use_json: true
 entity_extract_max_records: 25
-entity_extract_max_entities: 12
+entity_extract_max_entities: 15
 force_llm_summary_on_merge: 20
 addon_params: {language: Vietnamese, entity_type_prompt_file: hscc_vi.yml}

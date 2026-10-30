@@ -36,9 +36,21 @@ def ascii_(s):  # NFD không tách "đ"; LLM hay bỏ gạch dưới
     return "".join(c for c in unicodedata.normalize("NFD", s) if not unicodedata.combining(c)).replace("đ", "d").replace("_", "")
 
 
-def bad_name(name, ntype):
+def bad_name(name):  # unknown: fix_type đã ép -> khac
     return (len(squash(name)) < 2 or len(name) > 60 or len(name.split()) > 8
-            or OBJ.match(name) or UNIT.match(name) or ntype.lower() == "unknown")
+            or OBJ.match(name) or UNIT.match(name))
+
+
+def repair(name, chunks):  # "khai_thong_duong_tho" -> "khai thông đường thở" nếu có nguyên văn trong chunk nguồn
+    words = name.replace("_", " ").split()
+    k = ascii_(squash(" ".join(words)))
+    for c in chunks:
+        toks = c.split()
+        for i in range(len(toks) - len(words) + 1):
+            w = " ".join(toks[i:i + len(words)]).strip(",.;:()*\"|[]#")
+            if ascii_(squash(w)) == k:
+                return normalize_entity_name(w.lower())
+    return None
 
 
 def fix_type(t):
@@ -49,7 +61,7 @@ def fix_type(t):
 
 
 async def prune(rag, kg):
-    """Hậu kỳ 4 bước, chỉ dùng API public, idempotent: xoá rác -> ép type -> gộp hoa thường -> xoá bậc 0.
+    """Hậu kỳ 3 bước, chỉ dùng API public, idempotent: xoá rác/sửa tên snake_case -> ép type -> gộp hoa thường.
     Thay kg_extraction_validator (mới có ở LightRAG 1.5.8); lên 1.5.8 thì chuyển sang hook đó."""
     g = rag.chunk_entity_relation_graph
 
@@ -59,14 +71,27 @@ async def prune(rag, kg):
     nodes = await g.get_all_nodes()
     src = {n["id"]: [c for c in n.get("source_id", "").split(GRAPH_FIELD_SEP) if c] for n in nodes}
     ids = sorted({c for cs in src.values() for c in cs})
-    text = {i: squash(c["content"]) for i, c in zip(ids, await rag.text_chunks.get_by_ids(ids)) if c}
-    bad = [n["id"] for n in nodes if bad_name(n["id"], n.get("entity_type", ""))
-           or not any(squash(n["id"]) in text.get(c, "") for c in src[n["id"]])]
-    for name in bad:
+    raw = {i: c["content"] for i, c in zip(ids, await rag.text_chunks.get_by_ids(ids)) if c}
+    text = {i: squash(c) for i, c in raw.items()}
+    bad, ren = [], []
+    for n in nodes:
+        name = n["id"]
+        if bad_name(name):
+            bad.append(name); continue
+        if any(squash(name) in text.get(c, "") for c in src[name]):
+            continue
+        new = repair(name, [raw[c] for c in src[name] if c in raw])
+        if not new or bad_name(new):
+            bad.append(name); continue
+        ren.append((name, new))
+    for name in bad:  # xoá trước, kẻo đích rename bị xoá sau khi gộp
         await drop(name)
-    logging.info("prune 1 xoá rác: %d/%d, vd %s", len(bad), len(nodes), sorted(bad)[:20])
+    for name, new in ren:
+        await rag.aedit_entity(name, {"entity_name": new}, allow_rename=True, allow_merge=True)  # trùng khác hoa thường: bước 3 gộp
+    fixed = [f"{new} <- {name}" for name, new in ren]
+    logging.info("prune 1 xoá %d sửa tên %d / %d, vd %s", len(bad), len(fixed), len(nodes), fixed[:10])
 
-    keep = [n for n in nodes if n["id"] not in set(bad)]
+    keep = await g.get_all_nodes()  # tên đã đổi/gộp
     retyped = 0
     for n in keep:
         new = fix_type(n.get("entity_type", ""))
@@ -88,15 +113,9 @@ async def prune(rag, kg):
         merged += [f"{target} <- {x}" for x in srcs]
     logging.info("prune 3 gộp: %d, vd %s", len(merged), merged[:20])
 
-    linked = {x for e in await g.get_all_edges() for x in (e["source"], e["target"])}
-    alone = [n["id"] for n in await g.get_all_nodes() if n["id"] not in linked]
-    for name in alone:
-        await drop(name)
-    logging.info("prune 4 bậc 0: %d, vd %s", len(alone), sorted(alone)[:20])
-
     log = pathlib.Path(kg, "pruned.json")
     old = json.loads(log.read_text(encoding="utf-8")) if log.exists() else []
-    log.write_text(json.dumps(sorted({*old, *bad, *merged, *alone}), ensure_ascii=False, indent=0), encoding="utf-8")
+    log.write_text(json.dumps(sorted({*old, *bad, *fixed, *merged}), ensure_ascii=False, indent=0), encoding="utf-8")
 
 
 async def main(a):

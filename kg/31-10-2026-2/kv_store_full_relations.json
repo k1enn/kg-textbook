@@ -1,0 +1,6446 @@
+{
+  "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu": {
+    "relation_pairs": [
+      [
+        "140% công suất",
+        "tính ưu tiên cấp cứu"
+      ],
+      [
+        "abcd",
+        "primary survey"
+      ],
+      [
+        "alteplase",
+        "tắc mạch não"
+      ],
+      [
+        "bạo lực",
+        "bệnh nhân"
+      ],
+      [
+        "bệnh nhân",
+        "bị lạm dụng"
+      ],
+      [
+        "bệnh nhân",
+        "dấu hiệu sống"
+      ],
+      [
+        "bệnh nhân",
+        "ký để ra sớm"
+      ],
+      [
+        "bệnh nhân",
+        "lang thang"
+      ],
+      [
+        "bệnh nhân",
+        "nghiện rượu"
+      ],
+      [
+        "bệnh nhân",
+        "nghiện thuốc"
+      ],
+      [
+        "bệnh nhân",
+        "rối loạn tâm thần"
+      ],
+      [
+        "bệnh nhân",
+        "thời gian vàng"
+      ],
+      [
+        "bệnh nhân",
+        "thời điểm nguy cơ cao"
+      ],
+      [
+        "bệnh nhân bị bỏ sót",
+        "quá tải"
+      ],
+      [
+        "bệnh nhân quay lại",
+        "chẩn đoán trước"
+      ],
+      [
+        "bệnh nhân quay lại",
+        "sai sót"
+      ],
+      [
+        "bệnh sử",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "bồi phụ thể tích",
+        "rối loạn kali máu"
+      ],
+      [
+        "bồi phụ thể tích",
+        "đặt đường truyền tĩnh mạch"
+      ],
+      [
+        "can thiệp lập lại tưới máu",
+        "vết thương động mạch"
+      ],
+      [
+        "chảy máu não",
+        "chẩn đoán quan trọng"
+      ],
+      [
+        "chấn thương gân hoặc thần kinh",
+        "chẩn đoán quan trọng"
+      ],
+      [
+        "chấn thương gân hoặc thần kinh",
+        "não"
+      ],
+      [
+        "chẩn đoán",
+        "ghi chép của tuyến trước"
+      ],
+      [
+        "chẩn đoán",
+        "ghi chép của y tá"
+      ],
+      [
+        "chẩn đoán",
+        "kiến thức"
+      ],
+      [
+        "chẩn đoán",
+        "nguyên tắc"
+      ],
+      [
+        "chẩn đoán",
+        "rối loạn/tổn thương nguy hiểm và"
+      ],
+      [
+        "chẩn đoán",
+        "tai mũi họng"
+      ],
+      [
+        "chẩn đoán",
+        "thông tin"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "chửa ngoài tử cung"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "nhồi máu cơ tim cấp"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "tắc động mạch phổi"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "tắc động/tĩnh mạch"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "viêm màng não"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "viêm ruột thừa"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "xoắn tinh hoàn"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "xuất huyết dưới nhện"
+      ],
+      [
+        "chẩn đoán đúng",
+        "suy nghĩ của người khác"
+      ],
+      [
+        "chọc màng phổi",
+        "rối loạn toan/kiềm máu nặng"
+      ],
+      [
+        "chửa ngoài tử cung",
+        "não"
+      ],
+      [
+        "cấp cứu",
+        "không cấp cứu"
+      ],
+      [
+        "cấp cứu",
+        "sinh dục"
+      ],
+      [
+        "cấp cứu",
+        "thực hành cấp cứu"
+      ],
+      [
+        "cấp cứu",
+        "tử vong nhanh chóng"
+      ],
+      [
+        "cấp cứu",
+        "xử trí"
+      ],
+      [
+        "cấp cứu trước khi đến viện",
+        "môi trường làm việc"
+      ],
+      [
+        "cầm máu",
+        "vết thương mạch máu"
+      ],
+      [
+        "dùng thuốc tiêu sợi huyết",
+        "hội chứng động mạch vành cấp"
+      ],
+      [
+        "dùng thuốc tiêu sợi huyết",
+        "tắc mạch não"
+      ],
+      [
+        "hạ",
+        "rối loạn toan/kiềm máu nặng"
+      ],
+      [
+        "hạ đường máu",
+        "rối loạn toan/kiềm máu nặng"
+      ],
+      [
+        "hồi sinh tim phổi",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "khai thông đường thở",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "kháng sinh đường tiêm",
+        "sốc nhiễm khuẩn"
+      ],
+      [
+        "kinh nghiệm",
+        "xử trí"
+      ],
+      [
+        "kiểm soát",
+        "loại trừ"
+      ],
+      [
+        "kiểm soát",
+        "xác định"
+      ],
+      [
+        "kỹ năng",
+        "xử trí"
+      ],
+      [
+        "liệt kê",
+        "tính toán"
+      ],
+      [
+        "liệt kê",
+        "xác định"
+      ],
+      [
+        "lưu theo dõi",
+        "quyết định cho vào viện"
+      ],
+      [
+        "môi trường làm việc",
+        "quyết định xử trí"
+      ],
+      [
+        "mắt",
+        "xử trí"
+      ],
+      [
+        "nguy kịch",
+        "thực hành cấp cứu"
+      ],
+      [
+        "nguy kịch",
+        "triage"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thời gian vàng"
+      ],
+      [
+        "nhiều lo lắng và dễ bị phân tâm",
+        "quyết định xử trí"
+      ],
+      [
+        "nhân viên y tế",
+        "triage"
+      ],
+      [
+        "nhân viên y tế",
+        "áp lực công việc"
+      ],
+      [
+        "não",
+        "viêm ruột thừa"
+      ],
+      [
+        "não",
+        "xoắn tinh hoàn"
+      ],
+      [
+        "phân loại bệnh nhân",
+        "tính ưu tiên cấp cứu"
+      ],
+      [
+        "primary survey",
+        "rối loạn toan/kiềm máu nặng"
+      ],
+      [
+        "quy trình, hướng dẫn xử trí",
+        "quyết định cho vào viện"
+      ],
+      [
+        "quyết định xử trí",
+        "đánh giá nhanh"
+      ],
+      [
+        "răng hàm mặt",
+        "thông tin"
+      ],
+      [
+        "rối loạn kali máu",
+        "rối loạn toan/kiềm máu nặng"
+      ],
+      [
+        "rối loạn toan/kiềm máu nặng",
+        "secondary survey"
+      ],
+      [
+        "rối loạn toan/kiềm máu nặng",
+        "thở ô xy"
+      ],
+      [
+        "rối loạn toan/kiềm máu nặng",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "rối loạn toan/kiềm máu nặng",
+        "vết thương mạch máu"
+      ],
+      [
+        "rối loạn/tổn thương nguy hiểm và",
+        "tiết niệu"
+      ],
+      [
+        "rối loạn/tổn thương nguy hiểm và",
+        "xử trí"
+      ],
+      [
+        "secondary survey",
+        "thăm khám"
+      ],
+      [
+        "thuốc đang dùng",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "thăm dò, xét nghiệm",
+        "xác định"
+      ],
+      [
+        "thăm khám",
+        "ổn định bệnh nhân"
+      ],
+      [
+        "thăm khám lâm sàng",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "thăm khám một",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "thực hành cấp cứu",
+        "đánh giá nhanh"
+      ],
+      [
+        "tiền sử",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "tính ưu tiên cấp cứu",
+        "xác nhận tử vong"
+      ],
+      [
+        "tập hợp các thông tin",
+        "xác định"
+      ],
+      [
+        "xác định",
+        "điều trị"
+      ],
+      [
+        "xét nghiệm nhanh",
+        "đánh giá đầy đủ các tổn thương"
+      ],
+      [
+        "đánh giá đầy đủ các tổn thương",
+        "đặt nkq"
+      ]
+    ],
+    "count": 97,
+    "create_time": 1793452662,
+    "update_time": 1793452662,
+    "_id": "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu"
+  },
+  "02-cac-ky-thuat-kiem-soat-duong-tho": {
+    "relation_pairs": [
+      [
+        "berman",
+        "canuyn miệng hầu"
+      ],
+      [
+        "bệnh nhân thở rõ",
+        "đánh giá hiệu quả"
+      ],
+      [
+        "bệnh nhân thở rõ",
+        "đường thở"
+      ],
+      [
+        "bệnh nhân tỉnh hơn",
+        "đánh giá hiệu quả"
+      ],
+      [
+        "bệnh nhân tỉnh hơn",
+        "đường thở"
+      ],
+      [
+        "canun",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "canuyn họng miệng",
+        "khai thông đường thở"
+      ],
+      [
+        "canuyn miệng hầu",
+        "guedel"
+      ],
+      [
+        "canuyn miệng hầu",
+        "đặt canuyn hầu"
+      ],
+      [
+        "canuyn mũi hầu",
+        "chấn thương khoang miệng"
+      ],
+      [
+        "canuyn mũi hầu",
+        "chấn thương xương hàm dưới"
+      ],
+      [
+        "canuyn mũi hầu",
+        "dị vật ở vùng mũi"
+      ],
+      [
+        "canuyn mũi hầu",
+        "trẻ nhỏ"
+      ],
+      [
+        "canuyn mũi hầu",
+        "tổn thương choán chỗ"
+      ],
+      [
+        "canuyn mũi hầu",
+        "đặt canuyn hầu"
+      ],
+      [
+        "chấn thương",
+        "khai thông đường thở"
+      ],
+      [
+        "chấn thương thanh quản",
+        "phù thanh quản"
+      ],
+      [
+        "chất bôi trơn canuyn",
+        "đặt canuyn hầu"
+      ],
+      [
+        "chọc",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "chọc",
+        "mở màng"
+      ],
+      [
+        "cuff",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "cung răng",
+        "đặt canuyn hầu"
+      ],
+      [
+        "cơ bản hỗ trợ các chức năng sống",
+        "đặt canuyn hầu"
+      ],
+      [
+        "cỡ số 4",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "dùng đèn soi thanh quản",
+        "lấy dị vật bằng kẹp margill"
+      ],
+      [
+        "dùng đèn soi thanh quản",
+        "mở khí quản qua màng nhẫn giáp"
+      ],
+      [
+        "dị vật",
+        "vỗ lưng và ép ngực"
+      ],
+      [
+        "heimlich",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "heimlich",
+        "ép bụng"
+      ],
+      [
+        "hình 13",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "hình 14",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "hô hấp nhân tạo",
+        "ép tim"
+      ],
+      [
+        "hô hấp nhân tạo",
+        "đánh giá hô hấp"
+      ],
+      [
+        "hầu thanh quản",
+        "khai thông đường thở"
+      ],
+      [
+        "khai thông đường thở",
+        "liệt dây thanh âm hai bên"
+      ],
+      [
+        "khai thông đường thở",
+        "mở khí quản"
+      ],
+      [
+        "khai thông đường thở",
+        "thay đổi tư thế"
+      ],
+      [
+        "khai thông đường thở",
+        "thông khí"
+      ],
+      [
+        "khai thông đường thở",
+        "viêm sụn nắp thanh quản"
+      ],
+      [
+        "khai thông đường thở",
+        "đặt nội khí quản"
+      ],
+      [
+        "khai thông đường thở",
+        "ấn giữ hàm"
+      ],
+      [
+        "khoang miệng",
+        "thủ thuật heimlich"
+      ],
+      [
+        "khí quản qua màng nhẫn giáp",
+        "đặt canuyn hầu"
+      ],
+      [
+        "khối máu tụ",
+        "phù thanh quản"
+      ],
+      [
+        "khối u thanh quản",
+        "phù thanh quản"
+      ],
+      [
+        "kỹ thuật lật khúc gỗ",
+        "tư thế nằm ngửa"
+      ],
+      [
+        "kỹ thuật ngửa đầu nhấc cằm",
+        "tư thế nằm ngửa"
+      ],
+      [
+        "kỹ thuật ngửa đầu nhấc cằm",
+        "tụt lưỡi"
+      ],
+      [
+        "kỹ thuật ấn giữ hàm",
+        "tụt lưỡi"
+      ],
+      [
+        "lưỡi",
+        "đặt canuyn hầu"
+      ],
+      [
+        "lật trẻ nằm ngửa",
+        "ép ngực"
+      ],
+      [
+        "màu da bệnh nhân trở về bình thường",
+        "đánh giá hiệu quả"
+      ],
+      [
+        "màu da bệnh nhân trở về bình thường",
+        "đường thở"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "mở khí quản"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "mở màng nhẫn giáp"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "đặt nội khí quản"
+      ],
+      [
+        "mở khí quản",
+        "quản"
+      ],
+      [
+        "mở khí quản qua da",
+        "mở khí quản qua màng nhẫn giáp"
+      ],
+      [
+        "nghiệm pháp heimlich",
+        "trẻ nhỏ"
+      ],
+      [
+        "người bệnh sa sút trí tuệ",
+        "tụt lưỡi"
+      ],
+      [
+        "người bệnh tâm thần",
+        "tụt lưỡi"
+      ],
+      [
+        "phù phổi cấp",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "phù thanh quản",
+        "tụt lưỡi"
+      ],
+      [
+        "phù thanh quản",
+        "u hoặc dị vật thực quản"
+      ],
+      [
+        "phù thanh quản",
+        "u hạch"
+      ],
+      [
+        "phù thanh quản",
+        "u tuyến giáp"
+      ],
+      [
+        "phù thanh quản",
+        "ị ứng"
+      ],
+      [
+        "phù thanh quản",
+        "ổ mủ vùng hầu họng"
+      ],
+      [
+        "quan sát khoang miệng",
+        "động tác làm sạch đường thở"
+      ],
+      [
+        "thanh môn",
+        "đặt canuyn hầu"
+      ],
+      [
+        "thành họng",
+        "đặt canuyn hầu"
+      ],
+      [
+        "thủ thuật heimlich",
+        "tác giật"
+      ],
+      [
+        "thủ thuật heimlich",
+        "tự ép bụng"
+      ],
+      [
+        "thức ăn",
+        "tụt lưỡi"
+      ],
+      [
+        "tắc nghẽn đường thở",
+        "ép bụng"
+      ],
+      [
+        "tụt lưỡi",
+        "đồ chơi"
+      ],
+      [
+        "vùng giữa hai xương bả vai",
+        "vỗ lưng và ép ngực"
+      ],
+      [
+        "vỗ lưng và ép ngực",
+        "động tác làm sạch đường thở"
+      ],
+      [
+        "đè lưỡi",
+        "đặt canuyn hầu"
+      ],
+      [
+        "đường thở",
+        "động tác làm sạch đường thở"
+      ],
+      [
+        "đầu ngoài của canuyn",
+        "đặt canuyn hầu"
+      ],
+      [
+        "đầu trong canuyn",
+        "đặt canuyn hầu"
+      ],
+      [
+        "đặt canuyn hầu",
+        "đặt canuyn sai vị trí"
+      ]
+    ],
+    "count": 83,
+    "create_time": 1793453031,
+    "update_time": 1793453031,
+    "_id": "02-cac-ky-thuat-kiem-soat-duong-tho"
+  },
+  "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap": {
+    "relation_pairs": [
+      [
+        "ali",
+        "ards"
+      ],
+      [
+        "ali",
+        "mặt nạ ô xy"
+      ],
+      [
+        "ards",
+        "suy hô hấp"
+      ],
+      [
+        "ards",
+        "tăng co2 máu"
+      ],
+      [
+        "ards",
+        "x quang phổi"
+      ],
+      [
+        "bệnh",
+        "khí máu động mạch"
+      ],
+      [
+        "bệnh",
+        "tràn khí màng phổi"
+      ],
+      [
+        "bệnh",
+        "điện tim"
+      ],
+      [
+        "bệnh nhân chưa có bệnh phổi từ trước",
+        "suy hô hấp cấp"
+      ],
+      [
+        "bệnh nhân có suy hô hấp mạn tính",
+        "suy hô hấp cấp"
+      ],
+      [
+        "bệnh phổi mạn",
+        "suy hô hấp"
+      ],
+      [
+        "canuyn grudel",
+        "đường thở"
+      ],
+      [
+        "canuyn mũi",
+        "copd"
+      ],
+      [
+        "cheyne - stockes",
+        "khó thở"
+      ],
+      [
+        "copd",
+        "corticoid"
+      ],
+      [
+        "copd",
+        "ho khạc đờm"
+      ],
+      [
+        "copd",
+        "khó thở"
+      ],
+      [
+        "copd",
+        "ran rít"
+      ],
+      [
+        "copd",
+        "suy hô hấp"
+      ],
+      [
+        "copd",
+        "thuốc giãn phế quản"
+      ],
+      [
+        "cổ ưỡn",
+        "đường thở"
+      ],
+      [
+        "dị vật đường thở",
+        "suy hô hấp"
+      ],
+      [
+        "giảm ô xy máu",
+        "suy hô hấp"
+      ],
+      [
+        "hen phế quản",
+        "xét nghiệm"
+      ],
+      [
+        "hfq",
+        "lợi tiểu"
+      ],
+      [
+        "huyết áp",
+        "suy hô hấp"
+      ],
+      [
+        "huyết áp tăng",
+        "rối loạn tim mạch"
+      ],
+      [
+        "hút rửa phế quản",
+        "đường thở"
+      ],
+      [
+        "hút đờm dãi",
+        "đường thở"
+      ],
+      [
+        "hệ thống hô hấp",
+        "suy hô hấp cấp"
+      ],
+      [
+        "khí máu động mạch",
+        "xét nghiệm"
+      ],
+      [
+        "khó thở",
+        "kussmaul"
+      ],
+      [
+        "khó thở",
+        "suy hô hấp cấp"
+      ],
+      [
+        "khó thở",
+        "viêm phổi"
+      ],
+      [
+        "liệt hoặc mệt cơ hoành",
+        "thở nhanh"
+      ],
+      [
+        "liệt hô hấp",
+        "xét nghiệm"
+      ],
+      [
+        "máu lắng",
+        "viêm phổi"
+      ],
+      [
+        "mạch",
+        "suy hô hấp"
+      ],
+      [
+        "mạch nhanh",
+        "rối loạn tim mạch"
+      ],
+      [
+        "mạch nhanh",
+        "suy hô hấp cấp"
+      ],
+      [
+        "mặt nạ ô xy",
+        "thông khí nhân tạo"
+      ],
+      [
+        "nghiệm pháp heimlich",
+        "đường thở"
+      ],
+      [
+        "ngộ độc khí co",
+        "rối loạn thần kinh và ý thức"
+      ],
+      [
+        "ngộ độc khí co",
+        "rối loạn tim mạch"
+      ],
+      [
+        "ngộ độc khí co",
+        "suy hô hấp"
+      ],
+      [
+        "ngộ độc khí co",
+        "vã mồ hôi"
+      ],
+      [
+        "nhịp thở",
+        "suy hô hấp"
+      ],
+      [
+        "nhồi máu phổi",
+        "xét nghiệm"
+      ],
+      [
+        "nói",
+        "suy hô hấp"
+      ],
+      [
+        "nội khí quản",
+        "đường thở"
+      ],
+      [
+        "paco2",
+        "toan hô hấp"
+      ],
+      [
+        "paco2",
+        "tăng co2 máu"
+      ],
+      [
+        "pao2",
+        "thiếu ô xy máu"
+      ],
+      [
+        "ph",
+        "suy hô hấp"
+      ],
+      [
+        "ph",
+        "tăng co2 máu"
+      ],
+      [
+        "phổi mạn",
+        "suy hô hấp"
+      ],
+      [
+        "procalcitinin",
+        "viêm phổi"
+      ],
+      [
+        "ran nổ",
+        "viêm phổi"
+      ],
+      [
+        "ran ẩm",
+        "viêm phổi"
+      ],
+      [
+        "rối loạn thần kinh và ý thức",
+        "suy hô hấp"
+      ],
+      [
+        "spo2",
+        "suy hô hấp"
+      ],
+      [
+        "suy hô hấp",
+        "suy tim ứ huyết mất bù"
+      ],
+      [
+        "suy hô hấp",
+        "suy tuần hoàn"
+      ],
+      [
+        "suy hô hấp",
+        "sặc phổi"
+      ],
+      [
+        "suy hô hấp",
+        "thông khí nhân tạo"
+      ],
+      [
+        "suy hô hấp",
+        "thở oxy"
+      ],
+      [
+        "suy hô hấp",
+        "tràn khí áp lực"
+      ],
+      [
+        "suy hô hấp",
+        "tím"
+      ],
+      [
+        "suy hô hấp",
+        "tăng co2 máu"
+      ],
+      [
+        "suy hô hấp",
+        "viêm phổi"
+      ],
+      [
+        "suy hô hấp",
+        "vã mồ hôi"
+      ],
+      [
+        "suy hô hấp",
+        "điều trị"
+      ],
+      [
+        "suy hô hấp cấp",
+        "thể hỗn hợp"
+      ],
+      [
+        "suy hô hấp cấp",
+        "tím"
+      ],
+      [
+        "suy hô hấp cấp",
+        "vã mồ hôi"
+      ],
+      [
+        "suy hô hấp nặng",
+        "ts thở"
+      ],
+      [
+        "thở nhanh",
+        "toan hô hấp"
+      ],
+      [
+        "tư thế nằm nghiêng an toàn",
+        "đường thở"
+      ],
+      [
+        "tắc nghẽn đường hô hấp trên",
+        "đặt nội khí quản"
+      ],
+      [
+        "tắc đường hô hấp trên",
+        "xét nghiệm"
+      ],
+      [
+        "viêm phổi",
+        "x quang phổi"
+      ],
+      [
+        "xét nghiệm",
+        "điện tim"
+      ],
+      [
+        "xét nghiệm",
+        "ức chế hô hấp"
+      ]
+    ],
+    "count": 83,
+    "create_time": 1793453504,
+    "update_time": 1793453504,
+    "_id": "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap"
+  },
+  "04-xu-tri-cap-cuu-soc": {
+    "relation_pairs": [
+      [
+        "acid lactic",
+        "toan chuyển hóa"
+      ],
+      [
+        "acid lactic",
+        "tưới máu mô"
+      ],
+      [
+        "adrenaline",
+        "sốc phản vệ"
+      ],
+      [
+        "adrenaline",
+        "thuốc trợ tim"
+      ],
+      [
+        "bụng chướng",
+        "giảm tưới máu"
+      ],
+      [
+        "catheter swan ganz",
+        "cung lượng tim"
+      ],
+      [
+        "catheter swan ganz",
+        "đánh giá tiền gánh thất trái"
+      ],
+      [
+        "catheter tĩnh mạch trung tâm",
+        "đánh giá tiền gánh thất phải"
+      ],
+      [
+        "catheter tĩnh mạch trung tâm",
+        "đánh giá tiền gánh thất trái"
+      ],
+      [
+        "chức năng gan thận",
+        "lấy máu làm xét nghiệm"
+      ],
+      [
+        "chức năng gan thận",
+        "suy thận"
+      ],
+      [
+        "co",
+        "sốc"
+      ],
+      [
+        "co bóp cơ tim",
+        "dobutamine"
+      ],
+      [
+        "co mạch",
+        "phenylephrine"
+      ],
+      [
+        "co mạch",
+        "tụt ha"
+      ],
+      [
+        "công thức máu",
+        "lấy máu làm xét nghiệm"
+      ],
+      [
+        "da lạnh",
+        "sốc"
+      ],
+      [
+        "da lạnh, ẩm",
+        "sốc nhiễm khuẩn"
+      ],
+      [
+        "dobutamine",
+        "sốc tim"
+      ],
+      [
+        "dopamine",
+        "sốc giảm thể tích"
+      ],
+      [
+        "dopamine",
+        "thuốc trợ tim"
+      ],
+      [
+        "dị ứng",
+        "sốc phản vệ"
+      ],
+      [
+        "gan to",
+        "sốc tắc nghẽn"
+      ],
+      [
+        "hô hấp",
+        "sốc giảm thể tích"
+      ],
+      [
+        "hô hấp",
+        "đông máu"
+      ],
+      [
+        "khí máu",
+        "toan chuyển hóa"
+      ],
+      [
+        "khí máu",
+        "toan máu"
+      ],
+      [
+        "khó thở",
+        "sốc tắc nghẽn"
+      ],
+      [
+        "map",
+        "sốc"
+      ],
+      [
+        "nhồi máu phổi",
+        "sốc tắc nghẽn"
+      ],
+      [
+        "noradrenaline",
+        "thuốc trợ tim"
+      ],
+      [
+        "phenylephrine",
+        "sốc"
+      ],
+      [
+        "suy đa tạng",
+        "sốc"
+      ],
+      [
+        "svr",
+        "sốc"
+      ],
+      [
+        "sốc",
+        "thay đổi về ý thức"
+      ],
+      [
+        "sốc",
+        "thiểu niệu"
+      ],
+      [
+        "sốc",
+        "toan chuyển hóa"
+      ],
+      [
+        "sốc",
+        "vasopressin"
+      ],
+      [
+        "sốc giai đoạn muộn",
+        "toan chuyển hóa"
+      ],
+      [
+        "sốc giãn mạch",
+        "tăng nhịp tim"
+      ],
+      [
+        "sốc giảm thể tích",
+        "sốc tim"
+      ],
+      [
+        "sốc giảm thể tích",
+        "đông máu"
+      ],
+      [
+        "sốc nhiễm khuẩn",
+        "viêm phổi"
+      ],
+      [
+        "thở nhanh",
+        "toan chuyển hóa"
+      ]
+    ],
+    "count": 44,
+    "create_time": 1793453785,
+    "update_time": 1793453785,
+    "_id": "04-xu-tri-cap-cuu-soc"
+  },
+  "05-cap-cuu-ngung-tuan-hoan-co-ban": {
+    "relation_pairs": [
+      [
+        "abc",
+        "kiểm soát đường thở"
+      ],
+      [
+        "abc",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "abc",
+        "ép tim ngoài lồng ngực"
+      ],
+      [
+        "chẩn đoán",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "cơ sở cấp cứu",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "cấp cứu",
+        "ghi chép"
+      ],
+      [
+        "cấp cứu",
+        "phân công"
+      ],
+      [
+        "cấp cứu",
+        "thiết lập không gian cấp cứu"
+      ],
+      [
+        "gọi hỗ trợ",
+        "hồi sinh tim phổi cơ bản"
+      ],
+      [
+        "hồi sinh tim phổi cơ bản",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "hồi sinh tim phổi cơ bản",
+        "tỷ lệ cứu sống"
+      ],
+      [
+        "kiểm tra mạch cảnh",
+        "ép tim ngoài lồng ngực"
+      ],
+      [
+        "máy sốc điện",
+        "sốc điện"
+      ],
+      [
+        "máy sốc điện 1 pha",
+        "sốc điện"
+      ],
+      [
+        "máy sốc điện 2 pha",
+        "sốc điện"
+      ],
+      [
+        "mất mạch cảnh",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "mất ý thức đột ngột",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "nguyên nhân gây ngừng tuần hoàn",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "ngừng thở",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "nhân viên cấp cứu"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "sốc điện"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "sốc điện cấp cứu phá rung thất"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "tamponade tim"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thiếu oxy mô"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thiếu thể tích tuần hoàn"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thân nhiệt thấp"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thương tích"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "toan hóa máu"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "trúng độc cấp"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "tăng / tụt kali máu"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "tắc mạch"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "tụt hạ đường huyết"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "xe cấp cứu"
+      ],
+      [
+        "phân ly điện cơ",
+        "sốc điện"
+      ],
+      [
+        "phân ly điện cơ",
+        "ịp nhanh thất"
+      ],
+      [
+        "rung thất",
+        "sốc điện"
+      ],
+      [
+        "sốc điện",
+        "sốc điện không đồng bộ"
+      ],
+      [
+        "sốc điện",
+        "vô tâm thu"
+      ]
+    ],
+    "count": 39,
+    "create_time": 1793453934,
+    "update_time": 1793453934,
+    "_id": "05-cap-cuu-ngung-tuan-hoan-co-ban"
+  },
+  "06-cap-cuu-ngung-tuan-hoan-nang-cao": {
+    "relation_pairs": [
+      [
+        "adrenaline",
+        "vô tâm thu"
+      ],
+      [
+        "amiodarone",
+        "vô tâm thu"
+      ],
+      [
+        "atropin",
+        "vô tâm thu"
+      ],
+      [
+        "bóp bóng",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "hồi sinh tim phổi cơ bản",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "hồi sinh tim phổi cơ bản",
+        "phân ly điện cơ"
+      ],
+      [
+        "hồi sinh tim phổi nâng cao",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "lidocaine",
+        "vô tâm thu"
+      ],
+      [
+        "magne sulfate",
+        "vô tâm thu"
+      ],
+      [
+        "mất mạch cảnh",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "mất mạch cảnh",
+        "tắc mạch"
+      ],
+      [
+        "mất ý thức đột ngột",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "ngừng thở",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "phân ly điện cơ"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "rung thất sóng nhỏ"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "sốc điện"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "sốc điện cấp cứu"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "vô tâm thu"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "đặt nội khí quản"
+      ],
+      [
+        "phân ly điện cơ",
+        "vô tâm thu"
+      ],
+      [
+        "procainamid",
+        "vô tâm thu"
+      ],
+      [
+        "siêu âm tim nhanh",
+        "vô tâm thu"
+      ],
+      [
+        "theo dõi điện tâm đồ",
+        "đường truyền tĩnh mạch"
+      ],
+      [
+        "vasopressine",
+        "vô tâm thu"
+      ]
+    ],
+    "count": 24,
+    "create_time": 1793454119,
+    "update_time": 1793454119,
+    "_id": "06-cap-cuu-ngung-tuan-hoan-nang-cao"
+  },
+  "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh": {
+    "relation_pairs": [
+      [
+        "12 đơn vị/kg/giờ",
+        "4000 đơn vị"
+      ],
+      [
+        "12 đơn vị/kg/giờ",
+        "aptt bệnh/chứng = 1,5 – 2,0"
+      ],
+      [
+        "120 phút sau khi bắt đầu đau ngực",
+        "chuyển bệnh nhân"
+      ],
+      [
+        "90 phút sau khi xuất hiện đau ngực",
+        "can thiệp mạch vành"
+      ],
+      [
+        "alteplase",
+        "rối loạn nhịp tim"
+      ],
+      [
+        "alteplase",
+        "st giảm chênh > 50%"
+      ],
+      [
+        "alteplase",
+        "sốc tim"
+      ],
+      [
+        "aptt",
+        "heparin"
+      ],
+      [
+        "aspirin",
+        "chủ, tắc động mạch phổi"
+      ],
+      [
+        "atorvastatin uống liều cao 80 mg/ngày",
+        "bệnh nhân"
+      ],
+      [
+        "biến chứng cơ học",
+        "plase"
+      ],
+      [
+        "biến chứng cơ học",
+        "suy tim"
+      ],
+      [
+        "bóc tách động mạch chủ",
+        "nmct"
+      ],
+      [
+        "bệnh nhân",
+        "captopril 6,25 – 12,5 mg"
+      ],
+      [
+        "bệnh nhân",
+        "metoprolol tartrat 25-50 mg"
+      ],
+      [
+        "bệnh nhân 75 tuổi trở lên",
+        "enoxaparin"
+      ],
+      [
+        "bệnh nhân dưới 75 tuổi",
+        "enoxaparin"
+      ],
+      [
+        "bệnh nhân đến viện muộn",
+        "can thiệp mạch vành"
+      ],
+      [
+        "can thiệp",
+        "nhồi máu cơ tim cấp"
+      ],
+      [
+        "can thiệp mạch vành",
+        "chẩn đoán nmct không thật chắc chắn"
+      ],
+      [
+        "can thiệp mạch vành",
+        "chụp mạch vành"
+      ],
+      [
+        "can thiệp mạch vành",
+        "loạn nhịp thất không ổn định"
+      ],
+      [
+        "can thiệp mạch vành",
+        "plase"
+      ],
+      [
+        "can thiệp mạch vành",
+        "suy tim ứ huyết nặng"
+      ],
+      [
+        "can thiệp mạch vành",
+        "sốc tim"
+      ],
+      [
+        "can thiệp mạch vành",
+        "điều trị tái tưới máu"
+      ],
+      [
+        "chuan_doan",
+        "nmct"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "clopidogrel"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "ct"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "heparin"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "morphin sulphat"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "nitroglycerin"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "suy thận"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "thở oxy"
+      ],
+      [
+        "chủ, tắc động mạch phổi",
+        "đái tháo đường"
+      ],
+      [
+        "cân nặng bệnh nhân",
+        "tenecteplase"
+      ],
+      [
+        "có thai",
+        "thuốc tiêu sợi huyết"
+      ],
+      [
+        "cơn đau dạ dày cấp",
+        "nmct"
+      ],
+      [
+        "cơn đau thắt ngực",
+        "nhồi máu cơ tim cấp"
+      ],
+      [
+        "huyết áp > 190/110",
+        "thuốc tiêu sợi huyết"
+      ],
+      [
+        "hết hoàn toàn đau ngực",
+        "plase"
+      ],
+      [
+        "inr > 2",
+        "thuốc tiêu sợi huyết"
+      ],
+      [
+        "killip",
+        "suy tim"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "rối loạn dẫn truyền"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "rối loạn nhịp tim"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "st chênh lên"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "suy tim"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "tái tưới máu"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "điện tim"
+      ],
+      [
+        "nmct",
+        "siu_am tim"
+      ],
+      [
+        "nmct",
+        "st chenh len"
+      ],
+      [
+        "nmct",
+        "sóng q bệnh lý"
+      ],
+      [
+        "nmct",
+        "troponin"
+      ],
+      [
+        "nmct",
+        "tràn dịch màng ngoài tim cấp"
+      ],
+      [
+        "nmct",
+        "tràn khí màng phổi"
+      ],
+      [
+        "nmct",
+        "trào ngược dạ dày thực quản"
+      ],
+      [
+        "nmct",
+        "tắc động mạch phổi"
+      ],
+      [
+        "nmct",
+        "viêm cơ tim cấp"
+      ],
+      [
+        "nmct",
+        "viêm túi mật cấp"
+      ],
+      [
+        "nmct",
+        "đau ngực"
+      ],
+      [
+        "rối loạn dẫn truyền",
+        "suy tim"
+      ],
+      [
+        "rối loạn nhịp tim",
+        "suy tim"
+      ],
+      [
+        "streptokinase",
+        "suy tim ứ huyết"
+      ],
+      [
+        "thuốc tiêu sợi huyết",
+        "điều trị nmct cấp"
+      ],
+      [
+        "thuốc tiêu sợi huyết",
+        "điều trị tái tưới máu"
+      ]
+    ],
+    "count": 65,
+    "create_time": 1793454370,
+    "update_time": 1793454370,
+    "_id": "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh"
+  },
+  "08-cap-cuu-chan-thuong-so-nao": {
+    "relation_pairs": [
+      [
+        "4 tuổi – người lớn",
+        "bảng điểm glasgow"
+      ],
+      [
+        "abcde",
+        "thần kinh"
+      ],
+      [
+        "an thần",
+        "kích thích nhiều"
+      ],
+      [
+        "bi bô",
+        "quấy khóc"
+      ],
+      [
+        "bác sỹ chuyên khoa hồi sức tích cực",
+        "khoa cấp cứu"
+      ],
+      [
+        "bóp bóng ambu",
+        "bảo vệ đường thở"
+      ],
+      [
+        "băng ép c",
+        "hỗ trợ tuần hoàn"
+      ],
+      [
+        "băng ép cầm máu",
+        "hỗ trợ tuần hoàn"
+      ],
+      [
+        "bảng điểm glasgow",
+        "bệnh nhân chấn thương sọ não"
+      ],
+      [
+        "bảng điểm glasgow",
+        "gọi hỏi trả lời nhưng lẫn lộn"
+      ],
+      [
+        "bảng điểm glasgow",
+        "gọi hỏi trả lời đúng, tương tác"
+      ],
+      [
+        "bảng điểm glasgow",
+        "không đáp ứng"
+      ],
+      [
+        "bảng điểm glasgow",
+        "lời nói, âm thanh"
+      ],
+      [
+        "bảng điểm glasgow",
+        "mở mắt khi bị kích"
+      ],
+      [
+        "bảng điểm glasgow",
+        "mở mắt khi gọi"
+      ],
+      [
+        "bảng điểm glasgow",
+        "thích đau"
+      ],
+      [
+        "bảng điểm glasgow",
+        "tỉnh, định hướng"
+      ],
+      [
+        "bảo vệ đường thở",
+        "chấn thương hàm mặt"
+      ],
+      [
+        "bảo vệ đường thở",
+        "nguy cơ chảy máu vào đường thở"
+      ],
+      [
+        "bảo vệ đường thở",
+        "paco2 > 45 mmhg"
+      ],
+      [
+        "bảo vệ đường thở",
+        "pao2 < 80 mmhg"
+      ],
+      [
+        "bảo vệ đường thở",
+        "thông khí nhân tạo bằng máy thở"
+      ],
+      [
+        "bảo vệ đường thở",
+        "đặt nội khí quản"
+      ],
+      [
+        "bầm tím hai ổ mắt",
+        "dấu hiệu vỡ nền sọ"
+      ],
+      [
+        "bầm tím vùng xương chũm",
+        "dấu hiệu vỡ nền sọ"
+      ],
+      [
+        "bệnh nhân chấn thương sọ não",
+        "yếu tố chấn thương"
+      ],
+      [
+        "bệnh sử",
+        "dấu hiệu lâm sàng"
+      ],
+      [
+        "bệnh viện việt đức",
+        "chấn thương sọ não"
+      ],
+      [
+        "chuyển",
+        "chuyển phẫu thuật"
+      ],
+      [
+        "chảy máu mũi, dịch não tủy qua mũi",
+        "dấu hiệu vỡ nền sọ"
+      ],
+      [
+        "chảy máu, dịch não quỷ qua tai",
+        "dấu hiệu vỡ nền sọ"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "chụp cắt lớp vi tính sọ não"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "chụp cột sống, đặc biệt cột sống cổ"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "chụp xq ngực"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "khí máu"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "sinh hóa"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "siêu âm ổ bụng, màng phổi"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "tế bào"
+      ],
+      [
+        "chấn thương do tác động mạnh",
+        "điện tim"
+      ],
+      [
+        "chấn thương sọ não",
+        "chụp x quang"
+      ],
+      [
+        "chấn thương sọ não",
+        "ct sanner"
+      ],
+      [
+        "chấn thương sọ não",
+        "cơ chế chấn thương"
+      ],
+      [
+        "chấn thương sọ não",
+        "dấu hiệu lâm sàng"
+      ],
+      [
+        "chấn thương sọ não",
+        "dấu hiệu vỡ nền sọ"
+      ],
+      [
+        "chấn thương sọ não",
+        "gcs"
+      ],
+      [
+        "chấn thương sọ não",
+        "khám đồng tử"
+      ],
+      [
+        "chấn thương sọ não",
+        "mất ý thức ngay sau ch"
+      ],
+      [
+        "chấn thương sọ não",
+        "tai nạn giao thông"
+      ],
+      [
+        "chấn thương sọ não",
+        "thời gian bị chấn thương"
+      ],
+      [
+        "chấn thương sọ não",
+        "tổn thương da đầu"
+      ],
+      [
+        "chấn thương sọ não",
+        "tổn thương xương sọ"
+      ],
+      [
+        "chống co giật",
+        "co giật"
+      ],
+      [
+        "chống co giật",
+        "kích thích dãy dụa"
+      ],
+      [
+        "chống co giật",
+        "áp lực nội sọ ≤ 20 mmhg"
+      ],
+      [
+        "chụp ct sọ não nếu",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "chụp cột sống"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "chụp xq ngực"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "chụp xq sọ thường"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "co giật"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "duỗi cứng mất não"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "glasgow"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "mất ý thức"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "ngủ gà bất thường"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "siêu âm ổ bụng"
+      ],
+      [
+        "chụp cắt lớp vi tính sọ não",
+        "tuổi > 65"
+      ],
+      [
+        "chụp xq sọ thường",
+        "co cứng mất vỏ"
+      ],
+      [
+        "co cứng hoặc duỗi cứng",
+        "tăng áp lực nội sọ"
+      ],
+      [
+        "co cứng mất vỏ",
+        "dấu hiệu thần kinh khu trú"
+      ],
+      [
+        "co giật",
+        "dấu hiệu thần kinh khu trú"
+      ],
+      [
+        "co giật",
+        "glasgow"
+      ],
+      [
+        "ct sọ bất thường",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "ct sọ não",
+        "tình trạng bệnh nhân"
+      ],
+      [
+        "có các chấn thương khác phối hợp",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "có dấu hiệu tk khu trú",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "có dấu hiệu vỡ nền sọ",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "cơ chế chấn thương",
+        "ngã"
+      ],
+      [
+        "cơ chế chấn thương",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "cơ chế chấn thương",
+        "tai nạn giao thông"
+      ],
+      [
+        "cơ chế chấn thương",
+        "tai nạn sinh hoạt"
+      ],
+      [
+        "cấp cứu trước bệnh viện",
+        "khoa cấp cứu"
+      ],
+      [
+        "cột sống cổ",
+        "manitol 20%"
+      ],
+      [
+        "cử động tự nhiên",
+        "khu trú được vị trí đau"
+      ],
+      [
+        "duy trì huyết áp",
+        "manitol 20%"
+      ],
+      [
+        "duy trì huyết áp",
+        "thở máy xâm nhập"
+      ],
+      [
+        "duy trì áp lực nội sọ bình thường",
+        "duy trì độ bão hòa oxy > 90%"
+      ],
+      [
+        "duy trì độ bão hòa oxy",
+        "oxy liệu pháp"
+      ],
+      [
+        "duy trì độ bão hòa oxy > 90%",
+        "hỗ trợ hô hấp"
+      ],
+      [
+        "duỗi cứng mất não",
+        "dấu hiệu thần kinh khu trú"
+      ],
+      [
+        "dãn đồng tử cả hai bên",
+        "tăng áp lực nội sọ"
+      ],
+      [
+        "dãn đồng tử một bên",
+        "tăng áp lực nội sọ"
+      ],
+      [
+        "dò dịch não tủy",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "dấu hiệu sinh tồn",
+        "khám chấn thương"
+      ],
+      [
+        "dấu hiệu thần kinh khu trú",
+        "liệt các dây thần kinh sọ"
+      ],
+      [
+        "dấu hiệu thần kinh khu trú",
+        "liệt nửa người"
+      ],
+      [
+        "gcs: 14 – 15 điểm",
+        "điểm glasgow"
+      ],
+      [
+        "gcs: 3 – 8 điểm",
+        "điểm glasgow"
+      ],
+      [
+        "gcs: 9 – 13 điểm",
+        "điểm glasgow"
+      ],
+      [
+        "glasgow < 15",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "ha tâm thu > 90 mmhg",
+        "hỗ trợ tuần hoàn"
+      ],
+      [
+        "huyết áp trung bình > 65 mmhg",
+        "truyền máu và các chế phẩm máu"
+      ],
+      [
+        "hô hấp",
+        "đánh giá ban đầu"
+      ],
+      [
+        "khoa cấp cứu",
+        "nhà ngoại khoa chấn thương"
+      ],
+      [
+        "khám lâm sàng chi tiết",
+        "thần kinh"
+      ],
+      [
+        "khám đồng tử",
+        "đồng tử không đều hai bên"
+      ],
+      [
+        "khó theo dõi tại nhà",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "khóc khi bị kích thích đau",
+        "ú ớ, rên rỉ"
+      ],
+      [
+        "không chụp được ct",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "không khu trú được vị trí đau",
+        "sờ vào người: trẻ giãy dụa"
+      ],
+      [
+        "không đáp ứng",
+        "ý thức"
+      ],
+      [
+        "la hét",
+        "nói các từ rời rạc"
+      ],
+      [
+        "manitol 1,5 – 2 g",
+        "tăng áp lực nội sọ"
+      ],
+      [
+        "máu tụ dưới da đầu",
+        "tổn thương da đầu"
+      ],
+      [
+        "mất phản xạ ánh sáng",
+        "tăng áp lực nội sọ"
+      ],
+      [
+        "mất ý thức ngay sau ch",
+        "điểm glasgow"
+      ],
+      [
+        "mất ý thức ngay sau chấn thương",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "mở mắt khi bị kích",
+        "ý thức"
+      ],
+      [
+        "mở mắt khi gọi",
+        "ý thức"
+      ],
+      [
+        "ngộ độc rượu và ma túy",
+        "nhân chấn thương sọ não nhẹ"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "nôn hơn 2 lần"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "thời gian bị chấn thương"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "tiền sử mất ý thức kéo dài"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "vết thương xuyên sọ"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "vỡ xương sọ"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "ý thức xấu đi"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "đau đầu mức độ trung bình và nặng"
+      ],
+      [
+        "nhân chấn thương sọ não nhẹ",
+        "đau đầu: nhẹ, vừa, trung bình"
+      ],
+      [
+        "nhịp tim chậm",
+        "phản xạ cushing"
+      ],
+      [
+        "nâng huyết áp",
+        "sử dụng các thuốc vận mạch"
+      ],
+      [
+        "nói các từ rời rạc",
+        "quấy khóc"
+      ],
+      [
+        "phản xạ cushing",
+        "rối loạn nhịp thở"
+      ],
+      [
+        "phản xạ cushing",
+        "tăng huyết áp"
+      ],
+      [
+        "phản xạ cushing",
+        "tăng áp lực nội sọ"
+      ],
+      [
+        "thích đau",
+        "ý thức"
+      ],
+      [
+        "thể làm tăng áp lực nội sọ",
+        "tổn thương não"
+      ],
+      [
+        "tuần hoàn",
+        "đánh giá ban đầu"
+      ],
+      [
+        "tăng áp lực nội sọ",
+        "điểm glasgow giảm > 2 điểm"
+      ],
+      [
+        "tổn thương da đầu",
+        "vết rách"
+      ],
+      [
+        "tổn thương xương sọ",
+        "vật xuyên thấu hộp sọ"
+      ],
+      [
+        "tổn thương xương sọ",
+        "vết thương lún sọ"
+      ],
+      [
+        "tổn thương xương sọ",
+        "vết thương sọ não hở"
+      ],
+      [
+        "tổn thương xương sọ",
+        "vỡ xương sọ"
+      ],
+      [
+        "áp lực tĩnh mạch trung tâm",
+        "đặt đường truyền tĩnh mạch trung tâm"
+      ],
+      [
+        "ý thức",
+        "đánh giá ban đầu"
+      ],
+      [
+        "đánh giá ban đầu",
+        "đường thở"
+      ]
+    ],
+    "count": 144,
+    "create_time": 1793455017,
+    "update_time": 1793455017,
+    "_id": "08-cap-cuu-chan-thuong-so-nao"
+  },
+  "09-cap-cuu-chan-thuong-cot-song": {
+    "relation_pairs": [
+      [
+        "benh nhan",
+        "hỏi tiền sử tỉ mỉ"
+      ],
+      [
+        "benh nhan",
+        "khám lâm sàng toàn diện"
+      ],
+      [
+        "benh nhan dat nkq",
+        "cac phuong tien co dinh cột so"
+      ],
+      [
+        "benh nhan hong me",
+        "cac phuong tien co dinh cột so"
+      ],
+      [
+        "benh nhan say ruou",
+        "cac phuong tien co dinh cột so"
+      ],
+      [
+        "benh nhan tỉnh, định hướng",
+        "tháo phương tiện bất động cột sống cổ"
+      ],
+      [
+        "biến dạng cột sống",
+        "chấn thương cột sống cổ"
+      ],
+      [
+        "bí đái do mất phản xạ bàng quang",
+        "tổn thương tủy sống vùng cùng cụt"
+      ],
+      [
+        "bóp bóng qua nội khí quản",
+        "thở"
+      ],
+      [
+        "bất động cột sống cổ",
+        "tổn thương tủy sống"
+      ],
+      [
+        "bất động cột sống cổ",
+        "xử trí cấp cứu tại khoa cấp cứu"
+      ],
+      [
+        "bầm tím vùng cột sống",
+        "chấn thương cột sống cổ"
+      ],
+      [
+        "bệnh nhân tỉnh, định hướng",
+        "khám lâm sàng toàn diện"
+      ],
+      [
+        "bệnh nhân tỉnh, định hướng",
+        "say rượu"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "co vet thuong chấn thương gai chu y"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "hai ben dau benh nhan"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "khong co dau hieu tk khu tru"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "khong say ruou"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "khong đau"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "nexus guidelines"
+      ],
+      [
+        "cac phuong tien co dinh cột so",
+        "tinh dap ung tot"
+      ],
+      [
+        "chấn thương cột sống",
+        "chấn thương cột sống cổ"
+      ],
+      [
+        "chấn thương cột sống",
+        "chụp cắt lớp vi tính cột sống"
+      ],
+      [
+        "chấn thương cột sống",
+        "chụp cộng hưởng từ cột sống"
+      ],
+      [
+        "chấn thương cột sống",
+        "chụp xq thường 3 tư thế"
+      ],
+      [
+        "chấn thương cột sống",
+        "cùng cụt"
+      ],
+      [
+        "chấn thương cột sống",
+        "cột sống ngực"
+      ],
+      [
+        "chấn thương cột sống",
+        "cột sống thắt lưng"
+      ],
+      [
+        "chấn thương cột sống",
+        "lực kéo dãn theo chiều dọc cột sống"
+      ],
+      [
+        "chấn thương cột sống",
+        "lực tác động từ bên vào cột sống"
+      ],
+      [
+        "chấn thương cột sống",
+        "lực ép xuống theo chiều dọc cột sống"
+      ],
+      [
+        "chấn thương cột sống",
+        "ngã cao"
+      ],
+      [
+        "chấn thương cột sống",
+        "ngửa cột sống quá mức"
+      ],
+      [
+        "chấn thương cột sống",
+        "tai nạn giao thông"
+      ],
+      [
+        "chấn thương cột sống",
+        "thể thao"
+      ],
+      [
+        "chấn thương cột sống",
+        "xung đột"
+      ],
+      [
+        "chấn thương cột sống",
+        "ưỡn cột sống quá mức"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "cương dương"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "liệt cơ hô hấp"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "lực kéo dãn theo chiều dọc cột sống"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "mất/giảm vận động"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "rối loạn cơ tròn"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "đau vùng cột sống"
+      ],
+      [
+        "chấn thương tạng",
+        "siêu âm phát hiện các tổn thương khác"
+      ],
+      [
+        "chẩn đoán hình ảnh có",
+        "cột sống cổ an toàn"
+      ],
+      [
+        "chẩn đoán hình ảnh có",
+        "thành công"
+      ],
+      [
+        "chẩn đoán hình ảnh có không",
+        "cột sống cổ an toàn"
+      ],
+      [
+        "chẩn đoán hình ảnh có không",
+        "thất bại"
+      ],
+      [
+        "chọc hút dẫn lưu khí",
+        "phát hiện tràn khí màng phổi"
+      ],
+      [
+        "corticoid",
+        "phù nề tủy sống"
+      ],
+      [
+        "corticoid",
+        "tình trạng phù nề tủy sống"
+      ],
+      [
+        "corticoid",
+        "tổn thương tủy sống"
+      ],
+      [
+        "ct",
+        "các bệnh nhân có triệu chứng lâm sàng"
+      ],
+      [
+        "cung cung",
+        "nep co"
+      ],
+      [
+        "các bệnh nhân có triệu chứng lâm sàng",
+        "hội chẩn chuyên khoa cột sống"
+      ],
+      [
+        "các bệnh nhân có triệu chứng lâm sàng",
+        "hội chẩn chuyên khoa ngoại chấn thương"
+      ],
+      [
+        "các bệnh nhân có triệu chứng lâm sàng",
+        "hội chẩn chuyên khoa phẫu thuật thần kinh"
+      ],
+      [
+        "các bệnh nhân có triệu chứng lâm sàng",
+        "mri"
+      ],
+      [
+        "các bệnh nhân có triệu chứng lâm sàng",
+        "xq 3 tu thi"
+      ],
+      [
+        "các bệnh nhân không có triệu chứng lâm sàng",
+        "nep co"
+      ],
+      [
+        "các chế phẩm máu",
+        "mất máu nặng"
+      ],
+      [
+        "cánh tay",
+        "điểm biểu hiện lâm sàng"
+      ],
+      [
+        "có chấn thương",
+        "cột sống cổ an toàn"
+      ],
+      [
+        "có thể phục hồi hoặc không phục hồi",
+        "hội chứng sốc tủy (spinal shock)"
+      ],
+      [
+        "cơ duỗi ngón chân/gấp ngón chân cái",
+        "cơ tứ đầu/duỗi gối"
+      ],
+      [
+        "cơ gian sườn/hô hấp",
+        "cơ thẳng bụng"
+      ],
+      [
+        "cơ nhị đầu và cơ dép/duỗi bàn chân",
+        "ngón chân út"
+      ],
+      [
+        "cơ thắt hậu môn/ruột và bàng quang",
+        "đáy chậu"
+      ],
+      [
+        "cơ thẳng bụng",
+        "mũi ức"
+      ],
+      [
+        "cơ tứ đầu/duỗi gối",
+        "gò mu"
+      ],
+      [
+        "cơ đái chậu/duỗi hông",
+        "rốn"
+      ],
+      [
+        "cảm giác",
+        "hội chứng trung tâm"
+      ],
+      [
+        "cầm máu",
+        "tổn thương tủy sống"
+      ],
+      [
+        "cột sống cổ an toàn",
+        "không có dấu hiệu tk khu trú"
+      ],
+      [
+        "cột sống cổ an toàn",
+        "không tăng đau khi khám cổ"
+      ],
+      [
+        "cột sống cổ an toàn",
+        "không đau cổ"
+      ],
+      [
+        "cột sống cổ an toàn",
+        "tháo nẹp cổ"
+      ],
+      [
+        "cột sống cổ, đoạn cao: c1-c4",
+        "mức độ giảm dung tích sống (vc)"
+      ],
+      [
+        "cột sống cổ, đoạn thấp: c5-c7",
+        "mức độ giảm dung tích sống (vc)"
+      ],
+      [
+        "cột sống ngực đoạn cao: n1-n9",
+        "mức độ giảm dung tích sống (vc)"
+      ],
+      [
+        "dãn mạch ngoại biên",
+        "hội chứng sốc thần kinh"
+      ],
+      [
+        "giảm tưới máu",
+        "phù nề tủy sống"
+      ],
+      [
+        "glassgow",
+        "tháo phương tiện bất động cột sống cổ"
+      ],
+      [
+        "hỏi tiền sử tỉ mỉ",
+        "say rượu"
+      ],
+      [
+        "hỗ trợ tuần hoàn",
+        "mất máu nặng"
+      ],
+      [
+        "hỗ trợ tuần hoàn",
+        "sốc"
+      ],
+      [
+        "hỗ trợ tuần hoàn",
+        "đặt đường truyền tĩnh mạch"
+      ],
+      [
+        "hội chẩn với chuyên khoa ngoại chấn thương",
+        "xét nghiệm"
+      ],
+      [
+        "hội chứng brown-sequard",
+        "tổn thương một nửa tủy sống"
+      ],
+      [
+        "hội chứng brown-sequard",
+        "tổn thương trung tâm tủy sống"
+      ],
+      [
+        "hội chứng brown-sequard",
+        "u chèn ép ½ tủy sống"
+      ],
+      [
+        "hội chứng brown-sequard",
+        "vết thương xuyên thấu tủy sống"
+      ],
+      [
+        "hội chứng chóp tủy",
+        "tổn thương tủy sống vùng cùng cụt"
+      ],
+      [
+        "hội chứng sốc thần kinh",
+        "nhịp tim bình thường hoặc chậm"
+      ],
+      [
+        "hội chứng sốc thần kinh",
+        "tổn thương tủy sống"
+      ],
+      [
+        "hội chứng sốc thần kinh",
+        "tụt huyết áp"
+      ],
+      [
+        "hội chứng sốc thần kinh (neurogenic shock)",
+        "tổn thương tủy sống từ đốt ng"
+      ],
+      [
+        "hội chứng sốc tủy (spinal shock)",
+        "không liên quan đến giảm thể tích"
+      ],
+      [
+        "hội chứng sừng sau",
+        "tổn thường sừng sau tủy sống"
+      ],
+      [
+        "hội chứng sừng trước",
+        "tổn thương sừng trước tủy sống"
+      ],
+      [
+        "hội chứng trung tâm",
+        "tổn thương trung tâm tủy sống"
+      ],
+      [
+        "khám chi tiết",
+        "xét nghiệm"
+      ],
+      [
+        "không đủ tiêu chuẩn tháo nẹp cổ",
+        "tháo nẹp cổ"
+      ],
+      [
+        "không đủ tiêu chuẩn tháo nẹp cổ",
+        "tiếp tục duy trì nẹp cổ"
+      ],
+      [
+        "methylprednisolone",
+        "phù nề tủy sống"
+      ],
+      [
+        "mất cảm giác ở vùng dưới tổn thương",
+        "tổn thường sừng sau tủy sống"
+      ],
+      [
+        "mất máu nặng",
+        "truyền máu"
+      ],
+      [
+        "mở khí quản cấp cứu qua màng",
+        "xử trí cấp cứu tại khoa cấp cứu"
+      ],
+      [
+        "mở khí quản cấp cứu qua màng",
+        "đường thở"
+      ],
+      [
+        "mức độ giảm dung tích sống (vc)",
+        "thấp dưới đốt ngực 10"
+      ],
+      [
+        "mức độ giảm dung tích sống (vc)",
+        "điểm biểu hiện lâm sàng"
+      ],
+      [
+        "người già",
+        "nẹp cổ"
+      ],
+      [
+        "người già",
+        "triệu chứng nghi ngờ"
+      ],
+      [
+        "núm vú",
+        "điểm biểu hiện lâm sàng"
+      ],
+      [
+        "nẹp cổ",
+        "thay đổi ý thức"
+      ],
+      [
+        "nẹp cổ",
+        "trẻ em"
+      ],
+      [
+        "oxy liệu pháp",
+        "thở"
+      ],
+      [
+        "phát hiện tràn khí màng phổi",
+        "thở"
+      ],
+      [
+        "phù nề tủy sống",
+        "tổn thương tủy sống"
+      ],
+      [
+        "siêu âm phát hiện các tổn thương khác",
+        "tràn máu ổ bụng"
+      ],
+      [
+        "sốc",
+        "truyền dịch tinh thể"
+      ],
+      [
+        "thay đổi ý thức",
+        "triệu chứng nghi ngờ"
+      ],
+      [
+        "thành công",
+        "tháo nẹp cổ"
+      ],
+      [
+        "tháo nẹp cổ",
+        "thất bại"
+      ],
+      [
+        "thông khí nhân tạo",
+        "thở"
+      ],
+      [
+        "triệu chứng nghi ngờ",
+        "trẻ em"
+      ],
+      [
+        "xử trí cấp cứu tại khoa cấp cứu",
+        "đặt nội khí quản"
+      ],
+      [
+        "đường thở",
+        "đặt nội khí quản"
+      ]
+    ],
+    "count": 128,
+    "create_time": 1793455779,
+    "update_time": 1793455779,
+    "_id": "09-cap-cuu-chan-thuong-cot-song"
+  },
+  "10-cap-cuu-chan-thuong-nguc": {
+    "relation_pairs": [
+      [
+        "abc",
+        "kéo dài không hết khí"
+      ],
+      [
+        "abcde",
+        "dập vỡ động mạch chủ do chấn thương"
+      ],
+      [
+        "abcde",
+        "đụng dập tim"
+      ],
+      [
+        "băng dính",
+        "miếng nilon mỏng, sạch"
+      ],
+      [
+        "bất động cột sống cổ",
+        "đánh giá và xử trí abc"
+      ],
+      [
+        "bầm tím",
+        "vết thương ngực hở"
+      ],
+      [
+        "chèn ép tim cấp",
+        "mảng sườn di động"
+      ],
+      [
+        "chèn ép tim cấp",
+        "suy hô hấp cấp"
+      ],
+      [
+        "chấn thương ngực",
+        "chọc hút dẫn lưu khí màng phổi"
+      ],
+      [
+        "chấn thương ngực",
+        "mảng sườn di động"
+      ],
+      [
+        "chấn thương ngực",
+        "tai nạn giao thông"
+      ],
+      [
+        "chấn thương ngực",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "chấn thương ngực",
+        "tràn máu màng phổi lớn"
+      ],
+      [
+        "chấn thương ngực",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "chấn thương ngực",
+        "vết thương ngực hở"
+      ],
+      [
+        "chấn thương ngực",
+        "ép tim cấp"
+      ],
+      [
+        "chấn thương ngực",
+        "đánh giá và xử trí abc"
+      ],
+      [
+        "chấn thương thực quản",
+        "chụp thực quản"
+      ],
+      [
+        "chấn thương thực quản",
+        "dẫn lưu trung thất"
+      ],
+      [
+        "chấn thương thực quản",
+        "hội chẩn ngoại khoa mổ cấp cứu"
+      ],
+      [
+        "chấn thương thực quản",
+        "kháng sinh tích cực"
+      ],
+      [
+        "chấn thương thực quản",
+        "mở khí quản cấp cứu"
+      ],
+      [
+        "chấn thương thực quản",
+        "mở thông dạ dày"
+      ],
+      [
+        "chấn thương thực quản",
+        "nội soi thực quản"
+      ],
+      [
+        "chấn thương thực quản",
+        "phẫu thuật cấp cứu thực quản"
+      ],
+      [
+        "chọc giảm áp màng phổi",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "chọc hút dẫn lưu khí màng phổi",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "chống sốc",
+        "suy hô hấp cấp"
+      ],
+      [
+        "chống sốc",
+        "tuần hoàn"
+      ],
+      [
+        "chụp ct",
+        "mảng sườn di động"
+      ],
+      [
+        "chụp ct",
+        "tràn máu màng phổi nhiều"
+      ],
+      [
+        "chụp xq",
+        "thăm khám thì hai"
+      ],
+      [
+        "ct",
+        "thăm khám thì hai"
+      ],
+      [
+        "ct lồng ngực",
+        "kéo dài không hết khí"
+      ],
+      [
+        "ct scanner",
+        "đụng dập phổi"
+      ],
+      [
+        "da xanh niêm mạc nhợt",
+        "sốc mất máu"
+      ],
+      [
+        "di động lồng ngực giảm",
+        "mảng sườn di động"
+      ],
+      [
+        "dobutamin",
+        "đụng dập tim"
+      ],
+      [
+        "dấu hiệu phì phò",
+        "vết thương ngực hở"
+      ],
+      [
+        "dẫn lưu bằng kim",
+        "tràn máu mức độ nhiều"
+      ],
+      [
+        "dẫn lưu màng phổi",
+        "tràn dịch"
+      ],
+      [
+        "dẫn lưu trung thất",
+        "đụng dập phổi"
+      ],
+      [
+        "dập vỡ động mạch chủ do chấn thương",
+        "huyết áp hai tay khác nhau"
+      ],
+      [
+        "dập vỡ động mạch chủ do chấn thương",
+        "hội chẩn chuyên khoa ngoại lồng ngực"
+      ],
+      [
+        "dập vỡ động mạch chủ do chấn thương",
+        "mạch một nửa thân mình giảm hoặc mất"
+      ],
+      [
+        "dập vỡ động mạch chủ do chấn thương",
+        "triệu chứng sốc"
+      ],
+      [
+        "dập vỡ động mạch chủ do chấn thương",
+        "xq ngực"
+      ],
+      [
+        "ecg",
+        "đụng dập tim"
+      ],
+      [
+        "giảm oxy hóa máu",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "giảm độ bão hòa oxy máu",
+        "tràn máu màng phổi nhiều"
+      ],
+      [
+        "gãy xương sườn",
+        "vết thương ngực hở"
+      ],
+      [
+        "gõ vang trống",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "gõ đục",
+        "mảng sườn di động"
+      ],
+      [
+        "gắp dị vật",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "huyết áp tụt",
+        "tĩnh mạch cổ nổi"
+      ],
+      [
+        "huyết áp tụt",
+        "ép tim cấp"
+      ],
+      [
+        "huyết áp tụt",
+        "đặt hai đường truyền cỡ lớn"
+      ],
+      [
+        "hút liên tục áp lực thấp",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "hút miệng",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "hồi sức dịch",
+        "xử trí sốc"
+      ],
+      [
+        "hỗ trợ hô hấp",
+        "ép tim cấp"
+      ],
+      [
+        "hỗ trợ hô hấp",
+        "ống kết hợp"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại",
+        "vết thương ngực hở"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại lồng ngực",
+        "đụng dập tim"
+      ],
+      [
+        "khó thở",
+        "tràn máu màng phổi nhiều"
+      ],
+      [
+        "khó thở dữ dội",
+        "oxy liệu pháp"
+      ],
+      [
+        "kéo dài không hết khí",
+        "nội soi đường thở"
+      ],
+      [
+        "kéo dài không hết khí",
+        "đặt nội khí quản"
+      ],
+      [
+        "lý liệu pháp ngực",
+        "suy hô hấp nặng"
+      ],
+      [
+        "lồng ngực căng phồng một bên",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "lồng ngực mất vững nặng",
+        "ép tim cấp"
+      ],
+      [
+        "men tim tăng",
+        "đụng dập tim"
+      ],
+      [
+        "miếng nilon mỏng, sạch",
+        "môt chiều trên vết thương"
+      ],
+      [
+        "môt chiều trên vết thương",
+        "nút bịt ngực asherman"
+      ],
+      [
+        "môt chiều trên vết thương",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "mạch nhanh",
+        "sốc mất máu"
+      ],
+      [
+        "mảng sườn di động",
+        "rung thanh tăng"
+      ],
+      [
+        "mảng sườn di động",
+        "rì rào phế nang giảm hoặc mất"
+      ],
+      [
+        "mất rì rào phế nang",
+        "vỡ cơ hoành"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "đường thở"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "ống kết hợp"
+      ],
+      [
+        "mở khí quản",
+        "mở màng nhẫn giáp"
+      ],
+      [
+        "mở khí quản cấp cứu",
+        "đụng dập phổi"
+      ],
+      [
+        "mở màng phổi cấp cứu",
+        "tràn khí màng phổi nhiều"
+      ],
+      [
+        "mở màng phổi tối thiểu",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "nhịp tim nhanh",
+        "rối loạn huyết động"
+      ],
+      [
+        "nhồi máu cơ tim",
+        "đụng dập tim"
+      ],
+      [
+        "oxy liệu pháp",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "oxy liệu pháp",
+        "ép tim cấp"
+      ],
+      [
+        "phì phò",
+        "vết thương ngực hở"
+      ],
+      [
+        "phẫu thuật cấp cứu thực quản",
+        "đụng dập phổi"
+      ],
+      [
+        "phẫu thuật cầm máu",
+        "xử trí sốc"
+      ],
+      [
+        "rì rào phế nang giảm hoặc mất",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "rì rào phế nang giảm hoặc mất",
+        "vết thương ngực hở"
+      ],
+      [
+        "rối loạn huyết động",
+        "tĩnh mạch cổ nổi"
+      ],
+      [
+        "rối loạn huyết động",
+        "tụt huyết áp"
+      ],
+      [
+        "siêu âm",
+        "thăm khám thì hai"
+      ],
+      [
+        "siêu âm",
+        "đụng dập tim"
+      ],
+      [
+        "siêu âm: dịch màng ngoài tim",
+        "ép tim cấp"
+      ],
+      [
+        "suy hô hấp",
+        "ương sườn số 1 hoặc 2"
+      ],
+      [
+        "suy hô hấp cấp",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "suy hô hấp cấp",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "suy hô hấp cấp tính",
+        "thở nhanh"
+      ],
+      [
+        "suy hô hấp cấp tính",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "suy hô hấp cấp tính",
+        "tím môi"
+      ],
+      [
+        "suy hô hấp cấp tính",
+        "đầu chi"
+      ],
+      [
+        "suy hô hấp nặng",
+        "thở máy"
+      ],
+      [
+        "suy hô hấp nặng",
+        "thở oxy"
+      ],
+      [
+        "suy hô hấp nặng",
+        "đặt nội khí quản"
+      ],
+      [
+        "sốc mất máu",
+        "truyền dịch tinh thể"
+      ],
+      [
+        "sốc mất máu",
+        "truyền máu"
+      ],
+      [
+        "sốc mất máu",
+        "tụt huyết áp"
+      ],
+      [
+        "theo dõi áp lực tĩnh mạch trung tâm",
+        "đặt đường truyền tĩnh mạch trung tâm"
+      ],
+      [
+        "thăm khám thì đầu",
+        "đánh giá và xử trí abc"
+      ],
+      [
+        "thở máy",
+        "ép tim cấp"
+      ],
+      [
+        "thở nhanh",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "thủ thuật hemlich",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "tiếng tim nghe mờ, nhịp tim nhanh",
+        "ép tim cấp"
+      ],
+      [
+        "truyền dịch tinh thể",
+        "tràn máu màng phổi nhiều"
+      ],
+      [
+        "truyền máu",
+        "tràn máu màng phổi nhiều"
+      ],
+      [
+        "tràn khí dưới da",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "tràn khí màng phổi",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "tràn khí màng phổi áp lực",
+        "tím môi"
+      ],
+      [
+        "tràn khí màng phổi áp lực",
+        "vết thương ngực hở"
+      ],
+      [
+        "tràn khí màng phổi áp lực",
+        "đánh giá và xử trí abc"
+      ],
+      [
+        "tràn khí màng phổi áp lực",
+        "đầu chi"
+      ],
+      [
+        "tràn máu màng phổi",
+        "tràn máu màng phổi lớn"
+      ],
+      [
+        "tràn máu màng phổi nhiều",
+        "đánh giá và xử trí abc"
+      ],
+      [
+        "tạo một van môt chiều",
+        "vết thương ngực hở"
+      ],
+      [
+        "tắc nghẽn đường thở",
+        "đặt nội khí quản"
+      ],
+      [
+        "tắc nghẽn đường thở",
+        "đặt đường thở phụ miệng hầu"
+      ],
+      [
+        "va đập trực tiếp vào vùng tim",
+        "đụng dập tim"
+      ],
+      [
+        "vận chuyển đến bệnh viện",
+        "vật xuyên thấu vào ngực"
+      ],
+      [
+        "vỡ cơ hoành",
+        "xq"
+      ],
+      [
+        "vỡ cơ hoành",
+        "ống thông dạ dày nằm trên ngực"
+      ],
+      [
+        "vỡ xương ức",
+        "đụng dập tim"
+      ],
+      [
+        "xq ngực",
+        "đụng dập phổi"
+      ],
+      [
+        "xử trí sốc",
+        "đầu thấp chân cao"
+      ],
+      [
+        "ép tim cấp",
+        "điện tim: giảm điện thế ngoại biên"
+      ],
+      [
+        "ép tim cấp",
+        "đụng dập tim"
+      ],
+      [
+        "đau ngực vùng trước tim",
+        "đụng dập tim"
+      ],
+      [
+        "đánh giá lại liên tục",
+        "đường thở"
+      ],
+      [
+        "đánh giá và xử trí abc",
+        "đường thở"
+      ],
+      [
+        "đường thở",
+        "đặt nội khí quản"
+      ],
+      [
+        "đặt catheter tmtt",
+        "đụng dập tim"
+      ]
+    ],
+    "count": 145,
+    "create_time": 1793456794,
+    "update_time": 1793456794,
+    "_id": "10-cap-cuu-chan-thuong-nguc"
+  },
+  "11-cap-cuu-chan-thuong-bung": {
+    "relation_pairs": [
+      [
+        "100000 hc/ml",
+        "chọc rửa thăm dò ổ bụng"
+      ],
+      [
+        "500 bạch cầu/ml",
+        "chọc rửa thăm dò ổ bụng"
+      ],
+      [
+        "abcd",
+        "airway"
+      ],
+      [
+        "abcd",
+        "breathing"
+      ],
+      [
+        "abcd",
+        "circulation"
+      ],
+      [
+        "airway",
+        "hút sạch máu đờm dãi"
+      ],
+      [
+        "airway",
+        "móc dị vật"
+      ],
+      [
+        "airway",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "airway",
+        "đường thở"
+      ],
+      [
+        "airway",
+        "đặt canuyl miệng hầu"
+      ],
+      [
+        "airway",
+        "đặt nội khí quản"
+      ],
+      [
+        "airway",
+        "ưỡn cổ nhấc cằm"
+      ],
+      [
+        "airway",
+        "ấn hàm"
+      ],
+      [
+        "breathing",
+        "suy hô hấp cấp"
+      ],
+      [
+        "buồn nôn",
+        "chấn thương bụng"
+      ],
+      [
+        "bàng quang",
+        "chấn thương bụng kín"
+      ],
+      [
+        "bộc lộ khám toàn thân",
+        "hỏi tiền sử, bệnh sử"
+      ],
+      [
+        "bộc lộ khám toàn thân",
+        "hội chẩn chuyên khoa ngoại"
+      ],
+      [
+        "bộc lộ khám toàn thân",
+        "mời chuyên khoa ngoại hội chẩn"
+      ],
+      [
+        "bụng chướng",
+        "chấn thương bụng"
+      ],
+      [
+        "catheter",
+        "chọc rửa thăm dò ổ bụng"
+      ],
+      [
+        "chuyển phòng mổ",
+        "hội chẩn chuyên khoa ngoại"
+      ],
+      [
+        "chấn thương bụng",
+        "chấn thương ngực"
+      ],
+      [
+        "chấn thương bụng",
+        "chấn thương xương chậu"
+      ],
+      [
+        "chấn thương bụng",
+        "co cứng cơ thành bụng"
+      ],
+      [
+        "chấn thương bụng",
+        "gãy xương sườn 7-9"
+      ],
+      [
+        "chấn thương bụng",
+        "nôn ra máu"
+      ],
+      [
+        "chấn thương bụng",
+        "phòi tạng ổ bụng ra ngoài"
+      ],
+      [
+        "chấn thương bụng",
+        "phản ứng thành bụng"
+      ],
+      [
+        "chấn thương bụng",
+        "sốc nhiễm khuẩn"
+      ],
+      [
+        "chấn thương bụng",
+        "triệu chứng lâm sàng"
+      ],
+      [
+        "chấn thương bụng",
+        "viêm phúc mạc cấp"
+      ],
+      [
+        "chấn thương bụng",
+        "vật xuyên thấu bụng"
+      ],
+      [
+        "chấn thương bụng",
+        "vết bầm tím xây sát thành bụng"
+      ],
+      [
+        "chấn thương bụng",
+        "vết thương bụng hở"
+      ],
+      [
+        "chấn thương bụng",
+        "vết thương, chấn thương vùng thấp của ngực"
+      ],
+      [
+        "chấn thương bụng",
+        "đau bụng"
+      ],
+      [
+        "chấn thương bụng kín",
+        "chụp cắt lớp vi tính ổ bụng"
+      ],
+      [
+        "chấn thương bụng kín",
+        "gan"
+      ],
+      [
+        "chấn thương bụng kín",
+        "lách"
+      ],
+      [
+        "chấn thương bụng kín",
+        "ruột non"
+      ],
+      [
+        "chấn thương bụng kín",
+        "thận"
+      ],
+      [
+        "chấn thương bụng kín",
+        "tụy"
+      ],
+      [
+        "chấn thương bụng kín",
+        "đại tràng"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "cắt lớp vi tính"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "dưới rốn"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "fast"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "gãy xương sườn"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "liềm hơi ổ bụng"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "siêu âm"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "sonde dạ dày"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "sonde tiểu"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "tràn dịch tràn khí màng phổi"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "tổn thương xương chậu"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "vết thương xuyên thấu ổ bụng"
+      ],
+      [
+        "chọc rửa thăm dò ổ bụng",
+        "đường trắng giữa"
+      ],
+      [
+        "chụp cắt lớp vi tính ổ bụng",
+        "dịch tràn khí màng phổi"
+      ],
+      [
+        "chụp cắt lớp vi tính ổ bụng",
+        "huyết động không ổn định"
+      ],
+      [
+        "chụp cắt lớp vi tính ổ bụng",
+        "tổn thương xương chậu"
+      ],
+      [
+        "chụp x quang ngực",
+        "gãy xương sườn"
+      ],
+      [
+        "chụp xq ngực, bụng",
+        "vết thương bụng hở"
+      ],
+      [
+        "ct ổ bụng",
+        "vết thương phòi tạng"
+      ],
+      [
+        "cân nhắc sử dụng các thuốc vận mạch",
+        "tuần hoàn"
+      ],
+      [
+        "công thức máu",
+        "huyết động không ổn định"
+      ],
+      [
+        "cơ hoành",
+        "siêu âm ổ bụng cấp cứu"
+      ],
+      [
+        "dùng thuốc vận mạch",
+        "đặt đường truyền tm trung tâm"
+      ],
+      [
+        "dẫn lưu dịch, khí màng phổi",
+        "dịch tràn khí màng phổi"
+      ],
+      [
+        "dịch cao phân tử",
+        "hồi sức dịch"
+      ],
+      [
+        "dịch cao phân tử",
+        "đặt hai đường truyền lớn"
+      ],
+      [
+        "fast",
+        "túi cùng douglas"
+      ],
+      [
+        "gan",
+        "siêu âm ổ bụng cấp cứu"
+      ],
+      [
+        "giảm đau",
+        "tình trạng thần kinh"
+      ],
+      [
+        "hô hấp",
+        "oxy liệu pháp"
+      ],
+      [
+        "hỏi tiền sử, bệnh sử",
+        "thăm khám thì hai"
+      ],
+      [
+        "hồi sức dịch",
+        "máu và các chế phẩm máu"
+      ],
+      [
+        "hồi sức dịch",
+        "truyền dịch tinh thể"
+      ],
+      [
+        "hồi sức dịch",
+        "xử trí sốc"
+      ],
+      [
+        "hồng cầu niệu",
+        "nước tiểu"
+      ],
+      [
+        "hỗ trợ hô hấp",
+        "ống kết hợp"
+      ],
+      [
+        "khoang gan thận",
+        "siêu âm chấn thương nhanh"
+      ],
+      [
+        "khoang lách thận",
+        "siêu âm chấn thương nhanh"
+      ],
+      [
+        "khí máu",
+        "suy hô hấp cấp"
+      ],
+      [
+        "kỹ thuật log-roll",
+        "tình trạng thần kinh"
+      ],
+      [
+        "liềm hơi ổ bụng",
+        "vỡ tạng rỗng"
+      ],
+      [
+        "lách",
+        "siêu âm ổ bụng cấp cứu"
+      ],
+      [
+        "màng ngoài tim",
+        "siêu âm chấn thương nhanh"
+      ],
+      [
+        "máu và các chế phẩm máu",
+        "đặt hai đường truyền lớn"
+      ],
+      [
+        "siêu âm chấn thương nhanh",
+        "siêu âm ổ bụng cấp cứu"
+      ],
+      [
+        "siêu âm chấn thương nhanh",
+        "túi cùng douglas"
+      ],
+      [
+        "siêu âm ổ bụng",
+        "vết thương xuyên thấu ổ bụng"
+      ],
+      [
+        "siêu âm ổ bụng cấp cứu",
+        "tạng rỗng"
+      ],
+      [
+        "theo dõi cvp",
+        "đặt đường truyền tĩnh mạch trung tâm"
+      ],
+      [
+        "thăm khám thì hai",
+        "tiến hành các thăm dò khác"
+      ],
+      [
+        "truyền dịch tinh thể",
+        "đặt hai đường truyền lớn"
+      ],
+      [
+        "tình trạng thần kinh",
+        "điểm glasgow"
+      ],
+      [
+        "tình trạng thần kinh",
+        "đồng tử"
+      ],
+      [
+        "vết thương bụng hở",
+        "vết thương phòi tạng"
+      ],
+      [
+        "vết thương phòi tạng",
+        "xét nghiệm máu"
+      ]
+    ],
+    "count": 98,
+    "create_time": 1793457333,
+    "update_time": 1793457333,
+    "_id": "11-cap-cuu-chan-thuong-bung"
+  },
+  "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi": {
+    "relation_pairs": [
+      [
+        "atls",
+        "sốc"
+      ],
+      [
+        "bicarbonate và lactat máu",
+        "mất máu"
+      ],
+      [
+        "bão hòa oxy",
+        "ép tim cấp"
+      ],
+      [
+        "bù 2000 ml dịch nacl 0,9%",
+        "sốc mất máu"
+      ],
+      [
+        "bù dịch",
+        "dung dịch cao phân tử"
+      ],
+      [
+        "bệnh nhân",
+        "cấp cứu ngoại viện"
+      ],
+      [
+        "bệnh viện",
+        "chấn thương nặng"
+      ],
+      [
+        "chuyển hóa yếm khí",
+        "sốc chấn thương"
+      ],
+      [
+        "chấn thương",
+        "gãy xương"
+      ],
+      [
+        "chấn thương",
+        "nẹp cố định cột sống cổ"
+      ],
+      [
+        "chấn thương cột sống cổ nặng",
+        "sốc chấn thương"
+      ],
+      [
+        "chấn thương mạch máu",
+        "gãy xương chậu mất vững"
+      ],
+      [
+        "chấn thương mạch máu",
+        "sốc mất máu"
+      ],
+      [
+        "chấn thương ngực kín",
+        "tràn khí màng phổi"
+      ],
+      [
+        "chấn thương ngực kín",
+        "ép tim cấp"
+      ],
+      [
+        "chấn thương nặng",
+        "sốc"
+      ],
+      [
+        "chấn thương thấu ngực",
+        "tràn khí màng phổi"
+      ],
+      [
+        "chấn thương thấu ngực",
+        "ép tim cấp"
+      ],
+      [
+        "chọc tháo dịch màng tim",
+        "ép tim cấp"
+      ],
+      [
+        "cryo",
+        "ép tim cấp"
+      ],
+      [
+        "cvp",
+        "ép tim cấp"
+      ],
+      [
+        "cơ tim cấp",
+        "tắc mạch mỡ hoặc mạch hơi"
+      ],
+      [
+        "cơ tim cấp",
+        "tụt huyết áp"
+      ],
+      [
+        "cấp cứu ngoại viện",
+        "cầm máu"
+      ],
+      [
+        "cấp cứu ngoại viện",
+        "phân loại"
+      ],
+      [
+        "cấp cứu ngoại viện",
+        "tối ưu hóa oxy máu"
+      ],
+      [
+        "cầm máu",
+        "gãy xương"
+      ],
+      [
+        "da niêm mạc nhợt nhạt, lạnh",
+        "mất máu"
+      ],
+      [
+        "gãy xương",
+        "siêu âm đánh giá dịch ổ bụng"
+      ],
+      [
+        "gãy xương chậu mất vững",
+        "siêu âm đánh giá dịch ổ bụng"
+      ],
+      [
+        "huyết tương tươi động lạnh",
+        "hồng cầu"
+      ],
+      [
+        "huyết tương tươi động lạnh",
+        "tiểu cầu"
+      ],
+      [
+        "huyết tương tươi động lạnh",
+        "ép tim cấp"
+      ],
+      [
+        "huyết áp",
+        "sốc"
+      ],
+      [
+        "huyết áp",
+        "ép tim cấp"
+      ],
+      [
+        "huyết áp trung bình",
+        "sốc mất máu"
+      ],
+      [
+        "huyết áp tâm thu",
+        "sốc mất máu"
+      ],
+      [
+        "hô hấp",
+        "tuần hoàn"
+      ],
+      [
+        "hô hấp",
+        "tối ưu hóa oxy máu"
+      ],
+      [
+        "hô hấp",
+        "đường thở"
+      ],
+      [
+        "hôn mê",
+        "sốc chấn thương"
+      ],
+      [
+        "hạ thân nhiệt",
+        "sốc chấn thương"
+      ],
+      [
+        "khoang màng phổi",
+        "mất máu"
+      ],
+      [
+        "khoang sau phúc mạc",
+        "mất máu"
+      ],
+      [
+        "khát nước",
+        "sốc chấn thương"
+      ],
+      [
+        "khí quản bị đẩy lệch",
+        "tràn khí mạng phổi"
+      ],
+      [
+        "khó thở",
+        "suy hô hấp"
+      ],
+      [
+        "lactat",
+        "ép tim cấp"
+      ],
+      [
+        "lấy máu làm xét nghiệm",
+        "định nhóm máu"
+      ],
+      [
+        "lờ đờ",
+        "sốc chấn thương"
+      ],
+      [
+        "mạch nhanh, nhỏ, huyết áp hạ",
+        "mất máu"
+      ],
+      [
+        "mất máu",
+        "mất máu ra ngoài"
+      ],
+      [
+        "mất máu",
+        "siêu âm ổ bụng"
+      ],
+      [
+        "mất máu",
+        "sốc chấn thương"
+      ],
+      [
+        "mất máu",
+        "tim môi và đầu chi thường khó thấy"
+      ],
+      [
+        "mất máu",
+        "vật vã, lờ đờ, rối loạn ý thức"
+      ],
+      [
+        "mất máu",
+        "áp lực tĩnh mạch trung tâm thấp"
+      ],
+      [
+        "mất máu",
+        "ổ bụng"
+      ],
+      [
+        "mở ngực cấp cứu",
+        "ép tim cấp"
+      ],
+      [
+        "nhịp thở",
+        "sốc"
+      ],
+      [
+        "nhịp tim",
+        "sốc"
+      ],
+      [
+        "nhịp tim",
+        "ép tim cấp"
+      ],
+      [
+        "nhồi máu cơ tim cấp",
+        "sốc chấn thương"
+      ],
+      [
+        "nước tiểu",
+        "ép tim cấp"
+      ],
+      [
+        "rối loạn huyết động",
+        "sốc chấn thương"
+      ],
+      [
+        "rối loạn ý thức",
+        "sốc chấn thương"
+      ],
+      [
+        "siêu âm tại giường",
+        "ép tim cấp"
+      ],
+      [
+        "suy hô hấp",
+        "thở nhanh"
+      ],
+      [
+        "suy hô hấp",
+        "tràn khí mạng phổi"
+      ],
+      [
+        "suy hô hấp",
+        "tụt huyết áp"
+      ],
+      [
+        "suy tim",
+        "sốc chấn thương"
+      ],
+      [
+        "suy tạng",
+        "sốc chấn thương"
+      ],
+      [
+        "sốc",
+        "toan chuyển hóa"
+      ],
+      [
+        "sốc",
+        "tưới máu"
+      ],
+      [
+        "sốc chấn thương",
+        "thiếu hụt chuyển hóa cơ bản"
+      ],
+      [
+        "sốc chấn thương",
+        "thiếu máu cơ tim"
+      ],
+      [
+        "sốc chấn thương",
+        "thiếu oxy"
+      ],
+      [
+        "sốc chấn thương",
+        "tràn khí màng phổi"
+      ],
+      [
+        "sốc chấn thương",
+        "tràn khí màng phổi áp lực"
+      ],
+      [
+        "sốc chấn thương",
+        "tưới máu các tạng quan trọng"
+      ],
+      [
+        "sốc chấn thương",
+        "tắc mạch mỡ hoặc mạch hơi"
+      ],
+      [
+        "sốc chấn thương",
+        "vô niệu"
+      ],
+      [
+        "sốc chấn thương",
+        "vật vã"
+      ],
+      [
+        "sốc chấn thương",
+        "ép tim cấp"
+      ],
+      [
+        "sốc chấn thương",
+        "đái ít"
+      ],
+      [
+        "sốc chấn thương",
+        "đụng dập phổi"
+      ],
+      [
+        "sốc thần kinh",
+        "tụt huyết áp"
+      ],
+      [
+        "thể tích lòng mạch",
+        "tụt huyết áp"
+      ],
+      [
+        "thể tích lòng mạch",
+        "đặt đường truyền lớn"
+      ],
+      [
+        "tràn khí màng phổi",
+        "đặt dẫn lưu lớn"
+      ],
+      [
+        "tràn khí màng phổi áp lực",
+        "xquang hoặc cắt lớp vi tính"
+      ],
+      [
+        "tràn khí mạng phổi",
+        "tụt huyết áp"
+      ]
+    ],
+    "count": 92,
+    "create_time": 1793457790,
+    "update_time": 1793457790,
+    "_id": "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi"
+  },
+  "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi": {
+    "relation_pairs": [
+      [
+        "abcde",
+        "chẩn đoán sớm hội chứng khoang"
+      ],
+      [
+        "bó bột",
+        "cố định chi gãy"
+      ],
+      [
+        "băng",
+        "hội chứng khoang"
+      ],
+      [
+        "băng kín vết thương hở",
+        "vết thương xương khớp hở"
+      ],
+      [
+        "băng ép",
+        "chấn thương xương và mô mềm"
+      ],
+      [
+        "băng ép cầm máu",
+        "gãy xương"
+      ],
+      [
+        "băng, nẹp, bó bột quá chặt",
+        "chèn ép khoang cấp tính"
+      ],
+      [
+        "bất động chi gãy",
+        "cố định chi gãy"
+      ],
+      [
+        "bất động chi gãy",
+        "nẹp cố định"
+      ],
+      [
+        "bất động chi gãy",
+        "tổn thương khớp"
+      ],
+      [
+        "bất động khung chậu",
+        "chấn thương xương chậu"
+      ],
+      [
+        "bỏ vào túi nilon sạch dán kín",
+        "chi thể đứt rời"
+      ],
+      [
+        "bỏng",
+        "chèn ép khoang cấp tính"
+      ],
+      [
+        "chuyển ghép nối chi",
+        "phòng mổ"
+      ],
+      [
+        "chuyển phẫu thuật",
+        "chấn thương xương chậu"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "chấn thương"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "cắt cụt chi"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "da vùng chi tái"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "giữ chi ở ngang mức tim"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "kháng sinh dự phòng"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "không bắt được mạch dưới vùng tổn thương"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "phẫu thuật giải chèn ép"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "rạch cân cơ giảm áp"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "sưng, căng phồng vùng bị chèn ép"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "tháo hoặc nới băng, nẹp, bột quá chặt"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "tê bì vùng da"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "viêm sưng tấy các bó cơ"
+      ],
+      [
+        "chèn ép khoang cấp tính",
+        "đau nhức tự nhiên khu trú"
+      ],
+      [
+        "chườm lạnh đầu mỏm cụt",
+        "mỏm cụt"
+      ],
+      [
+        "chấn thương",
+        "viêm sưng tấy các bó cơ"
+      ],
+      [
+        "chấn thương xương chậu",
+        "hồi sức abcd"
+      ],
+      [
+        "chấn thương xương chậu",
+        "hội chẩn chuyên khoa chấn thương"
+      ],
+      [
+        "chấn thương xương chậu",
+        "hội chứng khoang"
+      ],
+      [
+        "chấn thương xương chậu",
+        "khám chấn thương toàn diện"
+      ],
+      [
+        "chấn thương xương chậu",
+        "sốc mất máu"
+      ],
+      [
+        "chấn thương xương chậu",
+        "vết bầm tím dọc hai bên sườn"
+      ],
+      [
+        "chấn thương xương chậu",
+        "vết bầm tím quanh rốn"
+      ],
+      [
+        "chấn thương xương chậu",
+        "đau vùng hạ vị"
+      ],
+      [
+        "chấn thương xương chậu",
+        "đau xương chậu"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "garô"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "gãy một chi"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "gãy xương chậu"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "gãy xương đùi"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "hội chứng khoang"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "vết thương đứt rời"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "xương sườn"
+      ],
+      [
+        "chấn thương xương và mô mềm",
+        "đường thở – hô hấp – tuần hoàn"
+      ],
+      [
+        "chống sốc",
+        "các chế phẩm máu"
+      ],
+      [
+        "chống sốc",
+        "truyền dịch tinh thể"
+      ],
+      [
+        "chụp xq",
+        "gãy xương"
+      ],
+      [
+        "công thức máu",
+        "xét nghiệm thường quy"
+      ],
+      [
+        "cầm máu",
+        "cầm máu bằng cách băng ép hoặc garo"
+      ],
+      [
+        "cầm máu",
+        "trí đường thở"
+      ],
+      [
+        "cầm máu: băng ép, garo",
+        "vết thương cắt cụt không hoàn toàn"
+      ],
+      [
+        "cắt lọc nếu bẩn hoặc dập nát nhiều",
+        "mỏm cụt"
+      ],
+      [
+        "cắt lớp vi tính",
+        "dấu hiệu gãy xương"
+      ],
+      [
+        "cắt lớp vi tính",
+        "xét nghiệm thường quy"
+      ],
+      [
+        "cẳng tay",
+        "cố định xương cẳng chân"
+      ],
+      [
+        "cố định",
+        "trật khớp"
+      ],
+      [
+        "cố định",
+        "vết thương đứt rời hoàn toàn"
+      ],
+      [
+        "cố định",
+        "vết thương đứt rời không hoàn toàn"
+      ],
+      [
+        "cố định chi gãy",
+        "đánh giá"
+      ],
+      [
+        "cố định chắc",
+        "nắn trở lại tư thế giải phẫu"
+      ],
+      [
+        "cố định chắc",
+        "phòng mổ"
+      ],
+      [
+        "cố định cổ tay",
+        "khớp khuỷu"
+      ],
+      [
+        "cố định xương cẳng chân",
+        "nẹp"
+      ],
+      [
+        "cố định xương ngón tay",
+        "tay"
+      ],
+      [
+        "dấu hiệu biến dạng",
+        "trật khớp"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "giảm đau"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "khám chấn thương toàn thân"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "siêu âm"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xq"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xương chày, mác"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xương chậu"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xương cánh tay"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xương quay hoặc trụ"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xương sườn"
+      ],
+      [
+        "dấu hiệu gãy xương",
+        "xương đùi"
+      ],
+      [
+        "dấu hiệu lò xo",
+        "trật khớp"
+      ],
+      [
+        "garo phía trên tổn thương",
+        "gãy xương"
+      ],
+      [
+        "ghép da",
+        "hội chẩn chuyên khoa ngoại chấn thương"
+      ],
+      [
+        "giảm đau",
+        "gãy xương sườn"
+      ],
+      [
+        "giảm đau",
+        "đau"
+      ],
+      [
+        "giảm đau",
+        "đau nhức tự nhiên khu trú"
+      ],
+      [
+        "giữ chi ở ngang mức tim",
+        "trật khớp"
+      ],
+      [
+        "gãy xương",
+        "gãy xương chậu"
+      ],
+      [
+        "gãy xương",
+        "gãy xương kín"
+      ],
+      [
+        "gãy xương",
+        "gãy xương đùi"
+      ],
+      [
+        "gãy xương",
+        "sai khớp"
+      ],
+      [
+        "gãy xương",
+        "trật khớp"
+      ],
+      [
+        "gãy xương",
+        "vật xuyên thấu vào chi"
+      ],
+      [
+        "gãy xương",
+        "đánh giá: mạch cảm giác vận động"
+      ],
+      [
+        "gãy xương chậu",
+        "xương quay"
+      ],
+      [
+        "gãy xương sườn",
+        "xương sườn"
+      ],
+      [
+        "hỗ trợ tuần hoàn",
+        "sốc mất máu"
+      ],
+      [
+        "hội chẩn chuyên khoa chấn thương",
+        "phẫu thuật"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại",
+        "rạch cân cơ giảm áp"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại",
+        "trật khớp"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại chấn thương",
+        "khâu"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại chấn thương",
+        "nguyên tắc cố định chi gãy"
+      ],
+      [
+        "hội chẩn chuyên khoa ngoại chấn thương",
+        "nối chi"
+      ],
+      [
+        "hội chứng chèn ép khoang",
+        "hội chứng khoang"
+      ],
+      [
+        "kháng sinh dự phòng",
+        "trật khớp"
+      ],
+      [
+        "nẹp bất động",
+        "vết thương cắt cụt không hoàn toàn"
+      ],
+      [
+        "nẹp hare",
+        "vỡ xương chậu"
+      ],
+      [
+        "nẹp sager",
+        "vỡ xương chậu"
+      ],
+      [
+        "nẹp thomas",
+        "vỡ xương chậu"
+      ],
+      [
+        "rửa sạch vết thương",
+        "vết thương xương khớp hở"
+      ],
+      [
+        "sinh hóa",
+        "xét nghiệm thường quy"
+      ],
+      [
+        "siêu âm",
+        "xét nghiệm thường quy"
+      ],
+      [
+        "sưng",
+        "trật khớp"
+      ],
+      [
+        "sốc mất máu",
+        "vỡ xương chậu"
+      ],
+      [
+        "tiêm phòng uốn ván",
+        "trật khớp"
+      ],
+      [
+        "triệu chứng gợi",
+        "vỡ xương chậu"
+      ],
+      [
+        "trật khớp",
+        "vết thương đứt rời hoàn toàn"
+      ],
+      [
+        "trật khớp",
+        "vết thương đứt rời không hoàn toàn"
+      ],
+      [
+        "trật khớp",
+        "xét nghiệm"
+      ],
+      [
+        "trật khớp",
+        "đau"
+      ],
+      [
+        "trật khớp",
+        "đánh giá và bảo đảm abc"
+      ],
+      [
+        "tình trạng bệnh nhân",
+        "xét nghiệm, thăm dò chẩn đoán hình ảnh"
+      ],
+      [
+        "tổn thương khớp",
+        "đánh giá: mạch cảm giác vận động"
+      ],
+      [
+        "tỷ lệ tử vong",
+        "vỡ xương chậu"
+      ],
+      [
+        "vết thương cắt cụt không hoàn toàn",
+        "đặt lại tư thế giải phẫu"
+      ],
+      [
+        "vết thương đứt rời hoàn toàn",
+        "xét nghiệm"
+      ],
+      [
+        "vết thương đứt rời hoàn toàn",
+        "đánh giá và bảo đảm abc"
+      ],
+      [
+        "vết thương đứt rời không hoàn toàn",
+        "xét nghiệm"
+      ],
+      [
+        "vết thương đứt rời không hoàn toàn",
+        "đánh giá và bảo đảm abc"
+      ],
+      [
+        "vỡ xương chậu",
+        "đánh giá và hỗ trợ tuần hoàn"
+      ],
+      [
+        "xq",
+        "xét nghiệm thường quy"
+      ]
+    ],
+    "count": 129,
+    "create_time": 1793458474,
+    "update_time": 1793458474,
+    "_id": "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi"
+  },
+  "14-xu-tri-cap-cuu-benh-nhan-bong": {
+    "relation_pairs": [
+      [
+        "acid",
+        "bỏng hóa chất"
+      ],
+      [
+        "acid",
+        "dung dịch, bicarbonat"
+      ],
+      [
+        "albumin 5%",
+        "thể tích tuần hoàn"
+      ],
+      [
+        "bác sỹ khoa cấp cứu",
+        "hội chẩn"
+      ],
+      [
+        "bù dịch",
+        "bệnh nhân bỏng nặng"
+      ],
+      [
+        "bệnh nhân",
+        "hồi sức"
+      ],
+      [
+        "bệnh nhân",
+        "điều trị theo chuyên khoa sâu về bỏng"
+      ],
+      [
+        "bệnh nhân bỏng nặng",
+        "chẩn đoán độ sâu"
+      ],
+      [
+        "bệnh nhân bỏng nặng",
+        "eosine"
+      ],
+      [
+        "bệnh nhân bỏng nặng",
+        "khuẩn"
+      ],
+      [
+        "bệnh nhân bỏng nặng",
+        "kháng sinh dự phòng"
+      ],
+      [
+        "bệnh nhân bỏng nặng",
+        "uốn ván"
+      ],
+      [
+        "bệnh nhân bỏng nặng",
+        "vật liệu thấm hút"
+      ],
+      [
+        "bỏng",
+        "chẩn đoán độ sâu"
+      ],
+      [
+        "bỏng",
+        "xử trí như vết thương chảy máu"
+      ],
+      [
+        "bỏng do hít",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "bỏng do hóa chất",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "bỏng do lạnh",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "bỏng do nóng",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "bỏng do phóng xạ",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "bỏng do điện",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "bỏng hít",
+        "khí độc co"
+      ],
+      [
+        "bỏng hóa chất",
+        "chuyên ngành mắt"
+      ],
+      [
+        "bỏng hóa chất",
+        "kiềm"
+      ],
+      [
+        "bỏng hóa chất",
+        "phospho"
+      ],
+      [
+        "bỏng hóa chất",
+        "rửa lại liên tục bằng nước"
+      ],
+      [
+        "bỏng hóa chất",
+        "rửa sớm"
+      ],
+      [
+        "bỏng hóa chất",
+        "sét đánh"
+      ],
+      [
+        "bỏng hóa chất",
+        "tháo bỏ quần áo bị dính hóa chất"
+      ],
+      [
+        "bỏng hóa chất",
+        "vôi nước tôi"
+      ],
+      [
+        "bỏng hóa chất",
+        "điện giật"
+      ],
+      [
+        "bỏng hóa chất ở mắt",
+        "rửa bằng nước sạch"
+      ],
+      [
+        "bỏng nặng",
+        "nhiễm khuẩn"
+      ],
+      [
+        "bỏng rộng",
+        "tổn thương phổi do suy hô hấp cấp"
+      ],
+      [
+        "bỏng đường hô hấp",
+        "tổn thương phổi do suy hô hấp cấp"
+      ],
+      [
+        "bộ phận sinh dục ngoài",
+        "wallace"
+      ],
+      [
+        "bộ phận sinh dục ngoài",
+        "độ 1"
+      ],
+      [
+        "chi dưới",
+        "wallace"
+      ],
+      [
+        "chi dưới",
+        "độ 1"
+      ],
+      [
+        "chi trên",
+        "wallace"
+      ],
+      [
+        "chi trên",
+        "độ 1"
+      ],
+      [
+        "cấp cứu",
+        "phân độ nặng"
+      ],
+      [
+        "cấp cứu",
+        "sơ cứu"
+      ],
+      [
+        "dung dịch có pha giấm",
+        "kiềm"
+      ],
+      [
+        "ha",
+        "thể tích tuần hoàn"
+      ],
+      [
+        "hô hấp",
+        "ng gây ra"
+      ],
+      [
+        "hô hấp",
+        "spo2"
+      ],
+      [
+        "hô hấp",
+        "thở oxy mũi mask"
+      ],
+      [
+        "hô hấp",
+        "đặt ống nội khí quản"
+      ],
+      [
+        "khí độc",
+        "tổn thương phổi do suy hô hấp cấp"
+      ],
+      [
+        "mạch",
+        "thể tích tuần hoàn"
+      ],
+      [
+        "ng gây ra",
+        "thần kinh"
+      ],
+      [
+        "ng gây ra",
+        "tuần hoàn"
+      ],
+      [
+        "ng gây ra",
+        "ý thức"
+      ],
+      [
+        "nước tiểu",
+        "thể tích tuần hoàn"
+      ],
+      [
+        "nẹp cố định",
+        "vỏng bằng gạc vô khuẩn"
+      ],
+      [
+        "phân độ nặng",
+        "sơ cứu"
+      ],
+      [
+        "phân độ nặng",
+        "đánh giá tổn thương bỏng"
+      ],
+      [
+        "ringerlactat",
+        "thể tích tuần hoàn"
+      ],
+      [
+        "thân mình",
+        "wallace"
+      ],
+      [
+        "thân mình",
+        "độ 1"
+      ],
+      [
+        "thần kinh",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "wallace",
+        "đầu"
+      ],
+      [
+        "ý thức",
+        "đánh giá tình trạng nguy kịch"
+      ],
+      [
+        "đầu",
+        "độ 1"
+      ]
+    ],
+    "count": 65,
+    "create_time": 1793458913,
+    "update_time": 1793458913,
+    "_id": "14-xu-tri-cap-cuu-benh-nhan-bong"
+  },
+  "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap": {
+    "relation_pairs": [
+      [
+        "120 ml",
+        "người lớn"
+      ],
+      [
+        "20-100ml/giờ",
+        "dịch đẳng trương"
+      ],
+      [
+        "20-100ml/giờ",
+        "furosemide"
+      ],
+      [
+        "3 giờ",
+        "rửa dạ dày"
+      ],
+      [
+        "60 ml",
+        "trẻ em"
+      ],
+      [
+        "60 phút",
+        "rửa dạ dày"
+      ],
+      [
+        "8 giờ",
+        "rửa dạ dày"
+      ],
+      [
+        "aconitin",
+        "phức bộ qrs dãn rộng"
+      ],
+      [
+        "adrenaline",
+        "dopamin"
+      ],
+      [
+        "adrenaline",
+        "tụt huyết áp"
+      ],
+      [
+        "adrenaline",
+        "đầu 0,2 μg/kg/phút"
+      ],
+      [
+        "amp hetam in",
+        "thức"
+      ],
+      [
+        "amphetamine",
+        "hội chứng thần kinh giao cảm"
+      ],
+      [
+        "an thần",
+        "kích thích tk giao cảm"
+      ],
+      [
+        "anphetamine",
+        "nhịp nhanh xoang"
+      ],
+      [
+        "antic holine rgic",
+        "đỏ da"
+      ],
+      [
+        "anticholinergic",
+        "nhịp nhanh xoang"
+      ],
+      [
+        "antihistamine",
+        "nhịp nhanh xoang"
+      ],
+      [
+        "antipois - b. mai",
+        "người lớn"
+      ],
+      [
+        "antipois - b. mai",
+        "trẻ em"
+      ],
+      [
+        "arsenic",
+        "hạ huyết áp"
+      ],
+      [
+        "atropin",
+        "phospho hữu cơ"
+      ],
+      [
+        "atropine",
+        "hội chứng anticholinergic"
+      ],
+      [
+        "atropine",
+        "nhịp chậm"
+      ],
+      [
+        "axít",
+        "chống chỉ định"
+      ],
+      [
+        "axít",
+        "ngộ độc"
+      ],
+      [
+        "barbiturates",
+        "hạ huyết áp"
+      ],
+      [
+        "barbiturates",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "benzodiazepin",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "beta-blocker",
+        "block nhĩ thất"
+      ],
+      [
+        "beta-blocker",
+        "nhịp chậm xoang"
+      ],
+      [
+        "beta-blocker",
+        "rối loạn nhịp tim"
+      ],
+      [
+        "block nhĩ thất",
+        "chẹn canxi"
+      ],
+      [
+        "block nhĩ thất",
+        "digitalis glycosides"
+      ],
+      [
+        "block nhĩ thất",
+        "lithium"
+      ],
+      [
+        "block nhĩ thất",
+        "tricyclic antidepressants"
+      ],
+      [
+        "bóp bóng ambu",
+        "bảo đảm thông khí"
+      ],
+      [
+        "bơm tiêm điện",
+        "thuốc vận mạch"
+      ],
+      [
+        "bảo đảm thông khí",
+        "bổ xung oxy"
+      ],
+      [
+        "bảo đảm thông khí",
+        "dùng các thuốc giãn phế quản"
+      ],
+      [
+        "bảo đảm thông khí",
+        "hút đờm dãi"
+      ],
+      [
+        "bảo đảm thông khí",
+        "mở khí quản"
+      ],
+      [
+        "bảo đảm thông khí",
+        "ngửa cổ"
+      ],
+      [
+        "bảo đảm thông khí",
+        "thổi ngạt"
+      ],
+      [
+        "bảo đảm thông khí",
+        "thở máy"
+      ],
+      [
+        "bảo đảm thông khí",
+        "thở oxy"
+      ],
+      [
+        "bảo đảm thông khí",
+        "đặt canun"
+      ],
+      [
+        "bảo đảm thông khí",
+        "đặt nội khí quản"
+      ],
+      [
+        "cafeine",
+        "nhịp nhanh xoang"
+      ],
+      [
+        "carbon monocide",
+        "hạ huyết áp"
+      ],
+      [
+        "choli nergic",
+        "máy cơ"
+      ],
+      [
+        "choli nergic",
+        "tăng tiết"
+      ],
+      [
+        "choàm quạp",
+        "huyết thanh kháng nọc các loại rắn"
+      ],
+      [
+        "chì",
+        "d penicilamin"
+      ],
+      [
+        "chấn thương sọ não",
+        "suy giảm ý thức"
+      ],
+      [
+        "chẩn đoán",
+        "kế hoạch điều trị"
+      ],
+      [
+        "chống chỉ định",
+        "kiềm mạnh"
+      ],
+      [
+        "clonidin",
+        "nhịp chậm xoang"
+      ],
+      [
+        "clonidin",
+        "rối loạn nhịp tim"
+      ],
+      [
+        "clonidine",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "co giật",
+        "gacdenal"
+      ],
+      [
+        "co giật",
+        "inh"
+      ],
+      [
+        "co giật",
+        "mono sodium trifluoroactate"
+      ],
+      [
+        "co giật",
+        "mã tiền"
+      ],
+      [
+        "co giật",
+        "ngộ độc hoá chất bảo vệ thực vật"
+      ],
+      [
+        "co giật",
+        "nạn nhân"
+      ],
+      [
+        "co giật",
+        "phencyclidine"
+      ],
+      [
+        "co giật",
+        "phenothiazines"
+      ],
+      [
+        "co giật",
+        "seduxen"
+      ],
+      [
+        "co giật",
+        "strychnine"
+      ],
+      [
+        "co giật",
+        "thiopental"
+      ],
+      [
+        "co giật",
+        "thuốc chống trầm cảm vòng"
+      ],
+      [
+        "co giật",
+        "trifluoroacetamide"
+      ],
+      [
+        "cocaine",
+        "hội chứng thần kinh giao cảm"
+      ],
+      [
+        "cocaine",
+        "nhịp nhanh xoang"
+      ],
+      [
+        "cyanide",
+        "hạ huyết áp"
+      ],
+      [
+        "cân nặng",
+        "than hoạt"
+      ],
+      [
+        "cạp nia",
+        "huyết thanh kháng nọc các loại rắn"
+      ],
+      [
+        "da",
+        "xối nước ấm"
+      ],
+      [
+        "da ướt",
+        "hội chứng thần kinh giao cảm"
+      ],
+      [
+        "digitalis glycosides",
+        "nhịp chậm xoang"
+      ],
+      [
+        "digitalis glycosides",
+        "rối loạn nhịp tim"
+      ],
+      [
+        "digoxin",
+        "nhịp nhanh"
+      ],
+      [
+        "dobutamin",
+        "tụt huyết áp"
+      ],
+      [
+        "dopamin",
+        "tụt huyết áp"
+      ],
+      [
+        "dạ dày",
+        "than hoạt"
+      ],
+      [
+        "dạ dày",
+        "xông dạ dày"
+      ],
+      [
+        "dấu hiệu muscarine",
+        "kháng men cholinesteraza"
+      ],
+      [
+        "dấu hiệu nicotin",
+        "kháng men cholinesteraza"
+      ],
+      [
+        "dấu hiệu thần kinh trung ương",
+        "kháng men cholinesteraza"
+      ],
+      [
+        "dầu hoả",
+        "rửa dạ dày"
+      ],
+      [
+        "dịch nahco3",
+        "ngộ độc quinidine"
+      ],
+      [
+        "dịch nahco3",
+        "thuốc chống trầm cảm tricyclic"
+      ],
+      [
+        "dịch truyền",
+        "dịch đẳng trương"
+      ],
+      [
+        "dịch đẳng trương",
+        "gardenal"
+      ],
+      [
+        "dịch đẳng trương",
+        "glucose 5%"
+      ],
+      [
+        "ectasy",
+        "thay đổi"
+      ],
+      [
+        "ephedrine",
+        "hội chứng thần kinh giao cảm"
+      ],
+      [
+        "ethanol",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "furosemide",
+        "lọc ngoài thận"
+      ],
+      [
+        "gacdenal",
+        "hôn mê"
+      ],
+      [
+        "gan",
+        "điều trị triệu chứng, hồi sức toàn diện"
+      ],
+      [
+        "gardenal",
+        "lợi tiểu tích cực"
+      ],
+      [
+        "giảm vận động co bóp",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "glucose 10%",
+        "hôn mê"
+      ],
+      [
+        "glucose ưu trương 50%",
+        "hôn mê"
+      ],
+      [
+        "hoang tưởng",
+        "hội chứng thần kinh giao cảm"
+      ],
+      [
+        "huyết học",
+        "điều trị triệu chứng, hồi sức toàn diện"
+      ],
+      [
+        "huyết thanh kháng nọc các loại rắn",
+        "hổ chúa"
+      ],
+      [
+        "huyết thanh kháng nọc các loại rắn",
+        "hổ mang"
+      ],
+      [
+        "huyết thanh kháng nọc các loại rắn",
+        "lục tre"
+      ],
+      [
+        "huyết thanh kháng nọc các loại rắn",
+        "điều trị ngộ độc chì"
+      ],
+      [
+        "huyết áp",
+        "tụt huyết áp"
+      ],
+      [
+        "huyết áp",
+        "điều chỉnh liều"
+      ],
+      [
+        "huyết áp thay đổi",
+        "hội chứng cholinergic"
+      ],
+      [
+        "huyết áp tăng",
+        "hội chứng thần kinh giao cảm"
+      ],
+      [
+        "hydrogen sulfite",
+        "hạ huyết áp"
+      ],
+      [
+        "hô hấp chống tụt lưỡi",
+        "trào ngược"
+      ],
+      [
+        "hôn mê",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "hôn mê",
+        "naloxol"
+      ],
+      [
+        "hôn mê",
+        "nạn nhân"
+      ],
+      [
+        "hôn mê",
+        "vitamin b1"
+      ],
+      [
+        "hạ huyết áp",
+        "hội chứng thần kinh phó giao cảm"
+      ],
+      [
+        "hạ huyết áp",
+        "nấm độc"
+      ],
+      [
+        "hạ huyết áp",
+        "phenothizines"
+      ],
+      [
+        "hạ huyết áp",
+        "sắt"
+      ],
+      [
+        "hạ huyết áp",
+        "theophylline"
+      ],
+      [
+        "hạ huyết áp",
+        "thuốc chống trầm cảm"
+      ],
+      [
+        "hạ huyết áp",
+        "thuốc điều trị tăng huyết áp"
+      ],
+      [
+        "hạ kali máu",
+        "phức bộ qrs dãn rộng"
+      ],
+      [
+        "hạ mg",
+        "phức bộ qrs dãn rộng"
+      ],
+      [
+        "hỏi bệnh",
+        "nhiễm độc"
+      ],
+      [
+        "hỏi bệnh",
+        "thăm khám lâm sàng"
+      ],
+      [
+        "hội chứng cholinergic",
+        "mạch giãn"
+      ],
+      [
+        "hội chứng cholinergic",
+        "tóm tắt một số hội chứng ngộ độc"
+      ],
+      [
+        "hội chứng cholinergic",
+        "tăng tiết dịch tiêu hoá"
+      ],
+      [
+        "hội chứng cholinergic",
+        "đồng tử co nhỏ"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "kích thích vật vã"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "mạch nhanh"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "nhiệt độ tăng"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "niêm mạc khô"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "phencyclidine"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "thở nhanh"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "tóm tắt một số hội chứng ngộ độc"
+      ],
+      [
+        "hội chứng thần kinh giao cảm",
+        "đồng tử dãn"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "lơ mơ"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "mạch giảm"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "opioids"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "phản xạ gân xương - cơ giảm"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "thuốc hạ áp"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "thân nhiệt giảm"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "tóm tắt một số hội chứng ngộ độc"
+      ],
+      [
+        "hội chứng thần kinh phó giao cảm",
+        "đồng tử co"
+      ],
+      [
+        "intermittent hemodialysis",
+        "lọc ngoài thận"
+      ],
+      [
+        "ki",
+        "ngộ độc"
+      ],
+      [
+        "kích thích beta",
+        "nhịp nhanh xoang"
+      ],
+      [
+        "kích thích tk giao cảm",
+        "thay đổi"
+      ],
+      [
+        "lidocaine",
+        "phức bộ qrs dãn rộng"
+      ],
+      [
+        "loạn nhịp",
+        "mạch"
+      ],
+      [
+        "loạn nhịp",
+        "nhịp chậm"
+      ],
+      [
+        "loạn nhịp",
+        "nhịp nhanh"
+      ],
+      [
+        "lọc máu hấp phụ",
+        "lọc ngoài thận"
+      ],
+      [
+        "lờ đờ",
+        "nạn nhân"
+      ],
+      [
+        "lợi tiểu tích cực",
+        "ong đốt"
+      ],
+      [
+        "lợi tiểu tích cực",
+        "rắn hổ mang cắn"
+      ],
+      [
+        "lợi tiểu tích cực",
+        "suy thận thể thiểu niệu"
+      ],
+      [
+        "lợi tiểu tích cực",
+        "suy tim"
+      ],
+      [
+        "lợi tiểu tích cực",
+        "vô niệu"
+      ],
+      [
+        "máy cơ",
+        "tăng tiết"
+      ],
+      [
+        "mắt",
+        "rửa mắt"
+      ],
+      [
+        "n acetylcystein",
+        "paracetamol"
+      ],
+      [
+        "naloxol 0,4mg",
+        "nhiễm độc"
+      ],
+      [
+        "nghi",
+        "rửa dạ dày"
+      ],
+      [
+        "người bệnh",
+        "thuốc giải độc"
+      ],
+      [
+        "ngộ độc paraquat",
+        "thay huyết tương"
+      ],
+      [
+        "nhiễm độc",
+        "nợ nần"
+      ],
+      [
+        "nhiễm độc",
+        "stress"
+      ],
+      [
+        "nhiễm độc",
+        "tiền sử bệnh tật"
+      ],
+      [
+        "nhiễm độc",
+        "triệu chứng"
+      ],
+      [
+        "nhiễm độc",
+        "xét nghiệm"
+      ],
+      [
+        "nhiễm độc",
+        "độc chất"
+      ],
+      [
+        "nhuận tràng",
+        "sorbitol"
+      ],
+      [
+        "nhịp chậm xoang",
+        "opioids"
+      ],
+      [
+        "nhịp chậm xoang",
+        "phospho hữu cơ"
+      ],
+      [
+        "nhịp chậm xoang",
+        "verapamil"
+      ],
+      [
+        "nhịp nhanh",
+        "prostigmin"
+      ],
+      [
+        "nhịp nhanh xoang",
+        "salbutamol"
+      ],
+      [
+        "nhịp nhanh xoang",
+        "theophylline"
+      ],
+      [
+        "nhịp nhanh xoang",
+        "tr"
+      ],
+      [
+        "niêm mạc",
+        "xà phòng"
+      ],
+      [
+        "noradrenaline",
+        "tụt huyết áp"
+      ],
+      [
+        "nôn",
+        "tăm bông"
+      ],
+      [
+        "nôn",
+        "đường tiêu hoá"
+      ],
+      [
+        "nôn",
+        "ống xông ngoáy họng"
+      ],
+      [
+        "nước điện giải",
+        "điều trị triệu chứng, hồi sức toàn diện"
+      ],
+      [
+        "nạn nhân",
+        "rửa dạ dày"
+      ],
+      [
+        "nạn nhân",
+        "than hoạt"
+      ],
+      [
+        "nạn nhân",
+        "tỉnh táo"
+      ],
+      [
+        "opioid",
+        "thèm opioi ds"
+      ],
+      [
+        "opioids",
+        "rối loạn nhịp tim"
+      ],
+      [
+        "pam",
+        "phospho hữu cơ"
+      ],
+      [
+        "paraffin",
+        "rửa dạ dày"
+      ],
+      [
+        "phenobarbital",
+        "rửa dạ dày"
+      ],
+      [
+        "phenothiazine",
+        "phức bộ qrs dãn rộng"
+      ],
+      [
+        "phức bộ qrs dãn rộng",
+        "quinidine"
+      ],
+      [
+        "phức bộ qrs dãn rộng",
+        "tricyclic antidepressants"
+      ],
+      [
+        "phức bộ qrs dãn rộng",
+        "tăng k+"
+      ],
+      [
+        "phức bộ qrs dãn rộng",
+        "xylocaine"
+      ],
+      [
+        "rượu",
+        "thèm"
+      ],
+      [
+        "rượu",
+        "thức"
+      ],
+      [
+        "rối loạn nhịp tim",
+        "sedative-hyporotics"
+      ],
+      [
+        "rối loạn nhịp tim",
+        "verapamil"
+      ],
+      [
+        "rửa dạ dày",
+        "salycylates"
+      ],
+      [
+        "rửa dạ dày",
+        "tricyclic"
+      ],
+      [
+        "rửa dạ dày",
+        "ét xăng"
+      ],
+      [
+        "rửa dạ dày",
+        "ống nkq"
+      ],
+      [
+        "sorbitol",
+        "than hoạt"
+      ],
+      [
+        "suy giảm ý thức",
+        "tbmn"
+      ],
+      [
+        "suy giảm ý thức",
+        "tổn thương cấu trúc"
+      ],
+      [
+        "theo dõi sát",
+        "điều chỉnh liều"
+      ],
+      [
+        "thuốc",
+        "thèm"
+      ],
+      [
+        "thèm opioi ds",
+        "đỏ da"
+      ],
+      [
+        "thận",
+        "điều trị triệu chứng, hồi sức toàn diện"
+      ],
+      [
+        "thể tích tuần hoàn",
+        "tụt huyết áp"
+      ],
+      [
+        "thở máy",
+        "thở oxy"
+      ],
+      [
+        "truỵ mach",
+        "tụt huyết áp"
+      ]
+    ],
+    "count": 226,
+    "create_time": 1793459941,
+    "update_time": 1793459941,
+    "_id": "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap"
+  },
+  "16-van-chuyen-benh-nhan-cap-cuu": {
+    "relation_pairs": [
+      [
+        "alns",
+        "tư thế bệnh nhân"
+      ],
+      [
+        "altmtt",
+        "cung lượng tim"
+      ],
+      [
+        "alđm phổi liên tục",
+        "tư thế bệnh nhân"
+      ],
+      [
+        "an toàn",
+        "phủ kín, phủ ấm"
+      ],
+      [
+        "an toàn",
+        "tư thế thích hợp"
+      ],
+      [
+        "biến chứng",
+        "gãy xương và trật khớp"
+      ],
+      [
+        "bác sỹ",
+        "nhân viên vận chuyển"
+      ],
+      [
+        "báo động tối thiểu",
+        "thông khí nhân tạo"
+      ],
+      [
+        "bình oxy",
+        "nâng bệnh nhân"
+      ],
+      [
+        "bình oxy",
+        "nồng độ oxy máu"
+      ],
+      [
+        "bình oxy đủ dùng trên 1 giờ",
+        "vận chuyển"
+      ],
+      [
+        "bóng mặt nạ",
+        "hô hấp"
+      ],
+      [
+        "bệnh nhân",
+        "vận chuyển"
+      ],
+      [
+        "bệnh nhân tỉnh",
+        "máy hút đờm, xông hút đờm"
+      ],
+      [
+        "bệnh nhân tỉnh",
+        "thuốc cấp cứu"
+      ],
+      [
+        "bệnh nhân tỉnh",
+        "tư thế bệnh nhân"
+      ],
+      [
+        "bệnh nhân tỉnh",
+        "tư thế thích hợp"
+      ],
+      [
+        "bệnh viện nhận",
+        "phương tiện liên lạc với bệnh viện chuyển"
+      ],
+      [
+        "bệnh án tóm tắt",
+        "hồ sơ bệnh án"
+      ],
+      [
+        "chăm sóc hồi sức tích cực",
+        "vận chuyển"
+      ],
+      [
+        "chăm sóc hồi sức tích cực hơn",
+        "vận chuyển giữa các bệnh viện"
+      ],
+      [
+        "chảy máu nhiều",
+        "giảm thể tích nặng"
+      ],
+      [
+        "chấn thương bụng-ngực",
+        "nửa ngồi - chân gấp"
+      ],
+      [
+        "chấn thương cột sống",
+        "nẹp cổ"
+      ],
+      [
+        "chấn thương sọ não",
+        "nằm ngửa, đầu cao 10-30 độ"
+      ],
+      [
+        "ct scan",
+        "hồ sơ bệnh án"
+      ],
+      [
+        "cung lượng tim",
+        "tim"
+      ],
+      [
+        "cáng",
+        "nâng bệnh nhân"
+      ],
+      [
+        "căng cơ bụng",
+        "nâng trọng lượng"
+      ],
+      [
+        "cấp cứu ngừng tuần hoàn",
+        "máy phá rung"
+      ],
+      [
+        "cầm máu",
+        "vết thương cắt cụt"
+      ],
+      [
+        "cầm máu",
+        "vết thương khác"
+      ],
+      [
+        "dồn trọng lượng cơ thể",
+        "nâng trọng lượng"
+      ],
+      [
+        "dụng cụ bảo vệ, khai thông đường thở",
+        "đặt nkq"
+      ],
+      [
+        "dụng cụ tiêm truyền tĩnh mạch",
+        "thuốc cấp cứu"
+      ],
+      [
+        "dụng cụ tiêm truyền tĩnh mạch",
+        "vận chuyển"
+      ],
+      [
+        "etco2",
+        "hô hấp"
+      ],
+      [
+        "ghi chép diễn biến",
+        "tư thế bệnh nhân"
+      ],
+      [
+        "giải phóng đường thở",
+        "nằm nghiêng an toàn"
+      ],
+      [
+        "giảm phù não",
+        "nằm ngửa, đầu cao 10-30 độ"
+      ],
+      [
+        "giữ thẳng",
+        "phân bố trọng lượng"
+      ],
+      [
+        "giữ thẳng",
+        "vuông góc"
+      ],
+      [
+        "gẫy chân",
+        "nằm ngửa, chân cao"
+      ],
+      [
+        "ha",
+        "mạch"
+      ],
+      [
+        "hít vào phổi",
+        "nằm nghiêng an toàn"
+      ],
+      [
+        "hô hấp",
+        "máy thở khi vận chuyển"
+      ],
+      [
+        "hô hấp",
+        "phương tiện can thiệp hô hấp"
+      ],
+      [
+        "hướng dẫn khiêng an toàn",
+        "kéo"
+      ],
+      [
+        "hướng dẫn khiêng an toàn",
+        "đẩy"
+      ],
+      [
+        "hồ sơ bệnh án",
+        "mri"
+      ],
+      [
+        "hồ sơ bệnh án",
+        "phim xquang"
+      ],
+      [
+        "hồ sơ bệnh án",
+        "vận chuyển bệnh nhân"
+      ],
+      [
+        "khiêng cáng",
+        "phối hợp"
+      ],
+      [
+        "khoa thăm dò chức năng",
+        "đội vận chuyển chuyên nghiệp"
+      ],
+      [
+        "khoa điều trị tích",
+        "đội vận chuyển chuyên nghiệp"
+      ],
+      [
+        "khó thở",
+        "nửa ngồi - chân thẳng"
+      ],
+      [
+        "khóa lưng",
+        "nâng trọng lượng"
+      ],
+      [
+        "khóa lưng",
+        "đẩy"
+      ],
+      [
+        "kéo",
+        "tư thế cong vào trong"
+      ],
+      [
+        "kê chân cao",
+        "tổn thương chi dưới"
+      ],
+      [
+        "kỹ thuật can thiệp chuyên khoa cao hơn",
+        "vận chuyển"
+      ],
+      [
+        "kỹ thuật thăm dò chuyên khoa cao hơn",
+        "vận chuyển"
+      ],
+      [
+        "mang thai trên 7 tháng",
+        "tĩnh mạch chủ dưới"
+      ],
+      [
+        "mang thai trên 7 tháng",
+        "tử cung"
+      ],
+      [
+        "máy hút đờm",
+        "vận chuyển"
+      ],
+      [
+        "máy phá rung",
+        "theo dõi điện tim liên tục"
+      ],
+      [
+        "máy phá rung",
+        "vận chuyển"
+      ],
+      [
+        "máy theo dõi điện tim",
+        "nhân viên vận chuyển"
+      ],
+      [
+        "máy theo dõi điện tim",
+        "theo dõi điện tim liên tục"
+      ],
+      [
+        "máy theo dõi điện tim",
+        "vận chuyển"
+      ],
+      [
+        "máy theo dõi điện tim",
+        "xử lý loạn nhịp"
+      ],
+      [
+        "máy theo dõi điện tim",
+        "điện tim"
+      ],
+      [
+        "máy truyền dịch",
+        "truyền dịch"
+      ],
+      [
+        "môi trường xung quanh",
+        "tình trạng bệnh nhân"
+      ],
+      [
+        "mạch",
+        "nhịp thở"
+      ],
+      [
+        "nguyên tắc nâng - khiêng",
+        "sử dụng các phương tiện"
+      ],
+      [
+        "nguyên tắc nâng - khiêng",
+        "đánh giá tình hình"
+      ],
+      [
+        "ngồi - chân thõng",
+        "phù phổi cấp"
+      ],
+      [
+        "ngồi ngả ra trước",
+        "viêm nắp thanh quản"
+      ],
+      [
+        "ngừng thở",
+        "nằm ngửa"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "nằm ngửa"
+      ],
+      [
+        "nhân viên vận chuyển",
+        "phương tiện vận chuyển"
+      ],
+      [
+        "nhân viên vận chuyển",
+        "y tá hồi sức cấp cứu"
+      ],
+      [
+        "nhịp thở",
+        "theo dõi điện tim liên tục"
+      ],
+      [
+        "nhịp thở",
+        "theo dõi định kỳ"
+      ],
+      [
+        "nâng bệnh nhân",
+        "thiết bị sẵn có"
+      ],
+      [
+        "nâng bệnh nhân",
+        "tránh quá ưỡn lưng"
+      ],
+      [
+        "nâng bệnh nhân",
+        "tránh vươn quá xa"
+      ],
+      [
+        "nâng bệnh nhân",
+        "tránh xoay vặn"
+      ],
+      [
+        "nâng bệnh nhân",
+        "võng"
+      ],
+      [
+        "nâng trọng lượng",
+        "tư thế cong vào trong"
+      ],
+      [
+        "nâng trọng lượng",
+        "đặt chân mở rộng"
+      ],
+      [
+        "nâng trọng lượng",
+        "đặt chân vuông góc"
+      ],
+      [
+        "nằm nghiêng an toàn",
+        "rối loạn ý thức"
+      ],
+      [
+        "nằm nghiêng an toàn sang trái",
+        "tư thế sản khoa"
+      ],
+      [
+        "nằm ngửa, chân cao",
+        "xương chậu"
+      ],
+      [
+        "nằm ngửa, đùi gấp",
+        "tác dụng: giảm đau bụng"
+      ],
+      [
+        "nằm ngửa, đầu cao 10-30 độ",
+        "tăng tuần hoàn tĩnh mạch"
+      ],
+      [
+        "nồng độ oxy máu",
+        "spo2"
+      ],
+      [
+        "phòng can thiệp",
+        "đội vận chuyển chuyên nghiệp"
+      ],
+      [
+        "phòng mổ",
+        "đội vận chuyển chuyên nghiệp"
+      ],
+      [
+        "phổi",
+        "áp lực động mạch phổi"
+      ],
+      [
+        "spo2",
+        "theo dõi định kỳ"
+      ],
+      [
+        "spo2",
+        "điện tim"
+      ],
+      [
+        "thiết bị đi kèm",
+        "trọng lượng"
+      ],
+      [
+        "thuốc cấp cứu",
+        "vận chuyển"
+      ],
+      [
+        "thuốc duy trì",
+        "vận chuyển"
+      ],
+      [
+        "thuốc duy trì điều trị",
+        "tư thế bệnh nhân"
+      ],
+      [
+        "thông báo cho bác sỹ chính",
+        "vận chuyển bệnh nhân"
+      ],
+      [
+        "thảo luận trước khi chuyển",
+        "vận chuyển bệnh nhân"
+      ],
+      [
+        "tình trạng bệnh nhân",
+        "điều trị"
+      ],
+      [
+        "tư thế nằm ngửa",
+        "tổn thương chi dưới"
+      ],
+      [
+        "tư thế nửa ngồi",
+        "tổn thương chi trên"
+      ],
+      [
+        "vận chuyển",
+        "xông hút đờm"
+      ],
+      [
+        "vận chuyển bệnh nhân",
+        "xác định nơi nhận"
+      ],
+      [
+        "đèn đặt nkq",
+        "đặt nkq"
+      ],
+      [
+        "đặt nkq",
+        "ống nkq"
+      ]
+    ],
+    "count": 117,
+    "create_time": 1793460553,
+    "update_time": 1793460553,
+    "_id": "16-van-chuyen-benh-nhan-cap-cuu"
+  }
+}

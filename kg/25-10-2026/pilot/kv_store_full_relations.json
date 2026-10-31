@@ -1,0 +1,1354 @@
+{
+  "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu": {
+    "relation_pairs": [
+      [
+        "12 giờ",
+        "hội chứng động mạch vành cấp"
+      ],
+      [
+        "2-3 phút tập trung suy nghĩ",
+        "định hướng chuyển"
+      ],
+      [
+        "Alteplase",
+        "tắc mạch não"
+      ],
+      [
+        "Bệnh nhân có cần nhập viện không? Hay có thể ra viện?",
+        "Thông báo cho bệnh nhân và cho gia đình người thân"
+      ],
+      [
+        "Bệnh nhân có cần nhập viện không? Hay có thể ra viện?",
+        "Triage"
+      ],
+      [
+        "Can thiệp điều trị",
+        "Nguy kịch (khẩn cấp)"
+      ],
+      [
+        "Công tác thực hành cấp cứu",
+        "cấp cứu (emergency)"
+      ],
+      [
+        "Công tác thực hành cấp cứu",
+        "nguy kịch (khẩn cấp)"
+      ],
+      [
+        "Cấp cứu (emergency)",
+        "Secondary survey"
+      ],
+      [
+        "Cấp cứu (emergency)",
+        "Điều trị cấp cứu"
+      ],
+      [
+        "Môi trường làm việc",
+        "tác phong khẩn trương"
+      ],
+      [
+        "Nguy kịch (khẩn cấp)",
+        "Primary survey"
+      ],
+      [
+        "Nguy kịch (khẩn cấp)",
+        "Thông tin cần cho chẩn đoán"
+      ],
+      [
+        "Nguy kịch (khẩn cấp)",
+        "cấp cứu (emergency)"
+      ],
+      [
+        "Primary",
+        "secondary"
+      ],
+      [
+        "Primary",
+        "đánh giá nhanh"
+      ],
+      [
+        "Primary survey",
+        "Secondary survey"
+      ],
+      [
+        "Secondary",
+        "ra quyết định"
+      ],
+      [
+        "Thông tin hạn chế",
+        "ra quyết định"
+      ],
+      [
+        "Thời gian",
+        "đánh giá nhanh"
+      ],
+      [
+        "Triage: bệnh nhân nào cần được thăm khám trước?",
+        "cần các can thiệp điều trị nào"
+      ],
+      [
+        "biết tiết kiệm cũng như phân phối sức lực",
+        "phương pháp tổ chức làm việc hợp lý"
+      ],
+      [
+        "bóp bóng",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "bước 1 (primary survey)",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "bước 2 (secondary survey)",
+        "thăm khám hệ thống"
+      ],
+      [
+        "bước 2 (secondary survey)",
+        "thăm khám lâm sàng"
+      ],
+      [
+        "bệnh nhân",
+        "dấu hiệu sống"
+      ],
+      [
+        "bệnh nhân",
+        "gập hồ sơ vào quá sớm"
+      ],
+      [
+        "bệnh nhân ngừng tuần hoàn",
+        "bệnh nhân tử vong"
+      ],
+      [
+        "bệnh nhân quay lại",
+        "chẩn đoán trước"
+      ],
+      [
+        "bệnh nhân tử vong có nguy cơ lây bệnh cho người khác",
+        "tại sao bệnh nhân tử vong"
+      ],
+      [
+        "bồi phụ thể tích",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "bụng",
+        "tiêu hóa"
+      ],
+      [
+        "can thiệp lập lại tưới máu",
+        "vết thương động mạch/ga rô mạch"
+      ],
+      [
+        "chi",
+        "hô hấp"
+      ],
+      [
+        "chẩn đoán",
+        "ghi chép của tuyến trước"
+      ],
+      [
+        "chẩn đoán",
+        "ghi chép của y tá"
+      ],
+      [
+        "chẩn đoán",
+        "hô hấp"
+      ],
+      [
+        "chẩn đoán",
+        "không đáp ứng với điều trị"
+      ],
+      [
+        "chẩn đoán",
+        "mắt"
+      ],
+      [
+        "chẩn đoán",
+        "nhóm bệnh nhân nguy cơ cao"
+      ],
+      [
+        "chẩn đoán",
+        "răng hàm mặt"
+      ],
+      [
+        "chẩn đoán",
+        "rối loạn/tổn thương nguy hiểm"
+      ],
+      [
+        "chẩn đoán",
+        "sinh dục"
+      ],
+      [
+        "chẩn đoán",
+        "sơ đồ cây chẩn đoán"
+      ],
+      [
+        "chẩn đoán",
+        "tai mũi họng"
+      ],
+      [
+        "chẩn đoán",
+        "thần kinh"
+      ],
+      [
+        "chẩn đoán",
+        "thận-tiết niệu"
+      ],
+      [
+        "chẩn đoán",
+        "tim mạch"
+      ],
+      [
+        "chẩn đoán",
+        "tiêu hóa"
+      ],
+      [
+        "chẩn đoán",
+        "xét nghiệm"
+      ],
+      [
+        "chẩn đoán",
+        "đáp ứng với điều trị"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "nhồi máu cơ tim cấp"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "tắc động mạch phổi"
+      ],
+      [
+        "chẩn đoán quan trọng",
+        "tắc động/tĩnh mạch"
+      ],
+      [
+        "chẩn đoán trước đó",
+        "chẩn đoán đúng"
+      ],
+      [
+        "chẩn đoán đúng",
+        "suy nghĩ của người khác"
+      ],
+      [
+        "chẩn đoán đặt ra trước đó",
+        "dấu hiệu"
+      ],
+      [
+        "chẩn đoán đặt ra trước đó",
+        "triệu chứng"
+      ],
+      [
+        "chọc dịch màng ngoài tim",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "chọc màng phổi",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "các cấp cứu",
+        "xét nghiệm"
+      ],
+      [
+        "cầm máu",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "dùng thuốc tiêu sợi huyết",
+        "hội chứng động mạch vành cấp"
+      ],
+      [
+        "hạ đường máu",
+        "xác định các tổn thương/rối loạn quan trọng"
+      ],
+      [
+        "hồi sinh tim phổi kết hợp với sốc điện",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "hội chứng động mạch vành cấp",
+        "thuốc tiêu sợi huyết"
+      ],
+      [
+        "hội chứng động mạch vành cấp",
+        "thời gian vàng"
+      ],
+      [
+        "hội chứng động mạch vành cấp",
+        "điện sớm trong vòng 3 đến 5 phút đầu tiên sau khi"
+      ],
+      [
+        "khai thông đường thở",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "khoa cấp cứu bị quá tải lên đến 140% công suất",
+        "nguy cơ bỏ sót bệnh nhân"
+      ],
+      [
+        "khoa cấp cứu bị quá tải lên đến 140% công suất",
+        "sai sót (bệnh nhân không được cấp cứu kịp thời, có bệnh nhân ra viện mà chưa được thăm khám đầy đủ)"
+      ],
+      [
+        "khoa cấp cứu bị quá tải lên đến 140% công suất",
+        "thời điểm các khoa cấp cứu bị quá tải bệnh nhân"
+      ],
+      [
+        "khung chậu",
+        "sinh dục"
+      ],
+      [
+        "kháng sinh đường tiêm",
+        "sốc nhiễm khuẩn/nhiễm khuẩn nặng"
+      ],
+      [
+        "không đáp ứng với điều trị",
+        "định hướng chuyển"
+      ],
+      [
+        "kinh nghiệm",
+        "quyết định"
+      ],
+      [
+        "kiến thức",
+        "quyết định"
+      ],
+      [
+        "kỹ năng",
+        "quyết định"
+      ],
+      [
+        "kỹ năng quan sát nhanh",
+        "đảm bảo bao quát để kiểm soát cả bệnh phòng/khu vực và tất cả các bệnh nhân mà mình phụ trách"
+      ],
+      [
+        "lưng",
+        "tim mạch"
+      ],
+      [
+        "lưu theo dõi",
+        "định hướng chuyển"
+      ],
+      [
+        "lượng bệnh nhân đến cấp cứu",
+        "quá tải"
+      ],
+      [
+        "môi trường làm việc tại khoa cấp cứu",
+        "nhân viên y tế"
+      ],
+      [
+        "một bác sỹ cấp cứu, y tá cấp cứu đang trong ca làm việc",
+        "đảm bảo bao quát để kiểm soát cả bệnh phòng/khu vực và tất cả các bệnh nhân mà mình phụ trách"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thời gian vàng"
+      ],
+      [
+        "ngực",
+        "thần kinh"
+      ],
+      [
+        "nhiệm vụ khó khăn của bác sỹ cấp cứu",
+        "quyết định điều"
+      ],
+      [
+        "nhân viên y tế",
+        "quá tải"
+      ],
+      [
+        "nhân viên y tế",
+        "thời gian"
+      ],
+      [
+        "nhập viện",
+        "định hướng chuyển"
+      ],
+      [
+        "phân loại các công việc, kỹ thuật can thiệp cấp cứu",
+        "tính ưu tiên cấp cứu"
+      ],
+      [
+        "phương pháp thăm khám và đánh giá tuần tự",
+        "quy trình cấp cứu"
+      ],
+      [
+        "phản ứng xử lý cấp cứu theo tính ưu tiên cấp cứu",
+        "tính ưu tiên cấp cứu"
+      ],
+      [
+        "quy trình cấp cứu",
+        "trường hợp yêu cầu cấp thiết"
+      ],
+      [
+        "quyết định",
+        "thông tin"
+      ],
+      [
+        "ra viện",
+        "định hướng chuyển"
+      ],
+      [
+        "rối loạn kali máu",
+        "xác định các tổn thương/rối loạn quan trọng"
+      ],
+      [
+        "rối loạn toan/kiềm máu nặng",
+        "xác định các tổn thương/rối loạn quan trọng"
+      ],
+      [
+        "sốc nhiễm khuẩn/nhiễm khuẩn nặng",
+        "điều trị tích cực sớm"
+      ],
+      [
+        "sốc điện",
+        "thời gian vàng"
+      ],
+      [
+        "thông báo và chuẩn bị tâm lý cho người than của bệnh nhân tử vong",
+        "xác nhận tử vong"
+      ],
+      [
+        "thăm dò",
+        "xét nghiệm"
+      ],
+      [
+        "thăm khám hết tất cả các hệ thống cơ quan",
+        "thăm khám lâm sàng"
+      ],
+      [
+        "thăm khám lâm sàng",
+        "đứng cạnh bệnh nhân"
+      ],
+      [
+        "thở ô xy",
+        "đánh giá và kiểm soát tuần tự ABCD"
+      ],
+      [
+        "tràn khí màng phổi áp lực",
+        "xác định các tổn thương/rối loạn quan trọng"
+      ],
+      [
+        "vết thương mạch máu",
+        "xác định các tổn thương/rối loạn quan trọng"
+      ],
+      [
+        "xác định các tổn thương/rối loạn quan trọng",
+        "ép tim cấp do tràn dịch/máu màng ngoài tim"
+      ],
+      [
+        "xét nghiệm",
+        "định hướng chuyển"
+      ],
+      [
+        "đánh giá và kiểm soát tuần tự ABCD",
+        "đặt NKQ"
+      ],
+      [
+        "đánh giá và kiểm soát tuần tự ABCD",
+        "đặt đường truyền tĩnh mạch"
+      ],
+      [
+        "đáp ứng với điều trị",
+        "định hướng chuyển"
+      ]
+    ],
+    "count": 113,
+    "create_time": 1792917261,
+    "update_time": 1792917261,
+    "_id": "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu"
+  },
+  "02-cac-ky-thuat-kiem-soat-duong-tho": {
+    "relation_pairs": [
+      [
+        "Berman",
+        "canuyn mieng hau"
+      ],
+      [
+        "Bóng ambu",
+        "Khai thông đường thở"
+      ],
+      [
+        "Bạch hầu thanh quản",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "Canuyn họng miệng",
+        "Khai thông đường thở"
+      ],
+      [
+        "Chấn thương thanh quản",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "Co thắt thanh quản",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "Guedel",
+        "canuyn mieng hau"
+      ],
+      [
+        "Khai thông đường thở",
+        "Mở khí quản"
+      ],
+      [
+        "Khai thông đường thở",
+        "Thay đổi tư thế đầu bệnh nhân"
+      ],
+      [
+        "Khai thông đường thở",
+        "Thông khí miệng - mask"
+      ],
+      [
+        "Khai thông đường thở",
+        "Thông khí miệng - miệng"
+      ],
+      [
+        "Khai thông đường thở",
+        "Đặt nội khí quản"
+      ],
+      [
+        "Khối u thanh quản",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "Liệt dây thanh âm hai bên",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "Ngửa đầu nâng cằm",
+        "Thay đổi tư thế đầu bệnh nhân"
+      ],
+      [
+        "Phù thanh quản",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "Sau mỗi đợt ép bụng",
+        "dùng 2 đến 3 ngón tay để móc khoang miệng"
+      ],
+      [
+        "Sập các tổ chức phần mềm vùng họng miệng",
+        "Tắc nghẽn đường thở"
+      ],
+      [
+        "TBMN",
+        "tư thế fowler"
+      ],
+      [
+        "Thay đổi tư thế đầu bệnh nhân",
+        "Ấn giữ hàm"
+      ],
+      [
+        "Tắc nghẽn đường thở",
+        "Viêm sụn nắp thanh quản cấp"
+      ],
+      [
+        "Tắc nghẽn đường thở",
+        "Viêm thanh quản cấp"
+      ],
+      [
+        "Tắc nghẽn đường thở",
+        "Ổ mủ vùng hầu họng"
+      ],
+      [
+        "Tắc nghẽn đường thở",
+        "Ứng gây phù niêm mạc họng và khí quản"
+      ],
+      [
+        "bàn tay kia ôm lên bàn tay đã nắm",
+        "đặt lên bụng hơi trên rốn"
+      ],
+      [
+        "bàn tay kia úp lên trên, đưa người ra phía trước ép nhanh lên phía trên",
+        "làm lại nếu cần"
+      ],
+      [
+        "bệnh nhân không há được miệng",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "bệnh nhân tỉnh hoặc bán mê",
+        "canuyn mieng hau"
+      ],
+      [
+        "canuyn",
+        "canuyn mieng hau"
+      ],
+      [
+        "canuyn",
+        "canuyn muoi hau"
+      ],
+      [
+        "canuyn",
+        "dị vật ở miệng họng"
+      ],
+      [
+        "canuyn",
+        "vòm miệng"
+      ],
+      [
+        "canuyn mieng hau",
+        "chấn thương khoang miệng"
+      ],
+      [
+        "canuyn mieng hau",
+        "chấn thương xương hàm dưới"
+      ],
+      [
+        "canuyn mieng hau",
+        "chấn thương xương hàm trên"
+      ],
+      [
+        "canuyn mieng hau",
+        "nắp thanh môn"
+      ],
+      [
+        "canuyn mieng hau",
+        "tổn thương choán chỗ"
+      ],
+      [
+        "canuyn miệng hầu",
+        "chọn cỡ thích hợp"
+      ],
+      [
+        "canuyn muoi hau",
+        "trẻ nhỏ"
+      ],
+      [
+        "canuyn mũi hầu",
+        "chọn cỡ thích hợp"
+      ],
+      [
+        "chiều dài canuyn",
+        "dai tai"
+      ],
+      [
+        "chấn thương cột sống cổ",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "chấn thương hầu họng",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "cung ranh",
+        "đầu ngoài canuyn"
+      ],
+      [
+        "các biện pháp cơ bản hỗ trợ các chức năng sống",
+        "đặt Canuyn hầu"
+      ],
+      [
+        "cảm giác vướng",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "cột sống cổ",
+        "lật khúc gỗ"
+      ],
+      [
+        "cỡ số 1",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "cỡ số 2",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "cỡ số 3",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "cỡ số 4",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "duy trì sự thông thoáng của đường thở",
+        "đặt Canuyn hầu"
+      ],
+      [
+        "duy trì đường thở kéo dài",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "dùng 2 đến 3 ngón tay để móc khoang miệng",
+        "hô hấp lại cho bệnh nhân"
+      ],
+      [
+        "dùng bóng Ambu và mask",
+        "đặt Canuyn hầu"
+      ],
+      [
+        "dùng cánh tay ôm eo bệnh nhân",
+        "đứng sau bệnh nhân"
+      ],
+      [
+        "dùng tay ép như trên",
+        "quỳ gối ở một bên cạnh hông bệnh nhân"
+      ],
+      [
+        "dùng đèn soi thanh quản",
+        "lấy dị vật bằng kẹp Margill"
+      ],
+      [
+        "dùng động tác giật (để ép) lên trên và ra sau",
+        "lặp lại động tác tới khi giải phóng được tắc nghẽn"
+      ],
+      [
+        "dị vật",
+        "tắc nghẽn đường thở"
+      ],
+      [
+        "fowler",
+        "suy hô hấp"
+      ],
+      [
+        "ho",
+        "thượng vị nhanh"
+      ],
+      [
+        "ho",
+        "tình trạng tỉnh"
+      ],
+      [
+        "hô hấp nhân tạo",
+        "kiểm tra đường thở"
+      ],
+      [
+        "hôn mê",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "hút đờm dãi dễ dàng hơn",
+        "đặt Canuyn hầu"
+      ],
+      [
+        "khó thở",
+        "trao đổi khí"
+      ],
+      [
+        "khó thở",
+        "tắc nghẽn hoàn toàn"
+      ],
+      [
+        "không đáp ứng",
+        "ngừng tuần hoàn"
+      ],
+      [
+        "kiểm tra đường thở",
+        "đánh giá hiệu quả"
+      ],
+      [
+        "lau miệng",
+        "nôn để đầu bệnh nhân nghiêng một bên"
+      ],
+      [
+        "luồng hơi thở",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "làm sạch đường thở",
+        "quan sát khoang miệng"
+      ],
+      [
+        "lưỡi",
+        "đầu trong canuyn"
+      ],
+      [
+        "lật khúc gỗ",
+        "tư thế bệnh nhân"
+      ],
+      [
+        "mặt ngửa lên trên",
+        "đặt bệnh nhân nằm ngửa"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "nguy cơ sặc"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "người lớn"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "trẻ sơ sinh"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "trẻ trên 30 kg"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "trẻ từ 6,5 đến 20 kg"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "tư thế đầu ngửa"
+      ],
+      [
+        "một bàn tay nắm lại",
+        "ngón cái ở trên đường giữa"
+      ],
+      [
+        "một người hô hấp nhân tạo và ép tim",
+        "một người làm nghiệm pháp"
+      ],
+      [
+        "mở đường thở",
+        "ngửa đầu"
+      ],
+      [
+        "mở đường thở",
+        "nhấc cằm"
+      ],
+      [
+        "mở đường thở",
+        "ấn giữ hàm"
+      ],
+      [
+        "nghiệm pháp Heimlich",
+        "ép bụng"
+      ],
+      [
+        "người cấp cứu quỳ gối ở hai bên hông bệnh nhân",
+        "đặt một cùi bàn tay lên bụng ở giữa rốn và mũi ức"
+      ],
+      [
+        "ngồi thõng chân",
+        "phù phổi cấp"
+      ],
+      [
+        "phù não",
+        "tư thế fowler"
+      ],
+      [
+        "trao đổi khí",
+        "tắc nghẽn một phần"
+      ],
+      [
+        "tắc nghẽn đường thở",
+        "tụt lưỡi"
+      ],
+      [
+        "tắc nghẽn đường thở",
+        "ép bụng"
+      ],
+      [
+        "tự ép bụng bằng cách ấn nắm tay lên bụng",
+        "ép bụng vào các bề mặt chắc như bồn rửa, lưng ghế, mặt bàn"
+      ],
+      [
+        "vỗ lưng",
+        "đẩy dị vật ra khỏi đường thở"
+      ],
+      [
+        "vỗ lưng và ép ngực",
+        "đặt trẻ nhỏ nằm trên tay tư thế sấp"
+      ],
+      [
+        "ép ngực",
+        "đẩy dị vật ra khỏi đường thở"
+      ]
+    ],
+    "count": 98,
+    "create_time": 1792917436,
+    "update_time": 1792917436,
+    "_id": "02-cac-ky-thuat-kiem-soat-duong-tho"
+  },
+  "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap": {
+    "relation_pairs": [
+      [
+        "ALI",
+        "thiếu oxy máu nặng"
+      ],
+      [
+        "ARDS",
+        "thiếu oxy máu nặng"
+      ],
+      [
+        "COPD",
+        "corticoid"
+      ],
+      [
+        "COPD",
+        "nồng độ ô xy từ 24%- 50%"
+      ],
+      [
+        "COPD",
+        "suy hô hấp"
+      ],
+      [
+        "COPD",
+        "thiếu oxy máu nặng"
+      ],
+      [
+        "COPD",
+        "thuốc giãn phế quản"
+      ],
+      [
+        "COPD",
+        "đợt cấp của bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ],
+      [
+        "Canuyn mũi",
+        "bệnh nhân COPD"
+      ],
+      [
+        "Dung tích sống < 15 ml/kg",
+        "giảm thông khí"
+      ],
+      [
+        "Dòng ô xy cao",
+        "mặt nạ venturi"
+      ],
+      [
+        "Dòng ô xy thấp",
+        "canuyn mũi"
+      ],
+      [
+        "Glasgo w < 13",
+        "suy hô hấp"
+      ],
+      [
+        "HA giảm",
+        "suy hô hấp"
+      ],
+      [
+        "HA tăng",
+        "suy hô hấp"
+      ],
+      [
+        "HFQ",
+        "thông khí nhân tạo xâm nhập"
+      ],
+      [
+        "Hội chứng 3 giảm, đông đặc, tam chứng của tràn khí màng phổi",
+        "Ran ẩm, ran rít"
+      ],
+      [
+        "Khí máu động mạch",
+        "suy hô hấp"
+      ],
+      [
+        "Khả năng khạc đờm giảm nhiều hoặc mất",
+        "Nội khí quản"
+      ],
+      [
+        "Liệt hoặc mệt cơ hoành",
+        "giảm thông khí"
+      ],
+      [
+        "Mất phản xạ bảo vệ đường thở",
+        "Nội khí quản"
+      ],
+      [
+        "Mặt nạ",
+        "thông khí nhân tạo không xâm nhập áp lực dương"
+      ],
+      [
+        "Mặt nạ không thở lại",
+        "bệnh nhân suy hô hấp mức độ nặng"
+      ],
+      [
+        "Mặt nạ venturi",
+        "bệnh nhân COPD"
+      ],
+      [
+        "Mặt nạ ô xy",
+        "bệnh nhân suy hô hấp mức độ trung bình do tổn thương màng phế nang mao mạch"
+      ],
+      [
+        "Nghiệm pháp Heimlich",
+        "dị vật đường thở"
+      ],
+      [
+        "Nội khí quản",
+        "Thiếu oxy máu nặng không đáp ứng thở oxy"
+      ],
+      [
+        "Nội khí quản",
+        "tắc nghẽn đường hô hấp trên"
+      ],
+      [
+        "P/F<200",
+        "hội chứng suy hô hấp tiến triển"
+      ],
+      [
+        "PaCO2 > 60",
+        "suy hô hấp"
+      ],
+      [
+        "PaCO2 tăng dần",
+        "giảm thông khí"
+      ],
+      [
+        "PaCO2 ≥ 50 mmHg",
+        "tăng CO2 máu"
+      ],
+      [
+        "PaO2 < 45 mmHg",
+        "tím"
+      ],
+      [
+        "PaO2 < 55",
+        "suy hô hấp"
+      ],
+      [
+        "PaO2 ≤ 50-60mmHg",
+        "thiếu ô xy máu"
+      ],
+      [
+        "SaO2 < 70-80%",
+        "thở nhanh"
+      ],
+      [
+        "SaO2 giảm rất",
+        "mạch nhanh"
+      ],
+      [
+        "SaO2 giảm rất",
+        "thở nhanh"
+      ],
+      [
+        "SpO2 > 90%",
+        "ô xy liệu pháp"
+      ],
+      [
+        "TS thở > 30/min",
+        "toan hô hấp cấp"
+      ],
+      [
+        "Thở nhanh và có cảm giác thiếu khí",
+        "giảm thông khí"
+      ],
+      [
+        "Toan hô hấp với pH < 7,25",
+        "giảm thông khí"
+      ],
+      [
+        "Tổn thương màng phế nang mao mạch",
+        "suy hô hấp"
+      ],
+      [
+        "Viêm phổi",
+        "thiếu oxy máu nặng"
+      ],
+      [
+        "XQ phổi",
+        "suy hô hấp"
+      ],
+      [
+        "bệnh nhân",
+        "thông khí nhân tạo không xâm nhập áp lực dương"
+      ],
+      [
+        "bệnh phổi tắc nghẽn mạn tính",
+        "ho khạc đờm tăng"
+      ],
+      [
+        "bệnh phổi tắc nghẽn mạn tính",
+        "khó thở"
+      ],
+      [
+        "bệnh phổi tắc nghẽn mạn tính",
+        "đờm đục"
+      ],
+      [
+        "bệnh tim",
+        "triệu chứng suy tim"
+      ],
+      [
+        "bệnh tim",
+        "Điện tim"
+      ],
+      [
+        "canuyn Grudel",
+        "khai thông đường thở"
+      ],
+      [
+        "canuyn Mayo",
+        "khai thông đường thở"
+      ],
+      [
+        "corticoid",
+        "hen phế quản"
+      ],
+      [
+        "câu ngắn",
+        "suy hô hấp"
+      ],
+      [
+        "cổ ưỡn",
+        "khai thông đường thở"
+      ],
+      [
+        "dị vật đường thở",
+        "suy hô hấp"
+      ],
+      [
+        "giảm thông khí",
+        "Áp lực hít vào tối đa ≥ - 30 cmH2O"
+      ],
+      [
+        "giảm ô xy máu",
+        "hô hấp hỗn hợp"
+      ],
+      [
+        "giảm ô xy máu",
+        "suy tim ứ huyết mất bù"
+      ],
+      [
+        "ho khạc đờm đục",
+        "viêm phổi"
+      ],
+      [
+        "huyết áp tăng",
+        "rối loạn tim mạch"
+      ],
+      [
+        "huyết áp tụt",
+        "rối loạn tim mạch"
+      ],
+      [
+        "hô hấp hỗn hợp",
+        "tăng CO2"
+      ],
+      [
+        "hút rửa phế quản",
+        "khai thông đường thở"
+      ],
+      [
+        "hút đờm dãi",
+        "khai thông đường thở"
+      ],
+      [
+        "hỗn hợp vừa có giảm ô xy máu và tăng CO2",
+        "đợt cấp của bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ],
+      [
+        "hội chứng suy hô hấp tiến triển",
+        "tăng shunt"
+      ],
+      [
+        "hội chứng suy hô hấp tiến triển",
+        "x quang phổi"
+      ],
+      [
+        "khai thông đường thở",
+        "nghiệm pháp Heimlich"
+      ],
+      [
+        "khai thông đường thở",
+        "nội khí quản"
+      ],
+      [
+        "khai thông đường thở",
+        "tư thế nằm nghiêng an toàn"
+      ],
+      [
+        "kháng sinh",
+        "viêm phổi"
+      ],
+      [
+        "kháng sinh",
+        "đợt cấp COPD"
+      ],
+      [
+        "khó thở",
+        "thiếu ô xy máu"
+      ],
+      [
+        "khó thở",
+        "tăng CO2 máu"
+      ],
+      [
+        "khó thở",
+        "viêm phổi"
+      ],
+      [
+        "lợi tiểu",
+        "suy tim"
+      ],
+      [
+        "lợi tiểu",
+        "suy tim ứ huyết"
+      ],
+      [
+        "mạch > 140",
+        "suy hô hấp"
+      ],
+      [
+        "mạch nhanh",
+        "rối loạn tim mạch"
+      ],
+      [
+        "mạch nhanh",
+        "suy hô hấp"
+      ],
+      [
+        "mất khả năng bào vệ đường thở",
+        "thông khí nhân tạo không xâm nhập áp lực dương"
+      ],
+      [
+        "nhịp thở > 40 hoặc < 10",
+        "suy hô hấp"
+      ],
+      [
+        "pH < 7,25",
+        "suy hô hấp"
+      ],
+      [
+        "pH < 7,36",
+        "tăng CO2 máu"
+      ],
+      [
+        "rối loạn thần kinh và ý thức",
+        "suy hô hấp cấp"
+      ],
+      [
+        "rối loạn tim mạch",
+        "suy hô hấp cấp"
+      ],
+      [
+        "suy hô hấp",
+        "thở nhanh"
+      ],
+      [
+        "suy hô hấp",
+        "tràn khí màng phổi"
+      ],
+      [
+        "suy hô hấp",
+        "tím"
+      ],
+      [
+        "suy hô hấp",
+        "tím ++"
+      ],
+      [
+        "suy hô hấp",
+        "tím +++"
+      ],
+      [
+        "suy hô hấp",
+        "tăng huyết áp"
+      ],
+      [
+        "suy hô hấp",
+        "tắc đường hô hấp trên"
+      ],
+      [
+        "suy hô hấp",
+        "vã mồ hôi ++"
+      ],
+      [
+        "suy hô hấp",
+        "vã mồ hôi +++"
+      ],
+      [
+        "suy hô hấp",
+        "đợt cấp của bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ],
+      [
+        "suy hô hấp",
+        "ức chế hô hấp hoặc liệt hô hấp"
+      ],
+      [
+        "suy hô hấp cấp",
+        "thiếu ô xy máu"
+      ],
+      [
+        "suy hô hấp cấp",
+        "tăng CO2 máu"
+      ],
+      [
+        "suy hô hấp cấp",
+        "vã mồ hôi"
+      ],
+      [
+        "suy hô hấp do phù phổi cấp huyết động",
+        "thông khí nhân tạo"
+      ],
+      [
+        "suy hô hấp do phù phổi cấp huyết động",
+        "thông khí nhân tạo xâm nhập"
+      ],
+      [
+        "suy hô hấp giảm ô xy máu",
+        "tổn thương não do chấn thương"
+      ],
+      [
+        "suy hô hấp nặng",
+        "thở gắng sức"
+      ],
+      [
+        "suy hô hấp nặng",
+        "tím"
+      ],
+      [
+        "suy tim ứ huyết mất bù",
+        "tăng CO2"
+      ],
+      [
+        "sốt",
+        "viêm phổi"
+      ],
+      [
+        "thuốc giãn phế quản",
+        "đợt cấp của COPD"
+      ],
+      [
+        "thông khí nhân tạo không xâm nhập áp lực dương",
+        "thông khí nhân tạo xâm nhập"
+      ],
+      [
+        "thông khí nhân tạo không xâm nhập áp lực dương",
+        "tình trạng bệnh nhân không cho phép đặt mặt nạ"
+      ],
+      [
+        "thông khí nhân tạo không xâm nhập áp lực dương",
+        "vật vã hay không hợp tác"
+      ],
+      [
+        "thông khí nhân tạo không xâm nhập áp lực dương",
+        "đờm dãi quá nhiều"
+      ],
+      [
+        "tiền sử bệnh nhân có tiền sử bệnh phổi tắc nghẽn mạn tính",
+        "đợt cấp của bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ],
+      [
+        "triệu chứng liệt cơ hô hấp",
+        "ý thức"
+      ],
+      [
+        "tình trạng oxy hoá máu tồi đi",
+        "tỷ lệ PaO2/FiO2 < 200"
+      ],
+      [
+        "tăng CO2 máu",
+        "tổn thương não do chấn thương"
+      ],
+      [
+        "viêm phổi",
+        "x quang phổi"
+      ],
+      [
+        "viêm phổi",
+        "xét nghiệm máu"
+      ],
+      [
+        "viêm phổi",
+        "đau ngực kiểu màng phổi"
+      ]
+    ],
+    "count": 121,
+    "create_time": 1792917620,
+    "update_time": 1792917620,
+    "_id": "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap"
+  }
+}

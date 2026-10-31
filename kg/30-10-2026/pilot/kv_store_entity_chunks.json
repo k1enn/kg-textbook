@@ -1,0 +1,766 @@
+{
+  "ngực": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "ngực"
+  },
+  "bụng": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "bụng"
+  },
+  "khung chậu": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "khung chậu"
+  },
+  "chi": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "chi"
+  },
+  "lưng": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "lưng"
+  },
+  "thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "thần kinh"
+  },
+  "hô hấp": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "hô hấp"
+  },
+  "tim mạch": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "tim mạch"
+  },
+  "tiêu hóa": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "tiêu hóa"
+  },
+  "thận-tiết niệu": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "thận-tiết niệu"
+  },
+  "sinh dục": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "sinh dục"
+  },
+  "tai mũi họng": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "tai mũi họng"
+  },
+  "mắt": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "mắt"
+  },
+  "răng hàm mặt": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "răng hàm mặt"
+  },
+  "đáp ứng với điều trị": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "đáp ứng với điều trị"
+  },
+  "thăm dò": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "thăm dò"
+  },
+  "định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "định hướng chuyển"
+  },
+  "ngừng tuần hoàn": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "ngừng tuần hoàn"
+  },
+  "sốc điện": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "sốc điện"
+  },
+  "hội chứng động mạch vành cấp": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "hội chứng động mạch vành cấp"
+  },
+  "thời gian vàng": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "thời gian vàng"
+  },
+  "thượng vị nhanh": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "thượng vị nhanh"
+  },
+  "ho": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "ho"
+  },
+  "bệnh nhân đang ngồi hoặc đứng": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "bệnh nhân đang ngồi hoặc đứng"
+  },
+  "bệnh nhân hôn mê": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "bệnh nhân hôn mê"
+  },
+  "thủ thuật Heimlich": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "thủ thuật Heimlich"
+  },
+  "ép bụng": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "ép bụng"
+  },
+  "vỗ lưng": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "vỗ lưng"
+  },
+  "ép ngực": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "ép ngực"
+  },
+  "kỹ thuật lấy bỏ dị vật": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "kỹ thuật lấy bỏ dị vật"
+  },
+  "dị vật": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "dị vật"
+  },
+  "đường thở": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "đường thở"
+  },
+  "chỉ động tác vỗ lưng": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "chỉ động tác vỗ lưng"
+  },
+  "trẻ nhỏ": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "trẻ nhỏ"
+  },
+  "vùng giữa hai xương bả vai": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "vùng giữa hai xương bả vai"
+  },
+  "đánh giá hiệu quả": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "đánh giá hiệu quả"
+  },
+  "dùng đèn soi thanh quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "dùng đèn soi thanh quản"
+  },
+  "kẹp Margill": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "kẹp Margill"
+  },
+  "mở khí quản qua màng nhẫn giáp": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "mở khí quản qua màng nhẫn giáp"
+  },
+  "mở khí quản qua da": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "mở khí quản qua da"
+  },
+  "đặt canuyn hầu": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "đặt canuyn hầu"
+  },
+  "canuyn miệng hầu": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "canuyn miệng hầu"
+  },
+  "canuyn mũi hầu": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "canuyn mũi hầu"
+  },
+  "đè lưỡi": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "đè lưỡi"
+  },
+  "chất bôi trơn canuyn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "chất bôi trơn canuyn"
+  },
+  "canu": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "canu"
+  },
+  "guedel": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "guedel"
+  },
+  "berman": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "berman"
+  },
+  "canuyn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "canuyn"
+  },
+  "mặt vát của canuyn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "mặt vát của canuyn"
+  },
+  "vẹo vách mũi": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "vẹo vách mũi"
+  },
+  "mặt nạ thanh quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "mặt nạ thanh quản"
+  },
+  "cuff": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "cuff"
+  },
+  "lỗ mở": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "lỗ mở"
+  },
+  "tư thế đầu ngửa": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "tư thế đầu ngửa"
+  },
+  "đặt nội khí quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "đặt nội khí quản"
+  },
+  "mở khí quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "mở khí quản"
+  },
+  "chọc": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "chọc"
+  },
+  "mở màng nhẫn giáp": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "mở màng nhẫn giáp"
+  },
+  "ran ẩm": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "ran ẩm"
+  },
+  "ran rít": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "ran rít"
+  },
+  "hội chứng 3 giảm": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "hội chứng 3 giảm"
+  },
+  "đông đặc": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "đông đặc"
+  },
+  "tam chứng của tràn khí màng phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "tam chứng của tràn khí màng phổi"
+  },
+  "thăm khám tim mạch": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "thăm khám tim mạch"
+  },
+  "thăm khám thần kinh": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "thăm khám thần kinh"
+  },
+  "xq phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "xq phổi"
+  },
+  "khí máu động mạch": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "khí máu động mạch"
+  },
+  "tràn khí màng phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "tràn khí màng phổi"
+  },
+  "hô hấp hỗn hợp": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "hô hấp hỗn hợp"
+  },
+  "viêm phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "viêm phổi"
+  },
+  "hội chứng suy hô hấp tiến triển": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "hội chứng suy hô hấp tiến triển"
+  },
+  "suy tim ứ huyết mất bù": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "suy tim ứ huyết mất bù"
+  },
+  "x quang phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "x quang phổi"
+  },
+  "bạch cầu tăng": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "bạch cầu tăng"
+  },
+  "crp tăng": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "crp tăng"
+  },
+  "procalcitinin": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "procalcitinin"
+  },
+  "máu lắng tăng": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "máu lắng tăng"
+  },
+  "nội khí quản": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "nội khí quản"
+  },
+  "tắc nghẽn đường hô hấp trên": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 2,
+    "update_time": 1793016196,
+    "_id": "tắc nghẽn đường hô hấp trên"
+  },
+  "mất phản xạ bảo vệ đường thở": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 2,
+    "update_time": 1793016196,
+    "_id": "mất phản xạ bảo vệ đường thở"
+  },
+  "khả năng khạc đờm giảm nhiều hoặc mất": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "khả năng khạc đờm giảm nhiều hoặc mất"
+  },
+  "copd": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "copd"
+  },
+  "corticoid": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "corticoid"
+  }
+}

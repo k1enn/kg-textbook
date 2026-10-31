@@ -1,0 +1,1429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ngực">
+  <data key="d0">ngực</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một bộ phận cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="bụng">
+  <data key="d0">bụng</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một bộ phận cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="khung chậu">
+  <data key="d0">khung chậu</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một bộ phận cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="chi">
+  <data key="d0">chi</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một bộ phận cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="lưng">
+  <data key="d0">lưng</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một bộ phận cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="thần kinh">
+  <data key="d0">thần kinh</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="hô hấp">
+  <data key="d0">hô hấp</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="tim mạch">
+  <data key="d0">tim mạch</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="tiêu hóa">
+  <data key="d0">tiêu hóa</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="thận-tiết niệu">
+  <data key="d0">thận-tiết niệu</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="sinh dục">
+  <data key="d0">sinh dục</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="tai mũi họng">
+  <data key="d0">tai mũi họng</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một hệ thống cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="mắt">
+  <data key="d0">mắt</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="răng hàm mặt">
+  <data key="d0">răng hàm mặt</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một cơ quan được thăm khám trong quá trình khám bệnh nhân.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="đáp ứng với điều trị">
+  <data key="d0">đáp ứng với điều trị</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một dấu hiệu cho thấy bệnh nhân phản ứng tích cực hoặc tiêu cực với việc điều trị.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="thăm dò">
+  <data key="d0">thăm dò</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là các xét nghiệm hoặc thăm dò được thực hiện để loại trừ hoặc khẳng định chẩn đoán.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="định hướng chuyển">
+  <data key="d0">định hướng chuyển</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là quyết định về việc bệnh nhân được nhập viện, ra viện hoặc lưu theo dõi tại khoa cấp cứu.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="ngừng tuần hoàn">
+  <data key="d0">ngừng tuần hoàn</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là tình trạng bệnh nhân ngừng hoạt động tim mạch, cần can thiệp cấp cứu ngay lập tức.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="sốc điện">
+  <data key="d0">sốc điện</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là tình trạng rối loạn điện tim dẫn đến ngừng tuần hoàn, cần can thiệp bằng sốc điện cấp cứu.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="hội chứng động mạch vành cấp">
+  <data key="d0">hội chứng động mạch vành cấp</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là bệnh lý mạch máu tim cấp tính, cần can thiệp sớm trong thời gian cửa sổ điều trị.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="thời gian vàng">
+  <data key="d0">thời gian vàng</data>
+  <data key="d1">chi_so</data>
+  <data key="d2">Là khoảng thời gian nhất định trong đó can thiệp sớm có thể cải thiện tiên lượng bệnh nhân cấp cứu.</data>
+  <data key="d3">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d4">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d5">1793015500</data>
+  <data key="d6"></data>
+</node>
+<node id="thượng vị nhanh">
+  <data key="d0">thượng vị nhanh</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là một động tác dùng để đẩy cơ hoành lên trên, tăng áp lực lồng ngực và tạo luồng khí mạnh tống dị vật ra khỏi đường thở.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="ho">
+  <data key="d0">ho</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một phản xạ tự nhiên khi có dị vật trong đường thở, tạo ra luồng khí mạnh để loại bỏ dị vật.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="bệnh nhân đang ngồi hoặc đứng">
+  <data key="d0">bệnh nhân đang ngồi hoặc đứng</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là nhóm người bệnh đang ở tư thế ngồi hoặc đứng khi thực hiện thủ thuật Heimlich.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="bệnh nhân hôn mê">
+  <data key="d0">bệnh nhân hôn mê</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là nhóm người bệnh đang trong trạng thái hôn mê khi thực hiện thủ thuật Heimlich.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="thủ thuật Heimlich">
+  <data key="d0">thủ thuật Heimlich</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là kỹ thuật ép bụng để loại bỏ dị vật trong đường thở, thực hiện khi bệnh nhân tỉnh hoặc hôn mê.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="ép bụng">
+  <data key="d0">ép bụng</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là kỹ thuật dùng tay để ép lên bụng bệnh nhân để tạo áp lực đẩy dị vật ra khỏi đường thở.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="vỗ lưng">
+  <data key="d0">vỗ lưng</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là động tác dùng để vỗ nhẹ lưng trẻ nhỏ để tống dị vật ra khỏi đường thở.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="ép ngực">
+  <data key="d0">ép ngực</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là kỹ thuật dùng để ép ngực trẻ nhỏ khi vỗ lưng không hiệu quả để loại bỏ dị vật.&lt;SEP&gt;Động tác được thực hiện sau khi vỗ lưng không hiệu quả để đẩy dị vật ra khỏi trẻ.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="kỹ thuật lấy bỏ dị vật">
+  <data key="d0">kỹ thuật lấy bỏ dị vật</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là kỹ thuật thực hiện sau khi ép bụng để kiểm tra và lấy dị vật ra khỏi đường thở.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="dị vật">
+  <data key="d0">dị vật</data>
+  <data key="d1">bien_chung</data>
+  <data key="d2">Là vật thể bị mắc kẹt trong đường thở, gây tắc nghẽn hô hấp và cần được loại bỏ bằng thủ thuật.&lt;SEP&gt;Vật thể lạ nằm trong đường thở của trẻ nhỏ cần được loại bỏ.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="đường thở">
+  <data key="d0">đường thở</data>
+  <data key="d1">chi_so</data>
+  <data key="d2">Là hệ thống đường dẫn khí từ mũi và miệng đến phổi, cần được đảm bảo không bị tắc nghẽn.&lt;SEP&gt;Khu vực cần được kiểm tra và làm sạch để đảm bảo thông thoáng khi thực hiện các động tác xử lý dị vật.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="chỉ động tác vỗ lưng">
+  <data key="d0">chỉ động tác vỗ lưng</data>
+  <data key="d1">khac</data>
+  <data key="d2">Là động tác đầu tiên được thực hiện để tống dị vật ra khỏi trẻ nhỏ.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="trẻ nhỏ">
+  <data key="d0">trẻ nhỏ</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Nhóm đối tượng được chỉ định để thực hiện các động tác vỗ lưng và ép ngực.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="vùng giữa hai xương bả vai">
+  <data key="d0">vùng giữa hai xương bả vai</data>
+  <data key="d1">khac</data>
+  <data key="d2">Vị trí cụ thể trên cơ thể trẻ nhỏ để thực hiện động tác vỗ lưng.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="đánh giá hiệu quả">
+  <data key="d0">đánh giá hiệu quả</data>
+  <data key="d1">khac</data>
+  <data key="d2">Quy trình xác định xem các động tác đã thành công trong việc loại bỏ dị vật hay chưa.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="dùng đèn soi thanh quản">
+  <data key="d0">dùng đèn soi thanh quản</data>
+  <data key="d1">khac</data>
+  <data key="d2">Kỹ thuật sử dụng để quan sát và lấy dị vật từ thanh quản khi cần thiết.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="kẹp Margill">
+  <data key="d0">kẹp Margill</data>
+  <data key="d1">khac</data>
+  <data key="d2">Dụng cụ được dùng để lấy dị vật từ thanh quản trong các kỹ thuật nâng cao.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="mở khí quản qua màng nhẫn giáp">
+  <data key="d0">mở khí quản qua màng nhẫn giáp</data>
+  <data key="d1">khac</data>
+  <data key="d2">Kỹ thuật mở khí quản thông qua màng nhẫn giáp, yêu cầu đào tạo đặc biệt.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="mở khí quản qua da">
+  <data key="d0">mở khí quản qua da</data>
+  <data key="d1">khac</data>
+  <data key="d2">Kỹ thuật mở khí quản bằng cách cắt da, dùng trong các tình huống cấp cứu nâng cao.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="đặt canuyn hầu">
+  <data key="d0">đặt canuyn hầu</data>
+  <data key="d1">khac</data>
+  <data key="d2">Phương pháp giúp duy trì thông thoáng đường thở và hỗ trợ thông khí cho bệnh nhân.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="canuyn miệng hầu">
+  <data key="d0">canuyn miệng hầu</data>
+  <data key="d1">khac</data>
+  <data key="d2">Loại canuyn được sử dụng khi đặt vào miệng bệnh nhân trẻ nhỏ.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="canuyn mũi hầu">
+  <data key="d0">canuyn mũi hầu</data>
+  <data key="d1">khac</data>
+  <data key="d2">Loại canuyn được sử dụng khi đặt vào mũi bệnh nhân.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="đè lưỡi">
+  <data key="d0">đè lưỡi</data>
+  <data key="d1">khac</data>
+  <data key="d2">Dụng cụ hỗ trợ trong việc đặt canuyn hầu để tách lưỡi khỏi thành họng.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="chất bôi trơn canuyn">
+  <data key="d0">chất bôi trơn canuyn</data>
+  <data key="d1">khac</data>
+  <data key="d2">Chất được sử dụng để làm trơn bề mặt canuyn khi đặt vào bệnh nhân.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="canu">
+  <data key="d0">canu</data>
+  <data key="d1">khac</data>
+  <data key="d2">Dụng cụ được sử dụng trong việc hỗ trợ thông khí và duy trì đường thở cho bệnh nhân.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="guedel">
+  <data key="d0">guedel</data>
+  <data key="d1">khac</data>
+  <data key="d2">Loại canuyn miệng hầu được sử dụng trong điều trị hô hấp.&lt;SEP&gt;Loại canuyn miệng hầu có các cỡ khác nhau được sử dụng trong thực tế.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="berman">
+  <data key="d0">berman</data>
+  <data key="d1">khac</data>
+  <data key="d2">Loại canuyn miệng hầu được sử dụng trong điều trị hô hấp.&lt;SEP&gt;Loại canuyn miệng hầu có các cỡ khác nhau được sử dụng trong thực tế.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="canuyn">
+  <data key="d0">canuyn</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là thiết bị hỗ trợ mở đường thở bằng cách đặt vào miệng hoặc mũi của bệnh nhân.&lt;SEP&gt;là dụng cụ hỗ trợ thở qua đường mũi.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="mặt vát của canuyn">
+  <data key="d0">mặt vát của canuyn</data>
+  <data key="d1">khac</data>
+  <data key="d2">là đặc điểm hình dạng của canuyn hướng về phía vách mũi.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="vẹo vách mũi">
+  <data key="d0">vẹo vách mũi</data>
+  <data key="d1">benh</data>
+  <data key="d2">là tình trạng lệch vách mũi gây khó thở khi đặt canuyn.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="mặt nạ thanh quản">
+  <data key="d0">mặt nạ thanh quản</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">là phương pháp tạo đường thở cố định bằng mặt nạ gắn với bóng cuff.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="cuff">
+  <data key="d0">cuff</data>
+  <data key="d1">khac</data>
+  <data key="d2">là phần nối của mặt nạ thanh quản với bóng cuff.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="lỗ mở">
+  <data key="d0">lỗ mở</data>
+  <data key="d1">khac</data>
+  <data key="d2">là các lỗ trên mặt nạ thanh quản hướng vào thanh quản.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="tư thế đầu ngửa">
+  <data key="d0">tư thế đầu ngửa</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">là vị trí đặt bệnh nhân khi sử dụng mặt nạ thanh quản.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="đặt nội khí quản">
+  <data key="d0">đặt nội khí quản</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">là thủ thuật tạo đường thở bằng cách đặt ống nội khí quản vào thanh quản.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="mở khí quản">
+  <data key="d0">mở khí quản</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">là thủ thuật mở đường thở bằng cách tạo khe hở ở khí quản.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="chọc">
+  <data key="d0">chọc</data>
+  <data key="d1">khac</data>
+  <data key="d2">là hành động chọc vào cơ thể để tạo đường thở.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="mở màng nhẫn giáp">
+  <data key="d0">mở màng nhẫn giáp</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">là thủ thuật mở màng nhẫn giáp để tạo đường thở.</data>
+  <data key="d3">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d4">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d5">1793015799</data>
+  <data key="d6"></data>
+</node>
+<node id="ran ẩm">
+  <data key="d0">ran ẩm</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một dấu hiệu lâm sàng xuất hiện trong thăm khám phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="ran rít">
+  <data key="d0">ran rít</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một dấu hiệu lâm sàng xuất hiện trong thăm khám phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="hội chứng 3 giảm">
+  <data key="d0">hội chứng 3 giảm</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một hội chứng lâm sàng liên quan đến suy hô hấp và tràn khí màng phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="đông đặc">
+  <data key="d0">đông đặc</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một dấu hiệu lâm sàng liên quan đến tình trạng tràn khí màng phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="tam chứng của tràn khí màng phổi">
+  <data key="d0">tam chứng của tràn khí màng phổi</data>
+  <data key="d1">trieu_chung</data>
+  <data key="d2">Là một nhóm triệu chứng đặc trưng của bệnh tràn khí màng phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="thăm khám tim mạch">
+  <data key="d0">thăm khám tim mạch</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một phương pháp thăm khám nhằm phát hiện các dấu hiệu và triệu chứng suy tim, bệnh tim.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="thăm khám thần kinh">
+  <data key="d0">thăm khám thần kinh</data>
+  <data key="d1">doi_tuong</data>
+  <data key="d2">Là một phương pháp thăm khám nhằm đánh giá ý thức và các triệu chứng liệt cơ hô hấp.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="xq phổi">
+  <data key="d0">xq phổi</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là một xét nghiệm chẩn đoán hình ảnh có ý nghĩa trong việc định hướng chẩn đoán bệnh lý hô hấp.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="khí máu động mạch">
+  <data key="d0">khí máu động mạch</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là một xét nghiệm cần thiết để chẩn đoán và phân loại suy hô hấp.&lt;SEP&gt;Là xét nghiệm dùng để đánh giá tình trạng oxy hóa máu và CO2 trong máu.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002&lt;SEP&gt;03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="tràn khí màng phổi">
+  <data key="d0">tràn khí màng phổi</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là một bệnh lý gây khó thở đột ngột, có thể xuất hiện sau gắng sức hoặc tự phát, kèm theo các dấu hiệu lâm sàng như lồng ngực căng và giảm RRFN.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="hô hấp hỗn hợp">
+  <data key="d0">hô hấp hỗn hợp</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là tình trạng có giảm oxy máu và tăng CO2 trong máu.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="viêm phổi">
+  <data key="d0">viêm phổi</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là bệnh lý gây suy hô hấp do giảm oxy máu, có triệu chứng sốt, ho khạc đờm đục, khó thở và đau ngực.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="hội chứng suy hô hấp tiến triển">
+  <data key="d0">hội chứng suy hô hấp tiến triển</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là biểu hiện của đáp ứng viêm hệ thống do tổn thương phổi hoặc nguyên nhân ngoài phổi, gây suy hô hấp nặng với tăng shunt và P/F &lt; 200.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="suy tim ứ huyết mất bù">
+  <data key="d0">suy tim ứ huyết mất bù</data>
+  <data key="d1">benh</data>
+  <data key="d2">Là dạng suy hô hấp chủ yếu do giảm oxy máu, có thể gặp thể tăng CO2 ở bệnh nhân có bệnh phổi mạn tính.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="x quang phổi">
+  <data key="d0">x quang phổi</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là xét nghiệm hình ảnh dùng để khẳng định chẩn đoán và đánh giá mức độ tổn thương phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="bạch cầu tăng">
+  <data key="d0">bạch cầu tăng</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là dấu hiệu tăng trong xét nghiệm máu khi có viêm phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="crp tăng">
+  <data key="d0">crp tăng</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là dấu hiệu tăng trong xét nghiệm máu khi có viêm phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="procalcitinin">
+  <data key="d0">procalcitinin</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là chỉ số tăng trong xét nghiệm máu khi có viêm phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="máu lắng tăng">
+  <data key="d0">máu lắng tăng</data>
+  <data key="d1">xet_nghiem</data>
+  <data key="d2">Là dấu hiệu tăng trong xét nghiệm máu khi có viêm phổi.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="nội khí quản">
+  <data key="d0">nội khí quản</data>
+  <data key="d1">thu_thuat</data>
+  <data key="d2">Là thủ thuật khai thông đường thở bằng cách đặt ống nội khí quản hoặc mở khí quản.&lt;SEP&gt;Là biện pháp hữu hiệu khai thông đường thở khi tắc nghẽn.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003&lt;SEP&gt;03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="tắc nghẽn đường hô hấp trên">
+  <data key="d0">tắc nghẽn đường hô hấp trên</data>
+  <data key="d1">nguyen_nhan</data>
+  <data key="d2">Là nguyên nhân dẫn đến cần đặt nội khí quản.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004&lt;SEP&gt;03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="mất phản xạ bảo vệ đường thở">
+  <data key="d0">mất phản xạ bảo vệ đường thở</data>
+  <data key="d1">nguyen_nhan</data>
+  <data key="d2">Là nguyên nhân dẫn đến cần đặt nội khí quản.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004&lt;SEP&gt;03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="khả năng khạc đờm giảm nhiều hoặc mất">
+  <data key="d0">khả năng khạc đờm giảm nhiều hoặc mất</data>
+  <data key="d1">nguyen_nhan</data>
+  <data key="d2">Là nguyên nhân dẫn đến cần đặt nội khí quản.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="copd">
+  <data key="d0">copd</data>
+  <data key="d1">benh</data>
+  <data key="d2">Bệnh lý hô hấp mãn tính do co thắt phế quản, thường gặp ở bệnh nhân cần điều trị bằng thuốc giãn phế quản.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<node id="corticoid">
+  <data key="d0">corticoid</data>
+  <data key="d1">thuoc</data>
+  <data key="d2">Thuốc dùng để điều trị các đợt cấp của hen phế quản hoặc COPD.</data>
+  <data key="d3">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005</data>
+  <data key="d4">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d5">1793016196</data>
+  <data key="d6"></data>
+</node>
+<edge source="ngực" target="thần kinh">
+  <data key="d7">1.0</data>
+  <data key="d8">Ngực và thần kinh là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="bụng" target="tiêu hóa">
+  <data key="d7">1.0</data>
+  <data key="d8">Bụng và tiêu hóa là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="khung chậu" target="sinh dục">
+  <data key="d7">1.0</data>
+  <data key="d8">Khung chậu và sinh dục là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="chi" target="hô hấp">
+  <data key="d7">1.0</data>
+  <data key="d8">Chi và hô hấp là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="lưng" target="tim mạch">
+  <data key="d7">1.0</data>
+  <data key="d8">Lưng và tim mạch là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thần kinh" target="hô hấp">
+  <data key="d7">1.0</data>
+  <data key="d8">Thần kinh và hô hấp là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="hô hấp" target="tim mạch">
+  <data key="d7">1.0</data>
+  <data key="d8">Hô hấp và tim mạch là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="tiêu hóa" target="thận-tiết niệu">
+  <data key="d7">1.0</data>
+  <data key="d8">Tiêu hóa và thận-tiết niệu là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thận-tiết niệu" target="sinh dục">
+  <data key="d7">1.0</data>
+  <data key="d8">Thận-tiết niệu và sinh dục là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="tai mũi họng" target="mắt">
+  <data key="d7">1.0</data>
+  <data key="d8">Tai mũi họng và mắt là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mắt" target="răng hàm mặt">
+  <data key="d7">1.0</data>
+  <data key="d8">Mắt và răng hàm mặt là các bộ phận được thăm khám riêng biệt trong quá trình khám bệnh nhân.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đáp ứng với điều trị" target="định hướng chuyển">
+  <data key="d7">1.0</data>
+  <data key="d8">Đáp ứng với điều trị là một triệu chứng giúp định hướng chẩn đoán và quyết định cách xử lý bệnh nhân.</data>
+  <data key="d9">chẩn đoán,trieu_chung_cua</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thăm dò" target="định hướng chuyển">
+  <data key="d7">1.0</data>
+  <data key="d8">Xét nghiệm được sử dụng để loại trừ hoặc khẳng định chẩn đoán, từ đó hỗ trợ quyết định định hướng chuyển bệnh nhân.</data>
+  <data key="d9">chan_doan_bang,chẩn đoán</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ngừng tuần hoàn" target="thời gian vàng">
+  <data key="d7">1.0</data>
+  <data key="d8">Thời gian vàng bắt đầu từ 5 phút đầu sau khi ngừng tuần hoàn, là khoảng thời gian tối ưu để can thiệp.</data>
+  <data key="d9">can thiệp,nguong_cua</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="sốc điện" target="thời gian vàng">
+  <data key="d7">1.0</data>
+  <data key="d8">Sốc điện cấp cứu cần được thực hiện trong vòng 5 phút đầu sau ngừng tuần hoàn để đạt hiệu quả cao nhất.</data>
+  <data key="d9">can thiệp,nguong_cua</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="hội chứng động mạch vành cấp" target="thời gian vàng">
+  <data key="d7">1.0</data>
+  <data key="d8">Thời gian cửa sổ cho dùng thuốc tiêu sợi huyết là 12 giờ, là một phần của thời gian vàng trong điều trị.</data>
+  <data key="d9">can thiệp,nguong_cua</data>
+  <data key="d10">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006</data>
+  <data key="d11">01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md</data>
+  <data key="d12">1793015500</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thượng vị nhanh" target="thủ thuật Heimlich">
+  <data key="d7">1.0</data>
+  <data key="d8">Thượng vị nhanh là một phần của thủ thuật Heimlich nhằm đẩy cơ hoành và tạo áp lực để loại bỏ dị vật.</data>
+  <data key="d9">dieu_tri,tắc nghẽn đường thở</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ho" target="thủ thuật Heimlich">
+  <data key="d7">1.0</data>
+  <data key="d8">Ho là một triệu chứng tự nhiên tương tự như thủ thuật Heimlich trong việc tống dị vật ra khỏi đường thở.</data>
+  <data key="d9">cơ chế hoạt động,trieu_chung_cua</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="bệnh nhân đang ngồi hoặc đứng" target="thủ thuật Heimlich">
+  <data key="d7">1.0</data>
+  <data key="d8">Thủ thuật Heimlich được thực hiện với bệnh nhân đang ngồi hoặc đứng, với cách thực hiện cụ thể bằng tay ôm eo và ép bụng.</data>
+  <data key="d9">chong_chi_dinh,đối tượng</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="bệnh nhân hôn mê" target="thủ thuật Heimlich">
+  <data key="d7">1.0</data>
+  <data key="d8">Thủ thuật Heimlich được thực hiện với bệnh nhân hôn mê, với cách đặt nằm ngửa và ép bụng bằng tay.</data>
+  <data key="d9">chong_chi_dinh,đối tượng</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thủ thuật Heimlich" target="ép bụng">
+  <data key="d7">1.0</data>
+  <data key="d8">Ép bụng là một phần thiết yếu trong thủ thuật Heimlich để tạo áp lực đẩy dị vật ra khỏi đường thở.</data>
+  <data key="d9">kỹ thuật thực hiện,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thủ thuật Heimlich" target="vỗ lưng">
+  <data key="d7">1.0</data>
+  <data key="d8">Vỗ lưng là một kỹ thuật được dùng để loại bỏ dị vật ở trẻ nhỏ trước khi thực hiện ép ngực.</data>
+  <data key="d9">kỹ thuật cho trẻ nhỏ,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thủ thuật Heimlich" target="ép ngực">
+  <data key="d7">1.0</data>
+  <data key="d8">Ép ngực là kỹ thuật được thực hiện sau khi vỗ lưng không hiệu quả để loại bỏ dị vật ở trẻ nhỏ.</data>
+  <data key="d9">kỹ thuật cho trẻ nhỏ,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thủ thuật Heimlich" target="kỹ thuật lấy bỏ dị vật">
+  <data key="d7">1.0</data>
+  <data key="d8">Kỹ thuật lấy bỏ dị vật được thực hiện sau mỗi đợt ép bụng để kiểm tra và loại bỏ dị vật khỏi đường thở.</data>
+  <data key="d9">bước tiếp theo,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ép ngực" target="dị vật">
+  <data key="d7">1.0</data>
+  <data key="d8">Động tác ép ngực được thực hiện để đẩy dị vật ra khỏi trẻ khi vỗ lưng không hiệu quả.</data>
+  <data key="d9">dieu_tri,tống ra</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="đường thở">
+  <data key="d7">2.0</data>
+  <data key="d8">Dị vật gây tắc nghẽn trong đường thở, làm ảnh hưởng đến khả năng hô hấp của bệnh nhân.&lt;SEP&gt;Đường thở là khu vực cần được kiểm tra để loại bỏ dị vật.</data>
+  <data key="d9">bien_chung_cua,khu vực,phan_biet_voi,tắc nghẽn</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002&lt;SEP&gt;02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="chỉ động tác vỗ lưng">
+  <data key="d7">1.0</data>
+  <data key="d8">Động tác vỗ lưng được sử dụng để đẩy dị vật ra khỏi trẻ nhỏ.</data>
+  <data key="d9">dieu_tri,tống ra</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="đánh giá hiệu quả">
+  <data key="d7">1.0</data>
+  <data key="d8">Đánh giá hiệu quả được thực hiện để xác định xem dị vật đã được loại bỏ hay chưa.</data>
+  <data key="d9">loại bỏ,nguong_cua</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="dùng đèn soi thanh quản">
+  <data key="d7">1.0</data>
+  <data key="d8">Dùng đèn soi thanh quản để quan sát và lấy dị vật từ thanh quản.</data>
+  <data key="d9">dieu_tri,lấy</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="kẹp Margill">
+  <data key="d7">1.0</data>
+  <data key="d8">Kẹp Margill được sử dụng để lấy dị vật từ thanh quản trong các tình huống nâng cao.</data>
+  <data key="d9">dieu_tri,lấy</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="mở khí quản qua màng nhẫn giáp">
+  <data key="d7">1.0</data>
+  <data key="d8">Kỹ thuật mở khí quản qua màng nhẫn giáp được dùng để loại bỏ dị vật trong tình huống cấp cứu nâng cao.</data>
+  <data key="d9">dieu_tri,loại bỏ</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="dị vật" target="mở khí quản qua da">
+  <data key="d7">1.0</data>
+  <data key="d8">Kỹ thuật mở khí quản qua da được dùng để loại bỏ dị vật trong tình huống cấp cứu nâng cao.</data>
+  <data key="d9">dieu_tri,loại bỏ</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đường thở" target="đặt canuyn hầu">
+  <data key="d7">1.0</data>
+  <data key="d8">Đặt canuyn hầu giúp bảo vệ và thông thoáng đường thở cho bệnh nhân.</data>
+  <data key="d9">phong_ngua,thông thoáng</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="chỉ động tác vỗ lưng" target="vùng giữa hai xương bả vai">
+  <data key="d7">1.0</data>
+  <data key="d8">Là vị trí cụ thể để thực hiện động tác vỗ lưng trên trẻ nhỏ.</data>
+  <data key="d9">phan_biet_voi,vị trí</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="chỉ động tác vỗ lưng" target="trẻ nhỏ">
+  <data key="d7">1.0</data>
+  <data key="d8">Trẻ nhỏ là đối tượng được thực hiện các động tác vỗ lưng và ép ngực.</data>
+  <data key="d9">doi_tuong,thực hiện</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đặt canuyn hầu" target="canuyn miệng hầu">
+  <data key="d7">1.0</data>
+  <data key="d8">Canuyn miệng hầu là một loại dụng cụ được sử dụng trong việc đặt canuyn hầu.</data>
+  <data key="d9">loại,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đặt canuyn hầu" target="canuyn mũi hầu">
+  <data key="d7">1.0</data>
+  <data key="d8">Canuyn mũi hầu là một loại dụng cụ được sử dụng trong việc đặt canuyn hầu.</data>
+  <data key="d9">loại,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đặt canuyn hầu" target="đè lưỡi">
+  <data key="d7">1.0</data>
+  <data key="d8">Đè lưỡi là dụng cụ hỗ trợ trong việc đặt canuyn hầu để tách lưỡi khỏi thành họng.</data>
+  <data key="d9">dụng cụ,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đặt canuyn hầu" target="chất bôi trơn canuyn">
+  <data key="d7">1.0</data>
+  <data key="d8">Chất bôi trơn canuyn được sử dụng để làm trơn bề mặt khi đặt canuyn vào bệnh nhân.</data>
+  <data key="d9">hỗ trợ,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đặt canuyn hầu" target="canu">
+  <data key="d7">1.0</data>
+  <data key="d8">Canu là dụng cụ được sử dụng trong việc hỗ trợ thông khí và duy trì đường thở cho bệnh nhân.</data>
+  <data key="d9">dụng cụ,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="canuyn miệng hầu" target="guedel">
+  <data key="d7">1.0</data>
+  <data key="d8">Guedel là một loại canuyn miệng hầu có các cỡ khác nhau được sử dụng trong thực tế.</data>
+  <data key="d9">loại,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="canuyn miệng hầu" target="berman">
+  <data key="d7">1.0</data>
+  <data key="d8">Berman là một loại canuyn miệng hầu có các cỡ khác nhau được sử dụng trong thực tế.</data>
+  <data key="d9">loại,phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="guedel" target="canuyn">
+  <data key="d7">1.0</data>
+  <data key="d8">Loại Guedel là một dạng của canuyn miệng hầu.</data>
+  <data key="d9">loai,thu_thuat_cua</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="berman" target="canuyn">
+  <data key="d7">1.0</data>
+  <data key="d8">Loại Berman là một dạng của canuyn miệng hầu.</data>
+  <data key="d9">loai,thu_thuat_cua</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="canuyn" target="mặt nạ thanh quản">
+  <data key="d7">1.0</data>
+  <data key="d8">canuyn và mặt nạ thanh quản là hai phương pháp tạo đường thở khác nhau.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt vát của canuyn" target="vẹo vách mũi">
+  <data key="d7">1.0</data>
+  <data key="d8">mặt vát của canuyn là triệu chứng liên quan đến vẹo vách mũi.</data>
+  <data key="d9">trieu_chung_cua</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="tư thế đầu ngửa">
+  <data key="d7">2.0</data>
+  <data key="d8">mặt nạ thanh quản được điều trị bằng tư thế đầu ngửa để đặt đúng vị trí.&lt;SEP&gt;tư thế đầu ngửa được sử dụng để điều trị khi đặt mặt nạ thanh quản.</data>
+  <data key="d9">dieu_tri</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="đặt nội khí quản">
+  <data key="d7">1.0</data>
+  <data key="d8">mặt nạ thanh quản và đặt nội khí quản là hai phương pháp tạo đường thở khác nhau.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="mở khí quản">
+  <data key="d7">1.0</data>
+  <data key="d8">mặt nạ thanh quản và mở khí quản là hai phương pháp tạo đường thở khác nhau.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="chọc">
+  <data key="d7">1.0</data>
+  <data key="d8">mặt nạ thanh quản và chọc là hai phương pháp tạo đường thở khác nhau.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="mở màng nhẫn giáp">
+  <data key="d7">1.0</data>
+  <data key="d8">mặt nạ thanh quản và mở màng nhẫn giáp là hai phương pháp tạo đường thở khác nhau.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="cuff">
+  <data key="d7">1.0</data>
+  <data key="d8">cuff là một phần cấu thành của mặt nạ thanh quản.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="mặt nạ thanh quản" target="lỗ mở">
+  <data key="d7">1.0</data>
+  <data key="d8">lỗ mở là đặc điểm cấu tạo của mặt nạ thanh quản.</data>
+  <data key="d9">phan_biet_voi</data>
+  <data key="d10">02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005</data>
+  <data key="d11">02-cac-ky-thuat-kiem-soat-duong-tho.md</data>
+  <data key="d12">1793015799</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ran ẩm" target="hội chứng 3 giảm">
+  <data key="d7">1.0</data>
+  <data key="d8">Ran ẩm là một triệu chứng thuộc hội chứng 3 giảm trong tình trạng suy hô hấp.</data>
+  <data key="d9">suy hô hấp,trieu_chung_cua</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ran rít" target="hội chứng 3 giảm">
+  <data key="d7">1.0</data>
+  <data key="d8">Ran rít là một triệu chứng thuộc hội chứng 3 giảm trong tình trạng suy hô hấp.</data>
+  <data key="d9">suy hô hấp,trieu_chung_cua</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="đông đặc" target="tam chứng của tràn khí màng phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">Đông đặc là một triệu chứng trong tam chứng của tràn khí màng phổi.</data>
+  <data key="d9">trieu_chung_cua,tràn khí màng phổi</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="tam chứng của tràn khí màng phổi" target="tràn khí màng phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">Tam chứng của tràn khí màng phổi là một nhóm triệu chứng đặc trưng của bệnh tràn khí màng phổi.</data>
+  <data key="d9">benh,trieu_chung_cua</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="thăm khám tim mạch" target="thăm khám thần kinh">
+  <data key="d7">1.0</data>
+  <data key="d8">Thăm khám tim mạch và thăm khám thần kinh là hai phương pháp lâm sàng khác nhau nhằm phát hiện các bệnh lý liên quan đến tim và thần kinh.</data>
+  <data key="d9">benh,phan_biet_voi</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="xq phổi" target="tràn khí màng phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">X quang phổi có thể giúp chẩn đoán bệnh tràn khí màng phổi dựa trên các biểu hiện trên hình ảnh.</data>
+  <data key="d9">benh,chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="khí máu động mạch" target="viêm phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">Khí máu động mạch được dùng để chẩn đoán suy hô hấp do viêm phổi.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="khí máu động mạch" target="hội chứng suy hô hấp tiến triển">
+  <data key="d7">1.0</data>
+  <data key="d8">Khí máu động mạch giúp xác định mức độ suy hô hấp do tăng shunt trong hội chứng suy hô hấp tiến triển.</data>
+  <data key="d9">nguong_cua</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="hô hấp hỗn hợp" target="viêm phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">Viêm phổi biểu hiện bằng tình trạng hô hấp hỗn hợp có giảm oxy máu và tăng CO2.</data>
+  <data key="d9">suy hô hấp,trieu_chung_cua</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="hô hấp hỗn hợp" target="suy tim ứ huyết mất bù">
+  <data key="d7">1.0</data>
+  <data key="d8">Suy tim ứ huyết mất bù là nguyên nhân gây ra tình trạng hô hấp hỗn hợp có giảm oxy máu.</data>
+  <data key="d9">nguyen_nhan_cua</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="viêm phổi" target="x quang phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">X quang phổi được dùng để chẩn đoán và đánh giá mức độ viêm phổi.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="viêm phổi" target="bạch cầu tăng">
+  <data key="d7">1.0</data>
+  <data key="d8">Bạch cầu tăng là dấu hiệu xét nghiệm hỗ trợ chẩn đoán viêm phổi.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="viêm phổi" target="crp tăng">
+  <data key="d7">1.0</data>
+  <data key="d8">CRP tăng là dấu hiệu xét nghiệm hỗ trợ chẩn đoán viêm phổi.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="viêm phổi" target="procalcitinin">
+  <data key="d7">1.0</data>
+  <data key="d8">Procalcitinin tăng là dấu hiệu xét nghiệm hỗ trợ chẩn đoán viêm phổi.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="viêm phổi" target="máu lắng tăng">
+  <data key="d7">1.0</data>
+  <data key="d8">Máu lắng tăng là dấu hiệu xét nghiệm hỗ trợ chẩn đoán viêm phổi.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="hội chứng suy hô hấp tiến triển" target="x quang phổi">
+  <data key="d7">1.0</data>
+  <data key="d8">X quang phổi được dùng để đánh giá mức độ tổn thương và theo dõi tiến triển của hội chứng suy hô hấp tiến triển.</data>
+  <data key="d9">chan_doan_bang</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="nội khí quản" target="tắc nghẽn đường hô hấp trên">
+  <data key="d7">2.0</data>
+  <data key="d8">Nội khí quản được chỉ định để điều trị tình trạng tắc nghẽn đường hô hấp trên.&lt;SEP&gt;Nội khí quản được chỉ định khi có tình trạng tắc nghẽn đường hô hấp trên.</data>
+  <data key="d9">chan_doan_bang,chong_chi_dinh,tắc nghẽn đường hô hấp trên</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003&lt;SEP&gt;03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="nội khí quản" target="mất phản xạ bảo vệ đường thở">
+  <data key="d7">2.0</data>
+  <data key="d8">Nội khí quản được chỉ định để xử trí khi bệnh nhân mất phản xạ bảo vệ đường thở.&lt;SEP&gt;Nội khí quản được chỉ định khi bệnh nhân mất phản xạ bảo vệ đường thở.</data>
+  <data key="d9">chan_doan_bang,chong_chi_dinh,mất phản xạ bảo vệ đường thở</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003&lt;SEP&gt;03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="nội khí quản" target="khả năng khạc đờm giảm nhiều hoặc mất">
+  <data key="d7">1.0</data>
+  <data key="d8">Nội khí quản được chỉ định khi khả năng khạc đờm của bệnh nhân giảm hoặc mất.</data>
+  <data key="d9">chan_doan_bang,khả năng khạc đờm giảm</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+<edge source="copd" target="corticoid">
+  <data key="d7">1.0</data>
+  <data key="d8">Corticoid được sử dụng để điều trị các đợt cấp của hen phế quản và COPD.</data>
+  <data key="d9">dieu_tri,hen_phai_quan</data>
+  <data key="d10">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005</data>
+  <data key="d11">03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md</data>
+  <data key="d12">1793016196</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

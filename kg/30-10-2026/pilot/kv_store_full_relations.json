@@ -1,0 +1,782 @@
+{
+  "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu": {
+    "relation_pairs": [
+      [
+        "abcd",
+        "primary_survey"
+      ],
+      [
+        "ap_luc_cong_viec",
+        "nhan_vien_y_te"
+      ],
+      [
+        "benh_nhan",
+        "nhan_vien_y_te"
+      ],
+      [
+        "bien_chung_ba_so_tat",
+        "quá_tải"
+      ],
+      [
+        "bien_phap_xu_ly_cap_cu",
+        "tinh_uu_tien_cap_cu"
+      ],
+      [
+        "bệnh_nhan_tu_vong",
+        "thong_bao_va_chuan_bu_tam_ly"
+      ],
+      [
+        "bệnh_nhan_tu_vong",
+        "xac_nhan_tu_vong"
+      ],
+      [
+        "bụng",
+        "tiêu hóa"
+      ],
+      [
+        "can_thiệp_dieu_tri",
+        "cap_cuu"
+      ],
+      [
+        "can_thiệp_dieu_tri",
+        "nguy_ky"
+      ],
+      [
+        "can_thiệp_dieu_tri",
+        "triaage"
+      ],
+      [
+        "cap_cuu",
+        "nguy_kich"
+      ],
+      [
+        "cap_cuu",
+        "primary_survey"
+      ],
+      [
+        "cap_cuu",
+        "secondary_survey"
+      ],
+      [
+        "cap_cuu",
+        "thong_tin_chan_doan"
+      ],
+      [
+        "chi",
+        "hô hấp"
+      ],
+      [
+        "chua ngoai tu cung",
+        "chuan doan dat ra truoc do"
+      ],
+      [
+        "chua ngoai tu cung",
+        "dau hieu"
+      ],
+      [
+        "chuan doan dat ra truoc do",
+        "xoan tinh hon"
+      ],
+      [
+        "danh_gia_nhanh",
+        "quy_dinh_xu_tri"
+      ],
+      [
+        "danh_gia_nhanh",
+        "thoi_gian"
+      ],
+      [
+        "dat_nkq",
+        "primary_survey"
+      ],
+      [
+        "dieu_tri_cap_cuu",
+        "nguy_ky"
+      ],
+      [
+        "ep_tim_cap_do_tran_dich_mau",
+        "primary_survey"
+      ],
+      [
+        "giai_doan_qua_tai",
+        "tinh_uu_tien_cap_cu"
+      ],
+      [
+        "ha_duong_mau",
+        "primary_survey"
+      ],
+      [
+        "hô hấp",
+        "thần kinh"
+      ],
+      [
+        "hô hấp",
+        "tim mạch"
+      ],
+      [
+        "hội chứng động mạch vành cấp",
+        "thời gian vàng"
+      ],
+      [
+        "khai_thong_duong_tho",
+        "primary_survey"
+      ],
+      [
+        "khong_cap_cuu",
+        "nhap_vien"
+      ],
+      [
+        "khong_cap_cuu",
+        "secondary_survey"
+      ],
+      [
+        "khung chậu",
+        "sinh dục"
+      ],
+      [
+        "lưng",
+        "tim mạch"
+      ],
+      [
+        "moi_truong_lam_viec",
+        "nhan_vien_y_te"
+      ],
+      [
+        "moi_truong_lam_viec",
+        "thoi_gian"
+      ],
+      [
+        "mắt",
+        "răng hàm mặt"
+      ],
+      [
+        "mắt",
+        "tai mũi họng"
+      ],
+      [
+        "nguoi_than_cua_benh_nhan",
+        "nhan_vien_y_te"
+      ],
+      [
+        "nguy_ky",
+        "primary_survey"
+      ],
+      [
+        "nguy_ky",
+        "thong_bao_gia_dinh"
+      ],
+      [
+        "nguy_ky",
+        "triage"
+      ],
+      [
+        "nguyen_tac_cap_cuu",
+        "triage"
+      ],
+      [
+        "ngừng tuần hoàn",
+        "thời gian vàng"
+      ],
+      [
+        "ngực",
+        "thần kinh"
+      ],
+      [
+        "nhan_vien_y_te",
+        "quy_trinh_cap_cuu"
+      ],
+      [
+        "nhan_vien_y_te",
+        "tranh_luong_benh_nhan"
+      ],
+      [
+        "primary_survey",
+        "roi_loan_kali_mau"
+      ],
+      [
+        "primary_survey",
+        "roi_loan_toan_kiem_mau"
+      ],
+      [
+        "primary_survey",
+        "secondary_survey"
+      ],
+      [
+        "primary_survey",
+        "tran_khi_mang_phoi_ap_luc"
+      ],
+      [
+        "primary_survey",
+        "vet_thuong_mach_xu"
+      ],
+      [
+        "quy trình xử trí",
+        "xét nghiệm"
+      ],
+      [
+        "quy_dinh_xu_tri",
+        "thong_tin_han_chi"
+      ],
+      [
+        "quá_tải",
+        "so_luong_benh_nhan"
+      ],
+      [
+        "secondary_survey",
+        "tham_kham_he_thong"
+      ],
+      [
+        "sinh dục",
+        "thận-tiết niệu"
+      ],
+      [
+        "sốc điện",
+        "thời gian vàng"
+      ],
+      [
+        "thăm dò",
+        "định hướng chuyển"
+      ],
+      [
+        "thận-tiết niệu",
+        "tiêu hóa"
+      ],
+      [
+        "trieu chung",
+        "xoan tinh hon"
+      ],
+      [
+        "đáp ứng với điều trị",
+        "định hướng chuyển"
+      ]
+    ],
+    "count": 62,
+    "create_time": 1793015500,
+    "update_time": 1793015500,
+    "_id": "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu"
+  },
+  "02-cac-ky-thuat-kiem-soat-duong-tho": {
+    "relation_pairs": [
+      [
+        "an_tu_duong_tho",
+        "tu_thi"
+      ],
+      [
+        "bang_ambu",
+        "khai_thong_duong_tho"
+      ],
+      [
+        "berman",
+        "canuyn"
+      ],
+      [
+        "berman",
+        "canuyn miệng hầu"
+      ],
+      [
+        "bệnh nhân hôn mê",
+        "thủ thuật Heimlich"
+      ],
+      [
+        "bệnh nhân đang ngồi hoặc đứng",
+        "thủ thuật Heimlich"
+      ],
+      [
+        "canu",
+        "đặt canuyn hầu"
+      ],
+      [
+        "canuyn",
+        "chanh_mui"
+      ],
+      [
+        "canuyn",
+        "dai_tai"
+      ],
+      [
+        "canuyn",
+        "guedel"
+      ],
+      [
+        "canuyn",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "canuyn",
+        "trẻ_nhỏ"
+      ],
+      [
+        "canuyn",
+        "vẹo_vách_mui"
+      ],
+      [
+        "canuyn miệng hầu",
+        "guedel"
+      ],
+      [
+        "canuyn miệng hầu",
+        "đặt canuyn hầu"
+      ],
+      [
+        "canuyn mũi hầu",
+        "đặt canuyn hầu"
+      ],
+      [
+        "canuyn_hong_moi",
+        "khai_thong_duong_tho"
+      ],
+      [
+        "chất bôi trơn canuyn",
+        "đặt canuyn hầu"
+      ],
+      [
+        "chỉ động tác vỗ lưng",
+        "dị vật"
+      ],
+      [
+        "chỉ động tác vỗ lưng",
+        "trẻ nhỏ"
+      ],
+      [
+        "chỉ động tác vỗ lưng",
+        "vùng giữa hai xương bả vai"
+      ],
+      [
+        "chọc",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "chọn cỡ canuyn",
+        "góc miệng bệnh nhân"
+      ],
+      [
+        "chọn cỡ canuyn",
+        "đầu ngoài của canuyn"
+      ],
+      [
+        "cuff",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "dat_noi_khí_quan",
+        "khai_thong_duong_tho"
+      ],
+      [
+        "dùng đèn soi thanh quản",
+        "dị vật"
+      ],
+      [
+        "dị vật",
+        "kẹp Margill"
+      ],
+      [
+        "dị vật",
+        "mở khí quản qua da"
+      ],
+      [
+        "dị vật",
+        "mở khí quản qua màng nhẫn giáp"
+      ],
+      [
+        "dị vật",
+        "ép ngực"
+      ],
+      [
+        "dị vật",
+        "đánh giá hiệu quả"
+      ],
+      [
+        "dị vật",
+        "đường thở"
+      ],
+      [
+        "ep_buoc",
+        "tac_nghen_hoan_toan"
+      ],
+      [
+        "ep_buoc",
+        "tac_nghen_mot_phan"
+      ],
+      [
+        "ep_buoc",
+        "tu_thi"
+      ],
+      [
+        "ho",
+        "thủ thuật Heimlich"
+      ],
+      [
+        "hô hấp nhân tạo",
+        "đường thở"
+      ],
+      [
+        "khai_thong_duong_tho",
+        "mo_khí_quan_qua_màng_nhẫn_giáp"
+      ],
+      [
+        "khai_thong_duong_tho",
+        "thong_ki_tho_moi_moi"
+      ],
+      [
+        "khai_thong_duong_tho",
+        "thu_thuat_ngua_dau_nang_cam"
+      ],
+      [
+        "kỹ thuật lấy bỏ dị vật",
+        "thủ thuật Heimlich"
+      ],
+      [
+        "liệt_dây_thanh_am_hai_bên",
+        "nguyen_nhan"
+      ],
+      [
+        "luat_duong_tho",
+        "tu_thi"
+      ],
+      [
+        "lỗ mở",
+        "mặt nạ thanh quản"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "mở khí quản"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "mở màng nhẫn giáp"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "tư thế đầu ngửa"
+      ],
+      [
+        "mặt nạ thanh quản",
+        "đặt nội khí quản"
+      ],
+      [
+        "mặt vát của canuyn",
+        "vẹo vách mũi"
+      ],
+      [
+        "nguyen_nhan",
+        "phù_thanh_quan"
+      ],
+      [
+        "nguyen_nhan",
+        "sập_các_tổ_chức_phần_mềm_vùng_họng_miệng"
+      ],
+      [
+        "nguyen_nhan",
+        "viêm_sụn_nắp_thanh_quan"
+      ],
+      [
+        "tac_nghen_duong_tho",
+        "tac_nghen_hoan_toan"
+      ],
+      [
+        "tac_nghen_duong_tho",
+        "tac_nghen_mot_phan"
+      ],
+      [
+        "tam_thuan",
+        "tu_thi"
+      ],
+      [
+        "tam_thuan",
+        "tu_thi_fowler"
+      ],
+      [
+        "tam_thuan",
+        "tu_thi_ngoi_thong_chan"
+      ],
+      [
+        "thượng vị nhanh",
+        "thủ thuật Heimlich"
+      ],
+      [
+        "thủ thuật Heimlich",
+        "vỗ lưng"
+      ],
+      [
+        "thủ thuật Heimlich",
+        "ép bụng"
+      ],
+      [
+        "thủ thuật Heimlich",
+        "ép ngực"
+      ],
+      [
+        "đè lưỡi",
+        "đặt canuyn hầu"
+      ],
+      [
+        "đường thở",
+        "đặt canuyn hầu"
+      ]
+    ],
+    "count": 64,
+    "create_time": 1793015799,
+    "update_time": 1793015799,
+    "_id": "02-cac-ky-thuat-kiem-soat-duong-tho"
+  },
+  "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap": {
+    "relation_pairs": [
+      [
+        "bạch cầu tăng",
+        "viêm phổi"
+      ],
+      [
+        "bệnh nhân",
+        "thong_khing_nhan_tao"
+      ],
+      [
+        "bệnh nhân",
+        "thong_khing_nhan_tao_khong_xam_nhap"
+      ],
+      [
+        "bệnh nhân COPD",
+        "canuyn mũi"
+      ],
+      [
+        "bệnh nhân COPD",
+        "mặt nạ venturi"
+      ],
+      [
+        "bệnh nhân qua mặt nạ",
+        "thông khí nhân tạo không xâm nhập áp lực dương"
+      ],
+      [
+        "bệnh nhân suy hô hấp do tổn thương màng phế nang",
+        "mặt nạ ô xy"
+      ],
+      [
+        "bệnh nhân suy hô hấp nặng",
+        "mặt nạ không thở lại"
+      ],
+      [
+        "bệnh tim",
+        "điện tim"
+      ],
+      [
+        "copd",
+        "corticoid"
+      ],
+      [
+        "copd",
+        "khang_san"
+      ],
+      [
+        "copd",
+        "nong_do_o_xy"
+      ],
+      [
+        "copd",
+        "suy_ho_hap"
+      ],
+      [
+        "copd",
+        "thuoc_gian_phai_quan"
+      ],
+      [
+        "crp tăng",
+        "viêm phổi"
+      ],
+      [
+        "các bệnh lý không có triệu chứng xquang rõ",
+        "hen phế quản"
+      ],
+      [
+        "các bệnh lý không có triệu chứng xquang rõ",
+        "liệt hô hấp"
+      ],
+      [
+        "các bệnh lý không có triệu chứng xquang rõ",
+        "nhồi máu phổi"
+      ],
+      [
+        "các bệnh lý không có triệu chứng xquang rõ",
+        "tắc đường hô hấp trên"
+      ],
+      [
+        "các bệnh lý không có triệu chứng xquang rõ",
+        "ức chế hô hấp"
+      ],
+      [
+        "công đoạn cấp cứu",
+        "tràn khí màng phổi"
+      ],
+      [
+        "cần thông khí nhân tạo xâm nhập",
+        "thiếu oxy máu nặng không đáp ứng thở oxy"
+      ],
+      [
+        "dị vật đường thở",
+        "nghiemp hap heimlich"
+      ],
+      [
+        "dị vật đường thở",
+        "suy hô hấp"
+      ],
+      [
+        "giảm thông khí",
+        "liệt hoặc mệt cơ hoành"
+      ],
+      [
+        "giảm thông khí",
+        "paCO2 tăng dần"
+      ],
+      [
+        "giảm thông khí",
+        "thở nhanh và có cảm giác thiếu khí"
+      ],
+      [
+        "giảm thông khí",
+        "toan hô hấp với pH < 7,25"
+      ],
+      [
+        "hô hấp hỗn hợp",
+        "suy tim ứ huyết mất bù"
+      ],
+      [
+        "hô hấp hỗn hợp",
+        "viêm phổi"
+      ],
+      [
+        "hội chứng 3 giảm",
+        "ran rít"
+      ],
+      [
+        "hội chứng 3 giảm",
+        "ran ẩm"
+      ],
+      [
+        "hội chứng suy hô hấp tiến triển",
+        "khí máu động mạch"
+      ],
+      [
+        "hội chứng suy hô hấp tiến triển",
+        "x quang phổi"
+      ],
+      [
+        "khong thoi",
+        "suy ho hap cap"
+      ],
+      [
+        "khí máu động mạch",
+        "suy hô hấp"
+      ],
+      [
+        "khí máu động mạch",
+        "viêm phổi"
+      ],
+      [
+        "khả năng khạc đờm giảm",
+        "nội khí quản"
+      ],
+      [
+        "khả năng khạc đờm giảm nhiều hoặc mất",
+        "nội khí quản"
+      ],
+      [
+        "loi_tieu",
+        "suy_tim"
+      ],
+      [
+        "máu lắng tăng",
+        "viêm phổi"
+      ],
+      [
+        "mất phản xạ bảo vệ đường thở",
+        "nội khí quản"
+      ],
+      [
+        "nguon nhan",
+        "suy ho hap cap"
+      ],
+      [
+        "nội khí quản",
+        "thiếu oxy máu nặng không đáp ứng thở oxy"
+      ],
+      [
+        "nội khí quản",
+        "tắc nghẽn đường hô hấp trên"
+      ],
+      [
+        "pa_o2_fio2",
+        "suy_ho_hap"
+      ],
+      [
+        "procalcitinin",
+        "viêm phổi"
+      ],
+      [
+        "roi loan thuan kinh va y thuc",
+        "suy ho hap cap"
+      ],
+      [
+        "roi loan tim mach",
+        "suy ho hap cap"
+      ],
+      [
+        "spO2 > 90%",
+        "thiếu oxy máu nặng kém đáp ứng với thở oxy"
+      ],
+      [
+        "suy ho hap cap",
+        "tang co2 mau"
+      ],
+      [
+        "suy ho hap cap",
+        "thi h hop"
+      ],
+      [
+        "suy ho hap cap",
+        "thieu o xy mau"
+      ],
+      [
+        "suy ho hap cap",
+        "tim"
+      ],
+      [
+        "suy ho hap cap",
+        "va mo hoi"
+      ],
+      [
+        "suy hô hấp",
+        "tổn thương não do chấn thương"
+      ],
+      [
+        "suy_ho_hap",
+        "toan_ho_hap_cap"
+      ],
+      [
+        "tam chứng của tràn khí màng phổi",
+        "tràn khí màng phổi"
+      ],
+      [
+        "tam chứng của tràn khí màng phổi",
+        "đông đặc"
+      ],
+      [
+        "thong_khing_nhan_tao",
+        "thong_khing_nhan_tao_khong_xam_nhap"
+      ],
+      [
+        "thăm khám thần kinh",
+        "thăm khám tim mạch"
+      ],
+      [
+        "tràn khí màng phổi",
+        "xq phổi"
+      ],
+      [
+        "viêm phổi",
+        "x quang phổi"
+      ]
+    ],
+    "count": 63,
+    "create_time": 1793016196,
+    "update_time": 1793016196,
+    "_id": "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu": {
+    "status": "processed",
+    "content_summary": "# NHẬN ĐỊNH VÀ KIỂM SOÁT BAN ĐẦU BỆNH NHÂN CẤP CỨU\n\nMỤC TIÊU\n Sau khi học xong học viên có khả năng:\n\n      1. Trình bày được các nguyên tắc chính khi tiếp cận và xử trí bệnh\nnhân cấp cứu.\n\n      2. Trình bày được các nguyên tắc cần tuân thủ để tránh...",
+    "content_length": 16448,
+    "created_at": "2026-10-30T09:28:53.761645+00:00",
+    "updated_at": "2026-10-30T09:37:59.371225+00:00",
+    "file_path": "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu.md",
+    "track_id": "insert_20261030_162853_f7ece6bb",
+    "content_hash": "281332e7143a96bc249fe1910954fc41",
+    "metadata": {
+      "parse_start_time": 1793352533,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793352533,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793352533,
+      "process_end_time": 1793353079,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=700, split_only=False, overlap=80"
+    },
+    "chunks_count": 9,
+    "chunks_list": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-000",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-001",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-002",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-003",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-004",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-007",
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-008"
+    ]
+  },
+  "02-cac-ky-thuat-kiem-soat-duong-tho": {
+    "status": "processed",
+    "content_summary": "# CÁC KỸ THUẬT KIỂM SOÁT ĐƯỜNG THỞ\n\nMỤC TIÊU\nSau khi học xong học viên có khả năng:\n\n1. Kể tên được những rối loạn gây tắc nghẽn đường thở thường gặp.\n\n2. Trình bày được cách xử trí tắc nghẽn đường thở.\n\nNỘI DUNG\n\n 1. Đại cương\nKhai thông đường thở l...",
+    "content_length": 10409,
+    "created_at": "2026-10-30T09:37:59.379888+00:00",
+    "updated_at": "2026-10-30T09:44:44.600043+00:00",
+    "file_path": "02-cac-ky-thuat-kiem-soat-duong-tho.md",
+    "track_id": "insert_20261030_163759_16f8efc4",
+    "content_hash": "e6cc256009b141d37fb2852445961d07",
+    "metadata": {
+      "parse_start_time": 1793353079,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793353079,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793353079,
+      "process_end_time": 1793353484,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=700, split_only=False, overlap=80"
+    },
+    "chunks_count": 6,
+    "chunks_list": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-000",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-001",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004",
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ]
+  },
+  "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap": {
+    "status": "processed",
+    "content_summary": "# CHẨN ĐOÁN VÀ XỬ TRÍ CẤP CỨU BAN ĐẦU SUY HÔ HẤP CẤP\n\nMỤC TIÊU\nSau khi học xong học viên có khả năng:\n1. Trình bày được các nguyên nhân suy hô hấp thường gặp.\n2. Nhận biết được khó thở và định hướng chẩn đoán được một số nguyên\nnhân chính.\nNỘI DUNG\n1...",
+    "content_length": 9768,
+    "created_at": "2026-10-30T09:44:44.602560+00:00",
+    "updated_at": "2026-10-30T09:52:07.933025+00:00",
+    "file_path": "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap.md",
+    "track_id": "insert_20261030_164444_3f793950",
+    "content_hash": "8ded58212f492a793876139174e9baec",
+    "metadata": {
+      "parse_start_time": 1793353484,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793353484,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793353484,
+      "process_end_time": 1793353927,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=700, split_only=False, overlap=80"
+    },
+    "chunks_count": 6,
+    "chunks_list": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-000",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-001",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005"
+    ]
+  }
+}

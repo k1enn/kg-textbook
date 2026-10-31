@@ -1,0 +1,3905 @@
+{
+  "ngực<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "ngực<SEP>thần kinh"
+  },
+  "bụng<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "bụng<SEP>thần kinh"
+  },
+  "khung chậu<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "khung chậu<SEP>thần kinh"
+  },
+  "chi<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "chi<SEP>thần kinh"
+  },
+  "lưng<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "lưng<SEP>thần kinh"
+  },
+  "hô hấp<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "hô hấp<SEP>thần kinh"
+  },
+  "thần kinh<SEP>tim mạch": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "thần kinh<SEP>tim mạch"
+  },
+  "thần kinh<SEP>tiêu hóa": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "thần kinh<SEP>tiêu hóa"
+  },
+  "thần kinh<SEP>thận-tiết niệu": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "thần kinh<SEP>thận-tiết niệu"
+  },
+  "đáp ứng với điều trị<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "đáp ứng với điều trị<SEP>định hướng chuyển"
+  },
+  "sinh dục<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "sinh dục<SEP>thần kinh"
+  },
+  "không đáp ứng với điều trị<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "không đáp ứng với điều trị<SEP>định hướng chuyển"
+  },
+  "tai mũi họng<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "tai mũi họng<SEP>thần kinh"
+  },
+  "thăm dò<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "thăm dò<SEP>định hướng chuyển"
+  },
+  "mắt<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "mắt<SEP>thần kinh"
+  },
+  "xét nghiệm<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "xét nghiệm<SEP>định hướng chuyển"
+  },
+  "răng hàm mặt<SEP>thần kinh": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "răng hàm mặt<SEP>thần kinh"
+  },
+  "nhập viện<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "nhập viện<SEP>định hướng chuyển"
+  },
+  "ngừng tuần hoàn<SEP>thời gian vàng": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "ngừng tuần hoàn<SEP>thời gian vàng"
+  },
+  "ra viện<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "ra viện<SEP>định hướng chuyển"
+  },
+  "lưu theo dõi<SEP>định hướng chuyển": {
+    "chunk_ids": [
+      "01-nhan-dinh-va-kiem-soat-ban-dau-benh-nhan-cap-cuu-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793016812,
+    "update_time": 1793016812,
+    "_id": "lưu theo dõi<SEP>định hướng chuyển"
+  },
+  "thượng vị nhanh<SEP>thủ thuật heimlich": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "thượng vị nhanh<SEP>thủ thuật heimlich"
+  },
+  "hô hấp nhân tạo<SEP>thủ thuật heimlich": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "hô hấp nhân tạo<SEP>thủ thuật heimlich"
+  },
+  "dị vật<SEP>vỗ lưng": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "dị vật<SEP>vỗ lưng"
+  },
+  "thủ thuật heimlich<SEP>động tác giật": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "thủ thuật heimlich<SEP>động tác giật"
+  },
+  "bệnh nhân hôn mê<SEP>hô hấp nhân tạo": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "bệnh nhân hôn mê<SEP>hô hấp nhân tạo"
+  },
+  "dị vật<SEP>ép ngực": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "dị vật<SEP>ép ngực"
+  },
+  "thủ thuật heimlich<SEP>đường thở": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "thủ thuật heimlich<SEP>đường thở"
+  },
+  "hô hấp<SEP>hô hấp nhân tạo": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "hô hấp<SEP>hô hấp nhân tạo"
+  },
+  "chỉ động tác vỗ lưng<SEP>trẻ nhỏ": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "chỉ động tác vỗ lưng<SEP>trẻ nhỏ"
+  },
+  "dị vật<SEP>tắc nghẽn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "dị vật<SEP>tắc nghẽn"
+  },
+  "lật trẻ nằm ngửa<SEP>ép ngực": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "lật trẻ nằm ngửa<SEP>ép ngực"
+  },
+  "chỉ động tác vỗ lưng<SEP>vùng giữa hai xương bả vai": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "chỉ động tác vỗ lưng<SEP>vùng giữa hai xương bả vai"
+  },
+  "canuyn miệng hầu<SEP>canuyn mũi hầu": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "canuyn miệng hầu<SEP>canuyn mũi hầu"
+  },
+  "trẻ nhỏ<SEP>ép ngực": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "trẻ nhỏ<SEP>ép ngực"
+  },
+  "chỉ động tác vỗ lưng<SEP>đường thở": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "chỉ động tác vỗ lưng<SEP>đường thở"
+  },
+  "canuyn miệng hầu<SEP>chất bôi trơn canuyn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "canuyn miệng hầu<SEP>chất bôi trơn canuyn"
+  },
+  "canuyn<SEP>guedel": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "canuyn<SEP>guedel"
+  },
+  "berman<SEP>canuyn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "berman<SEP>canuyn"
+  },
+  "mặt nạ thanh quản<SEP>nội khí quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "mặt nạ thanh quản<SEP>nội khí quản"
+  },
+  "canuyn<SEP>mặt vát của canuyn": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "canuyn<SEP>mặt vát của canuyn"
+  },
+  "canuyn<SEP>vẹo vách mũi": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "canuyn<SEP>vẹo vách mũi"
+  },
+  "chọc<SEP>mở màng nhẫn giáp": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "chọc<SEP>mở màng nhẫn giáp"
+  },
+  "mặt nạ thanh quản<SEP>đặt nội khí quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "mặt nạ thanh quản<SEP>đặt nội khí quản"
+  },
+  "mặt nạ thanh quản<SEP>mở khí quản": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "mặt nạ thanh quản<SEP>mở khí quản"
+  },
+  "mặt nạ thanh quản<SEP>mở màng nhẫn giáp": {
+    "chunk_ids": [
+      "02-cac-ky-thuat-kiem-soat-duong-tho-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017077,
+    "update_time": 1793017077,
+    "_id": "mặt nạ thanh quản<SEP>mở màng nhẫn giáp"
+  },
+  "hội chứng 3 giảm<SEP>ran ẩm": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hội chứng 3 giảm<SEP>ran ẩm"
+  },
+  "hội chứng 3 giảm<SEP>ran rít": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hội chứng 3 giảm<SEP>ran rít"
+  },
+  "tam chứng của tràn khí màng phổi<SEP>đông đặc": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "tam chứng của tràn khí màng phổi<SEP>đông đặc"
+  },
+  "hội chứng 3 giảm<SEP>xq phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hội chứng 3 giảm<SEP>xq phổi"
+  },
+  "khí máu động mạch<SEP>suy hô hấp": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "khí máu động mạch<SEP>suy hô hấp"
+  },
+  "khó thở<SEP>tràn khí màng phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "khó thở<SEP>tràn khí màng phổi"
+  },
+  "dị vật đường thở<SEP>suy hô hấp": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "dị vật đường thở<SEP>suy hô hấp"
+  },
+  "hô hấp hỗn hợp<SEP>viêm phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hô hấp hỗn hợp<SEP>viêm phổi"
+  },
+  "hội chứng suy hô hấp tiến triển<SEP>x quang phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hội chứng suy hô hấp tiến triển<SEP>x quang phổi"
+  },
+  "suy hô hấp<SEP>tổn thương não do chấn thương": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "suy hô hấp<SEP>tổn thương não do chấn thương"
+  },
+  "hô hấp hỗn hợp<SEP>suy tim ứ huyết mất bù": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hô hấp hỗn hợp<SEP>suy tim ứ huyết mất bù"
+  },
+  "viêm phổi<SEP>x quang phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "viêm phổi<SEP>x quang phổi"
+  },
+  "nội khí quản<SEP>tắc nghẽn đường hô hấp trên": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003",
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "nội khí quản<SEP>tắc nghẽn đường hô hấp trên"
+  },
+  "khí máu động mạch<SEP>viêm phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "khí máu động mạch<SEP>viêm phổi"
+  },
+  "mất phản xạ bảo vệ đường thở<SEP>nội khí quản": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "mất phản xạ bảo vệ đường thở<SEP>nội khí quản"
+  },
+  "hội chứng suy hô hấp tiến triển<SEP>khí máu động mạch": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "hội chứng suy hô hấp tiến triển<SEP>khí máu động mạch"
+  },
+  "mất phản xạ bảo vệ đường thở<SEP>tắc nghẽn đường hô hấp trên": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "mất phản xạ bảo vệ đường thở<SEP>tắc nghẽn đường hô hấp trên"
+  },
+  "paCO2 tăng dần<SEP>toan hô hấp": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "paCO2 tăng dần<SEP>toan hô hấp"
+  },
+  "khả năng khạc đờm giảm nhiều hoặc mất<SEP>mất phản xạ bảo vệ đường thở": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "khả năng khạc đờm giảm nhiều hoặc mất<SEP>mất phản xạ bảo vệ đường thở"
+  },
+  "thở nhanh và có cảm giác thiếu khí<SEP>toan hô hấp": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "thở nhanh và có cảm giác thiếu khí<SEP>toan hô hấp"
+  },
+  "ali<SEP>mặt nạ ô xy": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "ali<SEP>mặt nạ ô xy"
+  },
+  "mặt nạ không thở lại<SEP>phù phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "mặt nạ không thở lại<SEP>phù phổi"
+  },
+  "liệt hoặc mệt cơ hoành<SEP>thở nhanh và có cảm giác thiếu khí": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "liệt hoặc mệt cơ hoành<SEP>thở nhanh và có cảm giác thiếu khí"
+  },
+  "copd<SEP>mặt nạ venturi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "copd<SEP>mặt nạ venturi"
+  },
+  "ards<SEP>mặt nạ không thở lại": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "ards<SEP>mặt nạ không thở lại"
+  },
+  "canuyn mũi<SEP>copd": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "canuyn mũi<SEP>copd"
+  },
+  "mặt nạ không thở lại<SEP>viêm phổi": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "mặt nạ không thở lại<SEP>viêm phổi"
+  },
+  "copd<SEP>corticoid": {
+    "chunk_ids": [
+      "03-chan-doan-va-xu-tri-cap-cuu-ban-dau-suy-ho-hap-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793017374,
+    "update_time": 1793017374,
+    "_id": "copd<SEP>corticoid"
+  },
+  "sốc tim<SEP>đau ngực": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc tim<SEP>đau ngực"
+  },
+  "gan to<SEP>sốc tim": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "gan to<SEP>sốc tim"
+  },
+  "sốc tim<SEP>tĩnh mạch cổ nổi": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc tim<SEP>tĩnh mạch cổ nổi"
+  },
+  "phù chi dưới<SEP>sốc tim": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "phù chi dưới<SEP>sốc tim"
+  },
+  "sốc nhiễm khuẩn<SEP>sốt": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc nhiễm khuẩn<SEP>sốt"
+  },
+  "rale phổi<SEP>sốc tim": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "rale phổi<SEP>sốc tim"
+  },
+  "sốc nhiễm khuẩn<SEP>thể trạng nhiễm trùng nhiễm độc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc nhiễm khuẩn<SEP>thể trạng nhiễm trùng nhiễm độc"
+  },
+  "sốc nhiễm khuẩn<SEP>viêm phổi": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc nhiễm khuẩn<SEP>viêm phổi"
+  },
+  "khí máu<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "khí máu<SEP>sốc"
+  },
+  "sốc nhiễm khuẩn<SEP>áp xe tay chi": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc nhiễm khuẩn<SEP>áp xe tay chi"
+  },
+  "acid lactic<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "acid lactic<SEP>sốc"
+  },
+  "nhiễm trùng tiết niệu<SEP>sốc nhiễm khuẩn": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "nhiễm trùng tiết niệu<SEP>sốc nhiễm khuẩn"
+  },
+  "chức năng gan thận<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "chức năng gan thận<SEP>sốc"
+  },
+  "nhiễm trùng trong ổ bụng<SEP>sốc nhiễm khuẩn": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "nhiễm trùng trong ổ bụng<SEP>sốc nhiễm khuẩn"
+  },
+  "sốc<SEP>đông máu": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc<SEP>đông máu"
+  },
+  "sốc tim<SEP>viêm cơ tim": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc tim<SEP>viêm cơ tim"
+  },
+  "nhồi máu phổi<SEP>sốc tắc nghẽn": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "nhồi máu phổi<SEP>sốc tắc nghẽn"
+  },
+  "hô hấp<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "hô hấp<SEP>sốc"
+  },
+  "khó thở<SEP>sốc tắc nghẽn": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "khó thở<SEP>sốc tắc nghẽn"
+  },
+  "gan to<SEP>sốc tắc nghẽn": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "gan to<SEP>sốc tắc nghẽn"
+  },
+  "sốc<SEP>ép tim": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc<SEP>ép tim"
+  },
+  "khó thở<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "khó thở<SEP>sốc"
+  },
+  "gan to<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "gan to<SEP>sốc"
+  },
+  "giảm tưới máu đầu chi<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "giảm tưới máu đầu chi<SEP>sốc"
+  },
+  "hôn mê<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "hôn mê<SEP>sốc"
+  },
+  "giảm cung lượng tim<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "giảm cung lượng tim<SEP>sốc"
+  },
+  "siêu âm tim<SEP>tiền gánh thất trái": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "siêu âm tim<SEP>tiền gánh thất trái"
+  },
+  "giãn mạch<SEP>sốc": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "giãn mạch<SEP>sốc"
+  },
+  "tiền gánh thất trái<SEP>đặt catheter swan ganz": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "tiền gánh thất trái<SEP>đặt catheter swan ganz"
+  },
+  "sốc<SEP>tổn thương đa tạng": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc<SEP>tổn thương đa tạng"
+  },
+  "sốc<SEP>toan chuyển hóa": {
+    "chunk_ids": [
+      "04-xu-tri-cap-cuu-soc-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017635,
+    "update_time": 1793017635,
+    "_id": "sốc<SEP>toan chuyển hóa"
+  },
+  "mất ý thức đột ngột<SEP>ngừng tuần hoàn": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "mất ý thức đột ngột<SEP>ngừng tuần hoàn"
+  },
+  "ngừng thở<SEP>ngừng tuần hoàn": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng thở<SEP>ngừng tuần hoàn"
+  },
+  "mất mạch cảnh<SEP>ngừng tuần hoàn": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "mất mạch cảnh<SEP>ngừng tuần hoàn"
+  },
+  "hồi sinh tim phổi cơ bản<SEP>ngừng tuần hoàn": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "hồi sinh tim phổi cơ bản<SEP>ngừng tuần hoàn"
+  },
+  "ngừng tuần hoàn<SEP>sốc điện cấp cứu phá rung thất": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>sốc điện cấp cứu phá rung thất"
+  },
+  "ngừng tuần hoàn<SEP>thiếu thể tích tuần hoàn": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>thiếu thể tích tuần hoàn"
+  },
+  "ngừng tuần hoàn<SEP>trúng độc cấp": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>trúng độc cấp"
+  },
+  "ngừng tuần hoàn<SEP>thiếu oxy mô": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>thiếu oxy mô"
+  },
+  "ngừng tuần hoàn<SEP>tamponade tim": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>tamponade tim"
+  },
+  "ngừng tuần hoàn<SEP>toan hóa máu": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>toan hóa máu"
+  },
+  "cái thối ngạt<SEP>ép tim trẻ em 100 - 120 nhịp/phút": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "cái thối ngạt<SEP>ép tim trẻ em 100 - 120 nhịp/phút"
+  },
+  "ngừng tuần hoàn<SEP>tràn khí màng phổi áp lực": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ngừng tuần hoàn<SEP>tràn khí màng phổi áp lực"
+  },
+  "ghi điện tim<SEP>rung thất": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "ghi điện tim<SEP>rung thất"
+  },
+  "theo dõi điện tim<SEP>vô tâm thu": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "theo dõi điện tim<SEP>vô tâm thu"
+  },
+  "máy sốc điện 1 pha<SEP>sốc điện": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "máy sốc điện 1 pha<SEP>sốc điện"
+  },
+  "rung thất<SEP>sốc điện": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "rung thất<SEP>sốc điện"
+  },
+  "máy sốc điện 2 pha<SEP>sốc điện": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "máy sốc điện 2 pha<SEP>sốc điện"
+  },
+  "phân ly điện cơ<SEP>sốc điện": {
+    "chunk_ids": [
+      "05-cap-cuu-ngung-tuan-hoan-co-ban-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793017791,
+    "update_time": 1793017791,
+    "_id": "phân ly điện cơ<SEP>sốc điện"
+  },
+  "cơn đau thắt ngực<SEP>nhồi máu cơ tim cấp": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "cơn đau thắt ngực<SEP>nhồi máu cơ tim cấp"
+  },
+  "nhồi máu cơ tim cấp<SEP>st chênh lên": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>st chênh lên"
+  },
+  "nhồi máu cơ tim cấp<SEP>điện tim": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>điện tim"
+  },
+  "nhồi máu cơ tim cấp<SEP>suy tim": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>suy tim"
+  },
+  "nhồi máu cơ tim cấp<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>rối loạn nhịp tim"
+  },
+  "nhồi máu cơ tim cấp<SEP>rối loạn dẫn truyền": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>rối loạn dẫn truyền"
+  },
+  "nhồi máu cơ tim cấp<SEP>động mạch vành": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>động mạch vành"
+  },
+  "nhồi máu cơ tim cấp<SEP>siêu âm tim": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>siêu âm tim"
+  },
+  "dấu ấn sinh học<SEP>nhồi máu cơ tim cấp": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "dấu ấn sinh học<SEP>nhồi máu cơ tim cấp"
+  },
+  "can thiệp<SEP>nhồi máu cơ tim cấp": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "can thiệp<SEP>nhồi máu cơ tim cấp"
+  },
+  "nhồi máu cơ tim cấp<SEP>thuốc": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "nhồi máu cơ tim cấp<SEP>thuốc"
+  },
+  "sốc tim<SEP>điều trị tiêu sợi huyết": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "sốc tim<SEP>điều trị tiêu sợi huyết"
+  },
+  "suy tim ứ huyết<SEP>điều trị tiêu sợi huyết": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "suy tim ứ huyết<SEP>điều trị tiêu sợi huyết"
+  },
+  "rối loạn nhịp tim<SEP>điều trị tiêu sợi huyết": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "rối loạn nhịp tim<SEP>điều trị tiêu sợi huyết"
+  },
+  "rối loạn dẫn truyền<SEP>điều trị tiêu sợi huyết": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "rối loạn dẫn truyền<SEP>điều trị tiêu sợi huyết"
+  },
+  "biến chứng cơ học<SEP>điều trị tiêu sợi huyết": {
+    "chunk_ids": [
+      "07-chan-doan-va-xu-tri-cap-cuu-nhoi-mau-co-tim-cap-co-st-chenh-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793018209,
+    "update_time": 1793018209,
+    "_id": "biến chứng cơ học<SEP>điều trị tiêu sợi huyết"
+  },
+  "chấn thương sọ não<SEP>ý thức": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương sọ não<SEP>ý thức"
+  },
+  "bệnh sử<SEP>cơ chế chấn thương": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bệnh sử<SEP>cơ chế chấn thương"
+  },
+  "ý thức<SEP>điểm glasgow": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "ý thức<SEP>điểm glasgow"
+  },
+  "cấp cứu trước bệnh viện<SEP>khoa cấp cứu": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "cấp cứu trước bệnh viện<SEP>khoa cấp cứu"
+  },
+  "chấn thương sọ não<SEP>cơ chế chấn thương": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương sọ não<SEP>cơ chế chấn thương"
+  },
+  "chấn thương sọ não<SEP>cột sống": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương sọ não<SEP>cột sống"
+  },
+  "bảng điểm glasgow<SEP>thay đổi ý thức": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bảng điểm glasgow<SEP>thay đổi ý thức"
+  },
+  "chấn thương sọ não<SEP>tai nạn giao thông": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương sọ não<SEP>tai nạn giao thông"
+  },
+  "chấn thương sọ não<SEP>thay đổi ý thức": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương sọ não<SEP>thay đổi ý thức"
+  },
+  "chấn thương sọ não<SEP>ctsn": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương sọ não<SEP>ctsn"
+  },
+  "bảng điểm glasgow<SEP>mở mắt khi gọi": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bảng điểm glasgow<SEP>mở mắt khi gọi"
+  },
+  "chấn thương cột sống<SEP>chấn thương sọ não": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương cột sống<SEP>chấn thương sọ não"
+  },
+  "bảng điểm glasgow<SEP>mở mắt khi bị kích": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bảng điểm glasgow<SEP>mở mắt khi bị kích"
+  },
+  "gcs<SEP>tổn thương da đầu": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>tổn thương da đầu"
+  },
+  "bảng điểm glasgow<SEP>thích đau": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bảng điểm glasgow<SEP>thích đau"
+  },
+  "gcs<SEP>vết rách, lóc da hộp sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>vết rách, lóc da hộp sọ"
+  },
+  "bảng điểm glasgow<SEP>không đáp ứng": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bảng điểm glasgow<SEP>không đáp ứng"
+  },
+  "gcs<SEP>máu tụ dưới da đầu": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>máu tụ dưới da đầu"
+  },
+  "gcs<SEP>vết thương sọ não hở": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>vết thương sọ não hở"
+  },
+  "gcs<SEP>vết thương lún sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>vết thương lún sọ"
+  },
+  "gcs<SEP>vỡ xương sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>vỡ xương sọ"
+  },
+  "gcs<SEP>vật xuyên thấu hộp sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>vật xuyên thấu hộp sọ"
+  },
+  "chảy máu, dịch não quỷ qua tai<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chảy máu, dịch não quỷ qua tai<SEP>gcs"
+  },
+  "chảy máu mũi, dịch não tủy qua mũi<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chảy máu mũi, dịch não tủy qua mũi<SEP>gcs"
+  },
+  "bầm tím hai ổ mắt<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bầm tím hai ổ mắt<SEP>gcs"
+  },
+  "bầm tím vùng xương chũm<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "bầm tím vùng xương chũm<SEP>gcs"
+  },
+  "gcs<SEP>đồng tử không đều hai bên": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>đồng tử không đều hai bên"
+  },
+  "gcs<SEP>liệt nửa người": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>liệt nửa người"
+  },
+  "gcs<SEP>liệt các dây thần kinh sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "gcs<SEP>liệt các dây thần kinh sọ"
+  },
+  "chụp xq sọ thường quy<SEP>tổn thương da đầu": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chụp xq sọ thường quy<SEP>tổn thương da đầu"
+  },
+  "co giật<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "co giật<SEP>gcs"
+  },
+  "chụp xq sọ thường quy<SEP>vết thương sọ não hở": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chụp xq sọ thường quy<SEP>vết thương sọ não hở"
+  },
+  "co cứng mất vỏ<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "co cứng mất vỏ<SEP>gcs"
+  },
+  "chụp xq sọ thường quy<SEP>vết thương lún sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chụp xq sọ thường quy<SEP>vết thương lún sọ"
+  },
+  "duỗi cứng mất não<SEP>gcs": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "duỗi cứng mất não<SEP>gcs"
+  },
+  "chụp xq sọ thường quy<SEP>vỡ xương sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002",
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chụp xq sọ thường quy<SEP>vỡ xương sọ"
+  },
+  "chấn thương ngực kín<SEP>vỡ tạng đặc": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương ngực kín<SEP>vỡ tạng đặc"
+  },
+  "chụp xq sọ thường quy<SEP>vật xuyên thấu hộp sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chụp xq sọ thường quy<SEP>vật xuyên thấu hộp sọ"
+  },
+  "ct sọ não<SEP>vết thương sọ não hở": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "ct sọ não<SEP>vết thương sọ não hở"
+  },
+  "ct sọ não<SEP>dấu hiệu vỡ nền sọ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "ct sọ não<SEP>dấu hiệu vỡ nền sọ"
+  },
+  "chấn thương ngực kín<SEP>chụp xq ngực": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương ngực kín<SEP>chụp xq ngực"
+  },
+  "ct sọ não<SEP>mất ý thức": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "ct sọ não<SEP>mất ý thức"
+  },
+  "chấn thương do tác động mạnh<SEP>ct sọ não": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "chấn thương do tác động mạnh<SEP>ct sọ não"
+  },
+  "abcde<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "abcde<SEP>cột sống cổ"
+  },
+  "abcde<SEP>oxy liệu pháp": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "abcde<SEP>oxy liệu pháp"
+  },
+  "duy trì huyết áp<SEP>truyền dịch tinh thể": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "duy trì huyết áp<SEP>truyền dịch tinh thể"
+  },
+  "abcde<SEP>đặt đường truyền": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "abcde<SEP>đặt đường truyền"
+  },
+  "cột sống cổ<SEP>kiểm soát chảy máu": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "cột sống cổ<SEP>kiểm soát chảy máu"
+  },
+  "abcde<SEP>thở máy xâm nhập": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "abcde<SEP>thở máy xâm nhập"
+  },
+  "duy trì huyết áp<SEP>đặt đường truyền": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "duy trì huyết áp<SEP>đặt đường truyền"
+  },
+  "abcde<SEP>bóp bóng": {
+    "chunk_ids": [
+      "08-cap-cuu-chan-thuong-so-nao-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793018644,
+    "update_time": 1793018644,
+    "_id": "abcde<SEP>bóp bóng"
+  },
+  "chấn thương cột sống<SEP>đau vùng cột sống": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "chấn thương cột sống<SEP>đau vùng cột sống"
+  },
+  "biến dạng cột sống<SEP>chấn thương cột sống": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "biến dạng cột sống<SEP>chấn thương cột sống"
+  },
+  "bầm tím vùng cột sống<SEP>chấn thương cột sống": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "bầm tím vùng cột sống<SEP>chấn thương cột sống"
+  },
+  "chấn thương cột sống<SEP>liệt cơ hô hấp": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "chấn thương cột sống<SEP>liệt cơ hô hấp"
+  },
+  "chấn thương cột sống<SEP>rối loạn cơ tròn": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "chấn thương cột sống<SEP>rối loạn cơ tròn"
+  },
+  "chấn thương cột sống<SEP>chấn thương cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "chấn thương cột sống<SEP>chấn thương cột sống cổ"
+  },
+  "biến dạng cột sống<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "biến dạng cột sống<SEP>cột sống cổ"
+  },
+  "chấn thương cột sống<SEP>tai nạn giao thông": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "chấn thương cột sống<SEP>tai nạn giao thông"
+  },
+  "cột sống cổ<SEP>dấu hiệu đụng dập": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cột sống cổ<SEP>dấu hiệu đụng dập"
+  },
+  "cơ hoành/hô hấp<SEP>liệt cơ hô hấp": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ hoành/hô hấp<SEP>liệt cơ hô hấp"
+  },
+  "cơ gian sườn/hô hấp<SEP>rối loạn cơ tròn": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ gian sườn/hô hấp<SEP>rối loạn cơ tròn"
+  },
+  "cơ tứ đầu/duỗi gối<SEP>mất/giảm vận động": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ tứ đầu/duỗi gối<SEP>mất/giảm vận động"
+  },
+  "cơ hoành/hô hấp<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ hoành/hô hấp<SEP>cột sống cổ"
+  },
+  "cơ delta/nhún vai<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ delta/nhún vai<SEP>cột sống cổ"
+  },
+  "cơ gian sườn/hô hấp<SEP>cột sống ngực": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ gian sườn/hô hấp<SEP>cột sống ngực"
+  },
+  "cơ nhị đầu/gấp khuỷu tay<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ nhị đầu/gấp khuỷu tay<SEP>cột sống cổ"
+  },
+  "cơ thẳng bụng<SEP>cột sống ngực": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ thẳng bụng<SEP>cột sống ngực"
+  },
+  "cơ tam đầu/duỗi khuỷu tay<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ tam đầu/duỗi khuỷu tay<SEP>cột sống cổ"
+  },
+  "cơ gấp/gấp ngón tay<SEP>cột sống cổ": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cơ gấp/gấp ngón tay<SEP>cột sống cổ"
+  },
+  "cột sống cổ<SEP>điểm biểu hiện lâm sàng": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cột sống cổ<SEP>điểm biểu hiện lâm sàng"
+  },
+  "cột sống cổ<SEP>dung tích sống": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "cột sống cổ<SEP>dung tích sống"
+  },
+  "corticoid<SEP>methylprednisolone": {
+    "chunk_ids": [
+      "09-cap-cuu-chan-thuong-cot-song-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793019047,
+    "update_time": 1793019047,
+    "_id": "corticoid<SEP>methylprednisolone"
+  },
+  "chấn thương ngực<SEP>tắc nghẽn đường thở": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>tắc nghẽn đường thở"
+  },
+  "chấn thương ngực<SEP>tràn khí màng phổi áp lực": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000",
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>tràn khí màng phổi áp lực"
+  },
+  "chấn thương ngực<SEP>tràn máu màng phổi lớn": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000",
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>tràn máu màng phổi lớn"
+  },
+  "chọc hút dẫn lưu khí màng phổi<SEP>tràn khí màng phổi áp lực": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chọc hút dẫn lưu khí màng phổi<SEP>tràn khí màng phổi áp lực"
+  },
+  "chấn thương ngực<SEP>vết thương ngực hở": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000",
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>vết thương ngực hở"
+  },
+  "chấn thương ngực<SEP>mảng sườn di động": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000",
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>mảng sườn di động"
+  },
+  "vật xuyên thấu<SEP>vết thương ngực hở": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "vật xuyên thấu<SEP>vết thương ngực hở"
+  },
+  "chấn thương ngực<SEP>ép tim cấp": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>ép tim cấp"
+  },
+  "bất động cột sống cổ<SEP>phát hiện tổn thương": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "bất động cột sống cổ<SEP>phát hiện tổn thương"
+  },
+  "tắc nghẽn đường thở<SEP>đường thở": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "tắc nghẽn đường thở<SEP>đường thở"
+  },
+  "chấn thương ngực<SEP>oxy liệu pháp": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>oxy liệu pháp"
+  },
+  "hỗ trợ hô hấp<SEP>tắc nghẽn đường thở": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "hỗ trợ hô hấp<SEP>tắc nghẽn đường thở"
+  },
+  "cấp cứu<SEP>kiểm soát chảy máu": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "cấp cứu<SEP>kiểm soát chảy máu"
+  },
+  "chấn thương ngực<SEP>chống sốc": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chấn thương ngực<SEP>chống sốc"
+  },
+  "hỗ trợ hô hấp<SEP>oxy liệu pháp": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "hỗ trợ hô hấp<SEP>oxy liệu pháp"
+  },
+  "sốc<SEP>đầu thấp chân cao": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "sốc<SEP>đầu thấp chân cao"
+  },
+  "chụp xq<SEP>thăm khám thì hai": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chụp xq<SEP>thăm khám thì hai"
+  },
+  "chèn ép tim cấp<SEP>chấn thương ngực": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chèn ép tim cấp<SEP>chấn thương ngực"
+  },
+  "siêu âm<SEP>thăm khám thì hai": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "siêu âm<SEP>thăm khám thì hai"
+  },
+  "cấp cứu<SEP>ngoại khoa": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "cấp cứu<SEP>ngoại khoa"
+  },
+  "hỗ trợ hô hấp<SEP>đường thở": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "hỗ trợ hô hấp<SEP>đường thở"
+  },
+  "ct<SEP>thăm khám thì hai": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "ct<SEP>thăm khám thì hai"
+  },
+  "hồi sức<SEP>ngoại khoa": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "hồi sức<SEP>ngoại khoa"
+  },
+  "thăm khám thì hai<SEP>xét nghiệm": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "thăm khám thì hai<SEP>xét nghiệm"
+  },
+  "chẩn đoán hình ảnh<SEP>ngoại khoa": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "chẩn đoán hình ảnh<SEP>ngoại khoa"
+  },
+  "tràn khí màng phổi<SEP>đụng dập tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "tràn khí màng phổi<SEP>đụng dập tim"
+  },
+  "men tim<SEP>đụng dập tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "men tim<SEP>đụng dập tim"
+  },
+  "dập vỡ động mạch chủ<SEP>xq ngực": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "dập vỡ động mạch chủ<SEP>xq ngực"
+  },
+  "ecg<SEP>đụng dập tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "ecg<SEP>đụng dập tim"
+  },
+  "ct ngực<SEP>dập vỡ động mạch chủ": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "ct ngực<SEP>dập vỡ động mạch chủ"
+  },
+  "suy hô hấp<SEP>vỡ cơ hoành": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "suy hô hấp<SEP>vỡ cơ hoành"
+  },
+  "siêu âm<SEP>đụng dập tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "siêu âm<SEP>đụng dập tim"
+  },
+  "dập vỡ động mạch chủ<SEP>men tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "dập vỡ động mạch chủ<SEP>men tim"
+  },
+  "catheter tmtt<SEP>sốc tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "catheter tmtt<SEP>sốc tim"
+  },
+  "abcde<SEP>đụng dập tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "abcde<SEP>đụng dập tim"
+  },
+  "siêu âm<SEP>vỡ cơ hoành": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "siêu âm<SEP>vỡ cơ hoành"
+  },
+  "dobutamin<SEP>sốc tim": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "dobutamin<SEP>sốc tim"
+  },
+  "abc<SEP>vỡ cơ hoành": {
+    "chunk_ids": [
+      "10-cap-cuu-chan-thuong-nguc-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793019575,
+    "update_time": 1793019575,
+    "_id": "abc<SEP>vỡ cơ hoành"
+  },
+  "chấn thương bụng<SEP>lách": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>lách"
+  },
+  "chấn thương bụng<SEP>gan": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>gan"
+  },
+  "chấn thương bụng<SEP>thận": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>thận"
+  },
+  "chấn thương bụng<SEP>ruột non": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>ruột non"
+  },
+  "bàng quang<SEP>chấn thương bụng": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "bàng quang<SEP>chấn thương bụng"
+  },
+  "chấn thương bụng<SEP>đại tràng": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>đại tràng"
+  },
+  "chấn thương bụng<SEP>tụy": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>tụy"
+  },
+  "phòi tạng ổ bụng ra ngoài<SEP>vết thương bụng hở": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "phòi tạng ổ bụng ra ngoài<SEP>vết thương bụng hở"
+  },
+  "chấn thương bụng<SEP>đau bụng": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>đau bụng"
+  },
+  "chấn thương xương chậu<SEP>gãy xương sườn 7-9": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương xương chậu<SEP>gãy xương sườn 7-9"
+  },
+  "chấn thương bụng<SEP>nôn ra máu": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>nôn ra máu"
+  },
+  "siêu âm ổ bụng cấp cứu<SEP>vết thương bụng hở": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "siêu âm ổ bụng cấp cứu<SEP>vết thương bụng hở"
+  },
+  "khoang gan thận<SEP>siêu âm chấn thương nhanh": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "khoang gan thận<SEP>siêu âm chấn thương nhanh"
+  },
+  "chấn thương bụng<SEP>viêm phúc mạc cấp": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>viêm phúc mạc cấp"
+  },
+  "khoang lách thận<SEP>siêu âm chấn thương nhanh": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "khoang lách thận<SEP>siêu âm chấn thương nhanh"
+  },
+  "chọc rửa thăm dò ổ bụng<SEP>vết thương bụng hở": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chọc rửa thăm dò ổ bụng<SEP>vết thương bụng hở"
+  },
+  "chấn thương bụng<SEP>sốc nhiễm khuẩn": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chấn thương bụng<SEP>sốc nhiễm khuẩn"
+  },
+  "chọc rửa thăm dò ổ bụng<SEP>khoang gan thận": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chọc rửa thăm dò ổ bụng<SEP>khoang gan thận"
+  },
+  "chọc rửa thăm dò ổ bụng<SEP>khoang lách thận": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chọc rửa thăm dò ổ bụng<SEP>khoang lách thận"
+  },
+  "băng ép cầm máu<SEP>bất động chi gãy": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "băng ép cầm máu<SEP>bất động chi gãy"
+  },
+  "hồi sức dịch<SEP>xử trí sốc": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "hồi sức dịch<SEP>xử trí sốc"
+  },
+  "bất động chi gãy<SEP>garo": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "bất động chi gãy<SEP>garo"
+  },
+  "hồi sức dịch<SEP>đặt hai đường truyền tĩnh mạch cỡ lớn": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "hồi sức dịch<SEP>đặt hai đường truyền tĩnh mạch cỡ lớn"
+  },
+  "dùng thuốc vận mạch<SEP>đặt đường truyền tm trung tâm": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "dùng thuốc vận mạch<SEP>đặt đường truyền tm trung tâm"
+  },
+  "hồi sức dịch<SEP>truyền dịch tinh thể": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "hồi sức dịch<SEP>truyền dịch tinh thể"
+  },
+  "theo dõi cvp<SEP>đặt đường truyền tĩnh mạch trung tâm": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "theo dõi cvp<SEP>đặt đường truyền tĩnh mạch trung tâm"
+  },
+  "dùng thuốc vận mạch<SEP>đầu thấp chân cao": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "dùng thuốc vận mạch<SEP>đầu thấp chân cao"
+  },
+  "chụp xq ngực<SEP>đồng tử": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chụp xq ngực<SEP>đồng tử"
+  },
+  "dịch cao phân tử<SEP>hồi sức dịch": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "dịch cao phân tử<SEP>hồi sức dịch"
+  },
+  "điểm glasgow<SEP>đồng tử": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "điểm glasgow<SEP>đồng tử"
+  },
+  "hồi sức dịch<SEP>máu và các chế phẩm máu": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "hồi sức dịch<SEP>máu và các chế phẩm máu"
+  },
+  "bất động chi gãy<SEP>ct ổ bụng": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "bất động chi gãy<SEP>ct ổ bụng"
+  },
+  "bộc lộ khám toàn thân<SEP>cởi bỏ quần áo bệnh nhân": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "bộc lộ khám toàn thân<SEP>cởi bỏ quần áo bệnh nhân"
+  },
+  "sử dụng kỹ thuật log-roll<SEP>đồng tử": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "sử dụng kỹ thuật log-roll<SEP>đồng tử"
+  },
+  "giảm đau<SEP>hỏi tiền sử, bệnh sử": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "giảm đau<SEP>hỏi tiền sử, bệnh sử"
+  },
+  "bất động chi gãy<SEP>chọc rửa thăm dò ổ bụng": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "bất động chi gãy<SEP>chọc rửa thăm dò ổ bụng"
+  },
+  "chụp xq ngực<SEP>đầu thấp chân cao": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "chụp xq ngực<SEP>đầu thấp chân cao"
+  },
+  "ct ổ bụng<SEP>đầu thấp chân cao": {
+    "chunk_ids": [
+      "11-cap-cuu-chan-thuong-bung-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793019879,
+    "update_time": 1793019879,
+    "_id": "ct ổ bụng<SEP>đầu thấp chân cao"
+  },
+  "tăng nhịp tim<SEP>đáp ứng bù trừ": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "tăng nhịp tim<SEP>đáp ứng bù trừ"
+  },
+  "co mạch<SEP>đáp ứng bù trừ": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "co mạch<SEP>đáp ứng bù trừ"
+  },
+  "tăng co bóp cơ tâm thất<SEP>đáp ứng bù trừ": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "tăng co bóp cơ tâm thất<SEP>đáp ứng bù trừ"
+  },
+  "mất máu<SEP>sốc": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>sốc"
+  },
+  "suy hô hấp<SEP>thở nhanh": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "suy hô hấp<SEP>thở nhanh"
+  },
+  "khát nước<SEP>mất máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "khát nước<SEP>mất máu"
+  },
+  "mất máu<SEP>đái ít": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>đái ít"
+  },
+  "mất máu<SEP>vô niệu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>vô niệu"
+  },
+  "hạ thân nhiệt<SEP>mất máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "hạ thân nhiệt<SEP>mất máu"
+  },
+  "gãy xương<SEP>mất máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "gãy xương<SEP>mất máu"
+  },
+  "mất máu<SEP>xét nghiệm công thức máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>xét nghiệm công thức máu"
+  },
+  "bicarbonate<SEP>mất máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "bicarbonate<SEP>mất máu"
+  },
+  "sốc<SEP>ép tim cấp": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "sốc<SEP>ép tim cấp"
+  },
+  "lactat máu<SEP>mất máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "lactat máu<SEP>mất máu"
+  },
+  "suy hô hấp<SEP>tràn khí màng phổi áp lực": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "suy hô hấp<SEP>tràn khí màng phổi áp lực"
+  },
+  "sốc<SEP>đụng dập phổi": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "sốc<SEP>đụng dập phổi"
+  },
+  "mất máu<SEP>siêu âm ổ bụng": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>siêu âm ổ bụng"
+  },
+  "nhồi máu cơ tim<SEP>sốc": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "nhồi máu cơ tim<SEP>sốc"
+  },
+  "suy hô hấp<SEP>tràn khí mạng phổi": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "suy hô hấp<SEP>tràn khí mạng phổi"
+  },
+  "mất máu<SEP>xquang": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>xquang"
+  },
+  "sốc<SEP>tắc mạch mỡ hoặc mạch hơi": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "sốc<SEP>tắc mạch mỡ hoặc mạch hơi"
+  },
+  "cắt lớp vi tính<SEP>mất máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "cắt lớp vi tính<SEP>mất máu"
+  },
+  "sốc<SEP>tĩnh mạch cổ nổi": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "sốc<SEP>tĩnh mạch cổ nổi"
+  },
+  "mất máu<SEP>tụt huyết áp": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "mất máu<SEP>tụt huyết áp"
+  },
+  "giảm tưới máu<SEP>sốc chấn thương": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "giảm tưới máu<SEP>sốc chấn thương"
+  },
+  "sốc<SEP>tiếng tim mờ": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "sốc<SEP>tiếng tim mờ"
+  },
+  "hồi phục thể tích lòng mạch<SEP>sốc chấn thương": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "hồi phục thể tích lòng mạch<SEP>sốc chấn thương"
+  },
+  "sốc chấn thương<SEP>thở oxy": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "sốc chấn thương<SEP>thở oxy"
+  },
+  "cầm máu<SEP>sốc chấn thương": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "cầm máu<SEP>sốc chấn thương"
+  },
+  "bù dịch<SEP>sốc chấn thương": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "bù dịch<SEP>sốc chấn thương"
+  },
+  "cầm máu<SEP>siêu âm đánh giá dịch ổ bụng": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "cầm máu<SEP>siêu âm đánh giá dịch ổ bụng"
+  },
+  "bù dịch<SEP>nacl 0,9%": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "bù dịch<SEP>nacl 0,9%"
+  },
+  "HATB<SEP>chấn thương sọ não": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "HATB<SEP>chấn thương sọ não"
+  },
+  "bù dịch<SEP>chế phẩm máu": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "bù dịch<SEP>chế phẩm máu"
+  },
+  "cryo<SEP>fibrinogen": {
+    "chunk_ids": [
+      "12-chan-doan-va-xu-tri-cap-cuu-ban-dau-soc-chan-thuong-o-nguoi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020178,
+    "update_time": 1793020178,
+    "_id": "cryo<SEP>fibrinogen"
+  },
+  "chấn thương xương<SEP>gãy xương": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>gãy xương"
+  },
+  "chấn thương mô mềm<SEP>chấn thương xương": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương mô mềm<SEP>chấn thương xương"
+  },
+  "chấn thương xương<SEP>xương sườn": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>xương sườn"
+  },
+  "chấn thương xương<SEP>xương quay hoặc trụ": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>xương quay hoặc trụ"
+  },
+  "chấn thương xương<SEP>xương cánh tay": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>xương cánh tay"
+  },
+  "chấn thương mô mềm<SEP>vết thương đứt rời": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương mô mềm<SEP>vết thương đứt rời"
+  },
+  "chấn thương xương<SEP>xương chày, mác": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>xương chày, mác"
+  },
+  "chấn thương mô mềm<SEP>hội chứng chèn ép khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương mô mềm<SEP>hội chứng chèn ép khoang"
+  },
+  "chấn thương xương<SEP>xương đùi": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>xương đùi"
+  },
+  "chấn thương xương<SEP>xương chậu": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>xương chậu"
+  },
+  "chấn thương xương<SEP>chấn thương xương chậu": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chấn thương xương<SEP>chấn thương xương chậu"
+  },
+  "gai chậu trước trên<SEP>một tấm vải": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "gai chậu trước trên<SEP>một tấm vải"
+  },
+  "chèn ép khoang<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chèn ép khoang<SEP>hội chứng khoang"
+  },
+  "gai chậu trước trên<SEP>xương mu": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "gai chậu trước trên<SEP>xương mu"
+  },
+  "băng<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "băng<SEP>hội chứng khoang"
+  },
+  "hội chứng khoang<SEP>nẹp": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "hội chứng khoang<SEP>nẹp"
+  },
+  "bó bột<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "bó bột<SEP>hội chứng khoang"
+  },
+  "chảy máu trong khoang<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chảy máu trong khoang<SEP>hội chứng khoang"
+  },
+  "bỏng<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "bỏng<SEP>hội chứng khoang"
+  },
+  "hội chứng khoang<SEP>viêm sưng tấy các bó cơ": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "hội chứng khoang<SEP>viêm sưng tấy các bó cơ"
+  },
+  "hội chứng khoang<SEP>tổn thương phối hợp gãy xương": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "hội chứng khoang<SEP>tổn thương phối hợp gãy xương"
+  },
+  "hội chứng khoang<SEP>tháo hoặc nới băng": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "hội chứng khoang<SEP>tháo hoặc nới băng"
+  },
+  "abcde<SEP>hội chứng chèn ép khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "abcde<SEP>hội chứng chèn ép khoang"
+  },
+  "giữ chi ở ngang mức tim<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "giữ chi ở ngang mức tim<SEP>hội chứng khoang"
+  },
+  "chẩn đoán sớm hội chứng khoang<SEP>hội chứng chèn ép khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020612,
+    "update_time": 1793020612,
+    "_id": "chẩn đoán sớm hội chứng khoang<SEP>hội chứng chèn ép khoang"
+  },
+  "hội chứng chèn ép khoang<SEP>tháo hoặc nới băng": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "hội chứng chèn ép khoang<SEP>tháo hoặc nới băng"
+  },
+  "hội chứng khoang<SEP>kháng sinh dự phòng": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "hội chứng khoang<SEP>kháng sinh dự phòng"
+  },
+  "giữ chi ở ngang mức tim<SEP>hội chứng chèn ép khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "giữ chi ở ngang mức tim<SEP>hội chứng chèn ép khoang"
+  },
+  "kháng sinh dự phòng<SEP>trật khớp": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "kháng sinh dự phòng<SEP>trật khớp"
+  },
+  "giảm đau<SEP>hội chứng khoang": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "giảm đau<SEP>hội chứng khoang"
+  },
+  "trật khớp<SEP>xét nghiệm": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "trật khớp<SEP>xét nghiệm"
+  },
+  "vết thương đứt rời hoàn toàn<SEP>vết thương đứt rời không hoàn toàn": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "vết thương đứt rời hoàn toàn<SEP>vết thương đứt rời không hoàn toàn"
+  },
+  "hội chẩn chuyên khoa ngoại<SEP>trật khớp": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "hội chẩn chuyên khoa ngoại<SEP>trật khớp"
+  },
+  "vết thương đứt rời không hoàn toàn<SEP>xét nghiệm": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "vết thương đứt rời không hoàn toàn<SEP>xét nghiệm"
+  },
+  "kháng sinh dự phòng<SEP>vết thương đứt rời hoàn toàn": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "kháng sinh dự phòng<SEP>vết thương đứt rời hoàn toàn"
+  },
+  "giảm đau<SEP>trật khớp": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "giảm đau<SEP>trật khớp"
+  },
+  "cầm máu<SEP>vết thương đứt rời không hoàn toàn": {
+    "chunk_ids": [
+      "13-cap-cuu-chan-thuong-xuong-mo-mem-va-chi-the-dut-roi-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793020613,
+    "update_time": 1793020613,
+    "_id": "cầm máu<SEP>vết thương đứt rời không hoàn toàn"
+  },
+  "đầu 9%<SEP>độ 1": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "đầu 9%<SEP>độ 1"
+  },
+  "chi trên 9%<SEP>độ 1": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "chi trên 9%<SEP>độ 1"
+  },
+  "độ 2a<SEP>độ 2b": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "độ 2a<SEP>độ 2b"
+  },
+  "chi dưới 18%<SEP>độ 1": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "chi dưới 18%<SEP>độ 1"
+  },
+  "độ 2b<SEP>độ 3": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "độ 2b<SEP>độ 3"
+  },
+  "bỏng hóa chất<SEP>bỏng điện": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bỏng hóa chất<SEP>bỏng điện"
+  },
+  "bộ phận sinh dục ngoài 1%<SEP>độ 1": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bộ phận sinh dục ngoài 1%<SEP>độ 1"
+  },
+  "natri clorua 0,9%<SEP>đặt đường truyền tĩnh mạch": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "natri clorua 0,9%<SEP>đặt đường truyền tĩnh mạch"
+  },
+  "suy hô hấp<SEP>đặt ống nội khí quản": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "suy hô hấp<SEP>đặt ống nội khí quản"
+  },
+  "rối loạn ý thức<SEP>thông khí nhân tạo": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "rối loạn ý thức<SEP>thông khí nhân tạo"
+  },
+  "nước tiểu<SEP>theo dõi mạch": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "nước tiểu<SEP>theo dõi mạch"
+  },
+  "băng vô khuẩn<SEP>bỏng": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "băng vô khuẩn<SEP>bỏng"
+  },
+  "bỏng hóa chất<SEP>điện giật": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bỏng hóa chất<SEP>điện giật"
+  },
+  "bỏng hóa chất<SEP>sét đánh": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bỏng hóa chất<SEP>sét đánh"
+  },
+  "mắt<SEP>rửa bằng nước sạch": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "mắt<SEP>rửa bằng nước sạch"
+  },
+  "bỏng<SEP>xử trí như vết thương chảy máu": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bỏng<SEP>xử trí như vết thương chảy máu"
+  },
+  "bỏng hóa chất<SEP>tháo bỏ quần áo": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bỏng hóa chất<SEP>tháo bỏ quần áo"
+  },
+  "bỏng hóa chất<SEP>suy hô hấp cấp": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793020888,
+    "update_time": 1793020888,
+    "_id": "bỏng hóa chất<SEP>suy hô hấp cấp"
+  },
+  "co giật<SEP>nguyên nhân ngộ độc": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "co giật<SEP>nguyên nhân ngộ độc"
+  },
+  "co giật<SEP>gardenal": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "co giật<SEP>gardenal"
+  },
+  "glucose 10%<SEP>hôn mê": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "glucose 10%<SEP>hôn mê"
+  },
+  "hỏi bệnh<SEP>nguyên nhân ngộ độc": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hỏi bệnh<SEP>nguyên nhân ngộ độc"
+  },
+  "hôn mê<SEP>naloxol": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hôn mê<SEP>naloxol"
+  },
+  "hội chứng thần kinh giao cảm<SEP>mạch nhanh": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh giao cảm<SEP>mạch nhanh"
+  },
+  "hôn mê<SEP>vitamin b1": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hôn mê<SEP>vitamin b1"
+  },
+  "nguyên nhân ngộ độc<SEP>độc chất": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "nguyên nhân ngộ độc<SEP>độc chất"
+  },
+  "huyết áp tăng<SEP>hội chứng thần kinh giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "huyết áp tăng<SEP>hội chứng thần kinh giao cảm"
+  },
+  "hội chứng thần kinh giao cảm<SEP>thở nhanh": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh giao cảm<SEP>thở nhanh"
+  },
+  "hội chứng thần kinh giao cảm<SEP>nhiệt độ tăng": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh giao cảm<SEP>nhiệt độ tăng"
+  },
+  "hội chứng thần kinh giao cảm<SEP>đồng tử dãn": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh giao cảm<SEP>đồng tử dãn"
+  },
+  "suy giảm ý thức<SEP>tổn thương cấu trúc": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "suy giảm ý thức<SEP>tổn thương cấu trúc"
+  },
+  "da ướt<SEP>hội chứng thần kinh giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "da ướt<SEP>hội chứng thần kinh giao cảm"
+  },
+  "hội chứng thần kinh giao cảm<SEP>niêm mạc khô": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh giao cảm<SEP>niêm mạc khô"
+  },
+  "hội chứng thần kinh giao cảm<SEP>kích thích vật vã": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh giao cảm<SEP>kích thích vật vã"
+  },
+  "barbiturates<SEP>hội chứng thần kinh phó giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "barbiturates<SEP>hội chứng thần kinh phó giao cảm"
+  },
+  "hoang tưởng<SEP>hội chứng thần kinh giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hoang tưởng<SEP>hội chứng thần kinh giao cảm"
+  },
+  "benzodiazepin<SEP>hội chứng thần kinh phó giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "benzodiazepin<SEP>hội chứng thần kinh phó giao cảm"
+  },
+  "amphetamine<SEP>hội chứng thần kinh giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "amphetamine<SEP>hội chứng thần kinh giao cảm"
+  },
+  "clonidine<SEP>hội chứng thần kinh phó giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "clonidine<SEP>hội chứng thần kinh phó giao cảm"
+  },
+  "cocaine<SEP>hội chứng thần kinh giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "cocaine<SEP>hội chứng thần kinh giao cảm"
+  },
+  "ethanol<SEP>hội chứng thần kinh phó giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "ethanol<SEP>hội chứng thần kinh phó giao cảm"
+  },
+  "hội chứng cholinergic<SEP>phencyclidine": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng cholinergic<SEP>phencyclidine"
+  },
+  "atropine<SEP>hội chứng anticholinergic": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "atropine<SEP>hội chứng anticholinergic"
+  },
+  "ephedrine<SEP>hội chứng thần kinh giao cảm": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "ephedrine<SEP>hội chứng thần kinh giao cảm"
+  },
+  "hội chứng thần kinh phó giao cảm<SEP>opioids": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hội chứng thần kinh phó giao cảm<SEP>opioids"
+  },
+  "co giật<SEP>mono sodium trifluoroactate": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "co giật<SEP>mono sodium trifluoroactate"
+  },
+  "co giật<SEP>trifluoroacetamide": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "co giật<SEP>trifluoroacetamide"
+  },
+  "hạ huyết áp<SEP>theophylline": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "hạ huyết áp<SEP>theophylline"
+  },
+  "beta-blocker<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "beta-blocker<SEP>rối loạn nhịp tim"
+  },
+  "co giật<SEP>phenothiazines": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "co giật<SEP>phenothiazines"
+  },
+  "barbiturates<SEP>hạ huyết áp": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "barbiturates<SEP>hạ huyết áp"
+  },
+  "co giật<SEP>theophylline": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "co giật<SEP>theophylline"
+  },
+  "digitalis glycosides<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "digitalis glycosides<SEP>rối loạn nhịp tim"
+  },
+  "opioids<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "opioids<SEP>rối loạn nhịp tim"
+  },
+  "clonidin<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "clonidin<SEP>rối loạn nhịp tim"
+  },
+  "beta-blocker<SEP>digitalis": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "beta-blocker<SEP>digitalis"
+  },
+  "rối loạn nhịp tim<SEP>sedative-hyporotics": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "rối loạn nhịp tim<SEP>sedative-hyporotics"
+  },
+  "rối loạn nhịp tim<SEP>tricyclic antidepressants": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "rối loạn nhịp tim<SEP>tricyclic antidepressants"
+  },
+  "lithium<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "lithium<SEP>rối loạn nhịp tim"
+  },
+  "lidocaine<SEP>rối loạn nhịp tim": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "lidocaine<SEP>rối loạn nhịp tim"
+  },
+  "sorbitol<SEP>than hoạt": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "sorbitol<SEP>than hoạt"
+  },
+  "rối loạn nhịp tim<SEP>xylocaine": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "rối loạn nhịp tim<SEP>xylocaine"
+  },
+  "sorbitol<SEP>uống than hoạt": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "sorbitol<SEP>uống than hoạt"
+  },
+  "antipois<SEP>uống than hoạt": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "antipois<SEP>uống than hoạt"
+  },
+  "rửa dạ dày<SEP>uống than hoạt": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "rửa dạ dày<SEP>uống than hoạt"
+  },
+  "rửa dạ dày<SEP>tricyclic": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "rửa dạ dày<SEP>tricyclic"
+  },
+  "phenobarbital<SEP>rửa dạ dày": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "phenobarbital<SEP>rửa dạ dày"
+  },
+  "n acetylcystein<SEP>paracetamol": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "n acetylcystein<SEP>paracetamol"
+  },
+  "chì<SEP>d penicilamin": {
+    "chunk_ids": [
+      "15-nguyen-tac-chan-doan-xu-tri-ngo-doc-cap-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1793021410,
+    "update_time": 1793021410,
+    "_id": "chì<SEP>d penicilamin"
+  },
+  "chấn thương sọ não<SEP>nằm ngửa, đầu cao 10-30 độ": {
+    "chunk_ids": [
+      "16-van-chuyen-benh-nhan-cap-cuu-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1793021900,
+    "update_time": 1793021900,
+    "_id": "chấn thương sọ não<SEP>nằm ngửa, đầu cao 10-30 độ"
+  },
+  "nằm nghiêng an toàn<SEP>rối loạn ý thức": {
+    "chunk_ids": [
+      "16-van-chuyen-benh-nhan-cap-cuu-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1793021900,
+    "update_time": 1793021900,
+    "_id": "nằm nghiêng an toàn<SEP>rối loạn ý thức"
+  },
+  "cầm máu<SEP>gãy xương và trật khớp": {
+    "chunk_ids": [
+      "16-van-chuyen-benh-nhan-cap-cuu-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1793021900,
+    "update_time": 1793021900,
+    "_id": "cầm máu<SEP>gãy xương và trật khớp"
+  },
+  "ha<SEP>theo dõi mạch": {
+    "chunk_ids": [
+      "14-xu-tri-cap-cuu-benh-nhan-bong-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1793022026,
+    "update_time": 1793022026,
+    "_id": "ha<SEP>theo dõi mạch"
+  }
+}

@@ -1,31 +1,19 @@
 """data/md/<doc>/*.md -> LightRAG working dir, 1 bài = 1 doc. Chạy lại = resume, bài xong không gọi lại LLM."""
-import argparse, asyncio, json, logging, pathlib, re, unicodedata
+import argparse, asyncio, difflib, json, logging, pathlib, re, unicodedata
 import yaml
 from lightrag import LightRAG
 from lightrag.base import DocStatus
-from lightrag.constants import GRAPH_FIELD_SEP
 from lightrag.llm.ollama import ollama_embed, ollama_model_complete
 from lightrag.utils import normalize_entity_name
-from lightrag.utils_graph import adelete_by_entity
 
 
 CFG = yaml.safe_load(pathlib.Path(__file__).with_suffix(".yml").read_text(encoding="utf-8"))
-
-
-def build(kg, llm):
-    return LightRAG(
-        working_dir=kg,
-        llm_model_func=ollama_model_complete,
-        llm_model_name=llm,
-        embedding_func=ollama_embed,  # bge-m3:latest, 1024 chiều
-        **CFG,
-    )
-
-
 GUIDE = yaml.safe_load(open("prompts/entity_type/" + CFG["addon_params"]["entity_type_prompt_file"], encoding="utf-8"))["entity_types_guidance"]
 TYPES = set(re.findall(r"^- `(\w+)`:", GUIDE, re.M)) | {"khac"}
 UNIT = re.compile(r"^[\d\s,.<>≥≤\-–/%]+(giờ|phút|giây|ngày|ml|lít|l|mmhg|tuổi|điểm|%|kg|mg|g|cm|mm)?$", re.I)  # "1 giờ", "95%"
 OBJ = re.compile(r"^\d+(\.\d+)+\.?\s|^\d+\.\s")  # "1. Trình bày", "3.6. Đụng dập"; không bắt "5 bước ABCDE"
+EDGE = re.compile(r"^[^\w%]+|[^\w%]+$")  # bỏ dấu câu/gạch đầu dòng ở 2 đầu cửa sổ
+FENCE = re.compile(r"---Input Text---\n```\n(.*)\n```\n\n---Output---", re.S)  # user prompt của LightRAG 1.5.7
 
 
 def squash(s):
@@ -36,21 +24,23 @@ def ascii_(s):  # NFD không tách "đ"; LLM hay bỏ gạch dưới
     return "".join(c for c in unicodedata.normalize("NFD", s) if not unicodedata.combining(c)).replace("đ", "d").replace("_", "")
 
 
-def bad_name(name):  # unknown: fix_type đã ép -> khac
+def bad_name(name):
     return (len(squash(name)) < 2 or len(name) > 60 or len(name.split()) > 8
             or OBJ.match(name) or UNIT.match(name))
 
 
-def repair(name, chunks):  # "khai_thong_duong_tho" -> "khai thông đường thở" nếu có nguyên văn trong chunk nguồn
+def repair(name, chunk):  # "khai_thong_duong_tho" / "cap_cu" -> "khai thông đường thở" / "cấp cứu": cửa sổ n, n+1 từ trong chunk, so bỏ dấu, mờ ≥ 0.9
     words = name.replace("_", " ").split()
     k = ascii_(squash(" ".join(words)))
-    for c in chunks:
-        toks = c.split()
-        for i in range(len(toks) - len(words) + 1):
-            w = " ".join(toks[i:i + len(words)]).strip(",.;:()*\"|[]#")
-            if ascii_(squash(w)) == k:
-                return normalize_entity_name(w.lower())
-    return None
+    toks = chunk.split()
+    best, score = None, 0.9
+    for n in (len(words), len(words) + 1):
+        for i in range(len(toks) - n + 1):
+            w = EDGE.sub("", " ".join(toks[i:i + n]))
+            r = difflib.SequenceMatcher(None, ascii_(squash(w)), k).ratio()
+            if r > score:
+                best, score = w, r
+    return normalize_entity_name(best.lower()) if best else None
 
 
 def fix_type(t):
@@ -60,62 +50,65 @@ def fix_type(t):
     return next((x for x in TYPES if ascii_(t) == ascii_(x)), "khac")
 
 
-async def prune(rag, kg):
-    """Hậu kỳ 3 bước, chỉ dùng API public, idempotent: xoá rác/sửa tên snake_case -> ép type -> gộp hoa thường.
-    Thay kg_extraction_validator (mới có ở LightRAG 1.5.8); lên 1.5.8 thì chuyển sang hook đó."""
-    g = rag.chunk_entity_relation_graph
+def ground(prompt, res):
+    """Sửa output LLM theo nguyên văn chunk TRƯỚC khi LightRAG merge (thay prune hậu kỳ: xoá sau merge làm đứt cạnh, đầu kia bậc 0).
+    Tên: viết thường, có trong chunk (khớp thẳng hoặc sửa snake_case/thiếu dấu), không thì bỏ. Type ép về mã. Endpoint quan hệ sửa cùng cách, có thì thêm entity.
+    LightRAG 1.5.8 có kg_extraction_validator làm đúng việc này; lên 1.5.8 thì chuyển."""
+    m = FENCE.search(prompt)
+    try:
+        j = json.loads(res[res.find("{"):res.rfind("}") + 1])
+    except ValueError:
+        return res
+    if not m or not isinstance(j, dict):
+        return res
+    chunk = m.group(1)
+    text = squash(chunk)
 
-    async def drop(name):  # bản public bỏ sót entity_chunks/relation_chunks, để lại chunk id cũ cho lần merge sau
-        await adelete_by_entity(g, rag.entities_vdb, rag.relationships_vdb, name, rag.entity_chunks, rag.relation_chunks)
-
-    nodes = await g.get_all_nodes()
-    src = {n["id"]: [c for c in n.get("source_id", "").split(GRAPH_FIELD_SEP) if c] for n in nodes}
-    ids = sorted({c for cs in src.values() for c in cs})
-    raw = {i: c["content"] for i, c in zip(ids, await rag.text_chunks.get_by_ids(ids)) if c}
-    text = {i: squash(c) for i, c in raw.items()}
-    bad, ren = [], []
-    for n in nodes:
-        name = n["id"]
+    def fix(name):
+        name = normalize_entity_name(str(name)).lower()
         if bad_name(name):
-            bad.append(name); continue
-        if any(squash(name) in text.get(c, "") for c in src[name]):
+            return None
+        if squash(name) in text:
+            return name
+        new = repair(name, chunk)
+        return None if new is None or bad_name(new) else new
+
+    ents, dropped = {}, []
+    for e in j.get("entities", []):
+        if not isinstance(e, dict):
             continue
-        new = repair(name, [raw[c] for c in src[name] if c in raw])
-        if not new or bad_name(new):
-            bad.append(name); continue
-        ren.append((name, new))
-    for name in bad:  # xoá trước, kẻo đích rename bị xoá sau khi gộp
-        await drop(name)
-    for name, new in ren:
-        await rag.aedit_entity(name, {"entity_name": new}, allow_rename=True, allow_merge=True)  # trùng khác hoa thường: bước 3 gộp
-    fixed = [f"{new} <- {name}" for name, new in ren]
-    logging.info("prune 1 xoá %d sửa tên %d / %d, vd %s", len(bad), len(fixed), len(nodes), fixed[:10])
-
-    keep = await g.get_all_nodes()  # tên đã đổi/gộp
-    retyped = 0
-    for n in keep:
-        new = fix_type(n.get("entity_type", ""))
-        if new != n.get("entity_type", ""):
-            await rag.aedit_entity(n["id"], {"entity_type": new}, allow_rename=False)
-            retyped += 1
-    logging.info("prune 2 ép type: %d", retyped)
-
-    groups = {}
-    for n in keep:
-        groups.setdefault(squash(n["id"]), []).append(n["id"])
-    merged = []
-    for grp in groups.values():
-        if len(grp) < 2:
+        n = fix(e.get("name", ""))
+        if n is None:
+            dropped.append(e.get("name"))
+        elif n not in ents:
+            ents[n] = {**e, "name": n, "type": fix_type(str(e.get("type", "")))}
+    rels = []
+    for r in j.get("relationships", []):
+        if not isinstance(r, dict):
             continue
-        target = min(grp, key=lambda x: (x != x.lower(), x))
-        srcs = [x for x in grp if x != target]
-        await rag.amerge_entities(srcs, target)
-        merged += [f"{target} <- {x}" for x in srcs]
-    logging.info("prune 3 gộp: %d, vd %s", len(merged), merged[:20])
+        s, t = fix(r.get("source", "")), fix(r.get("target", ""))
+        if not s or not t or s == t:
+            continue
+        for n in (s, t):
+            ents.setdefault(n, {"name": n, "type": "khac", "description": r.get("description", "")})
+        rels.append({**r, "source": s, "target": t})
+    logging.info("ground: giữ %d ent %d rel, bỏ %d vd %s", len(ents), len(rels), len(dropped), dropped[:5])
+    return json.dumps({"entities": list(ents.values()), "relationships": rels}, ensure_ascii=False)
 
-    log = pathlib.Path(kg, "pruned.json")
-    old = json.loads(log.read_text(encoding="utf-8")) if log.exists() else []
-    log.write_text(json.dumps(sorted({*old, *bad, *fixed, *merged}), ensure_ascii=False, indent=0), encoding="utf-8")
+
+async def llm(prompt, system_prompt=None, history_messages=[], **kw):
+    res = await ollama_model_complete(prompt, system_prompt=system_prompt, history_messages=history_messages, **kw)
+    return ground(prompt, res) if "---Input Text---" in prompt else res  # cache LightRAG lưu bản đã sửa
+
+
+def build(kg, llm_name):
+    return LightRAG(
+        working_dir=kg,
+        llm_model_func=llm,
+        llm_model_name=llm_name,
+        embedding_func=ollama_embed,  # bge-m3:latest, 1024 chiều
+        **CFG,
+    )
 
 
 async def main(a):
@@ -138,7 +131,6 @@ async def main(a):
                                   file_paths=f"{pathlib.Path(a.md).name}/{p.name}")
                 logging.info("done %s", p.name)
         await rag.apipeline_process_enqueue_documents()  # resume bài dở (pending/processing)
-        await prune(rag, a.kg)
     finally:
         await rag.finalize_storages()
 
